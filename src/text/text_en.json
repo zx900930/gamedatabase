@@ -236,7 +236,7 @@
     "sk_efa07_de": "{{variable}} chance each to grant increased Attack (Greater) and Critical Hit Chance to the caster for 1 turn at the start of the turn.",
     "efa08_name": "Violet Talisman",
     "efa08_desc": "As long as you believe in victory, the light of hope shall never fade. Remember that, my son. Our family's legacy now rests on your shoulders.\\n- Violet's Father",
-    "sk_efa08_de": "Increases Attack by\u00a0{{variable}} and Evasion by {{variable}} at the start of every turn. Each effect can stack up to 3 times, and resets at the start of battle.",
+    "sk_efa08_de": "Increases Attack by {{variable}} and Evasion by {{variable}} at the start of every turn. Each effect can stack up to 3 times, and resets at the start of battle.",
     "sk_efa09_de": "{{variable}} chance to inflict bleed for 2 turns after a single attack.",
     "efa09_name": "Torn Sleeve",
     "efa09_desc": "A torn sleeve out of which various weapons appear as though they are prosthetic limbs. She never has explained how she manages to fit so many things up there.",
