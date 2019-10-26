@@ -1,7 +1,0 @@
-{
-    "name": "Flag",
-    "type": "currency",
-    "rarity": 1,
-    "description": "Only those who have this Flag can enter the Arena.",
-    "locations": []
-}
