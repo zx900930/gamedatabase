@@ -1,0 +1,55 @@
+{
+    "identifier": "ef104",
+    "name": "ef104_name",
+    "rarity": 1,
+    "role": "",
+    "limited": false,
+    "description": "ef104_desc",
+    "assets": {
+        "icon": "icon_art0010",
+        "image": "art0010_fu",
+        "thumbnail": "art0010_l"
+    },
+    "stats": {
+        "attack": 15,
+        "health": 6
+    },
+    "skill": {
+        "description": "sk_ef104_de",
+        "enhancements": [
+            [
+                0.02
+            ],
+            [
+                0.022
+            ],
+            [
+                0.024
+            ],
+            [
+                0.026
+            ],
+            [
+                0.028
+            ],
+            [
+                0.03
+            ],
+            [
+                0.032
+            ],
+            [
+                0.034
+            ],
+            [
+                0.036
+            ],
+            [
+                0.038
+            ],
+            [
+                0.04
+            ]
+        ]
+    }
+}

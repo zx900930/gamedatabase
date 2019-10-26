@@ -1,0 +1,55 @@
+{
+    "identifier": "ef401",
+    "name": "ef401_name",
+    "rarity": 4,
+    "role": "",
+    "limited": true,
+    "description": "ef401_desc",
+    "assets": {
+        "icon": "icon_art0035",
+        "image": "art0035_fu",
+        "thumbnail": "art0035_l"
+    },
+    "stats": {
+        "attack": 13,
+        "health": 48
+    },
+    "skill": {
+        "description": "sk_ef401_de",
+        "enhancements": [
+            [
+                0.025
+            ],
+            [
+                0.028
+            ],
+            [
+                0.03
+            ],
+            [
+                0.033
+            ],
+            [
+                0.035
+            ],
+            [
+                0.038
+            ],
+            [
+                0.04
+            ],
+            [
+                0.043
+            ],
+            [
+                0.045
+            ],
+            [
+                0.048
+            ],
+            [
+                0.05
+            ]
+        ]
+    }
+}

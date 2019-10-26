@@ -1,0 +1,55 @@
+{
+    "identifier": "efk04",
+    "name": "efk04_name",
+    "rarity": 4,
+    "role": "knight",
+    "limited": false,
+    "description": "efk04_desc",
+    "assets": {
+        "icon": "icon_art5_3",
+        "image": "art5_3_fu",
+        "thumbnail": "art5_3_l"
+    },
+    "stats": {
+        "attack": 8,
+        "health": 67
+    },
+    "skill": {
+        "description": "sk_efk04_de",
+        "enhancements": [
+            [
+                0.08
+            ],
+            [
+                0.088
+            ],
+            [
+                0.096
+            ],
+            [
+                0.104
+            ],
+            [
+                0.112
+            ],
+            [
+                0.12
+            ],
+            [
+                0.128
+            ],
+            [
+                0.136
+            ],
+            [
+                0.144
+            ],
+            [
+                0.152
+            ],
+            [
+                0.16
+            ]
+        ]
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "identifier": "efh02",
+    "name": "efh02_name",
+    "rarity": 5,
+    "role": "manauser",
+    "limited": false,
+    "description": "efh02_desc",
+    "assets": {
+        "icon": "icon_art5_4",
+        "image": "art5_4_fu",
+        "thumbnail": "art5_4_l"
+    },
+    "stats": {
+        "attack": 15,
+        "health": 54
+    },
+    "skill": {
+        "description": "sk_efh02_de",
+        "enhancements": [
+            [
+                0.2
+            ],
+            [
+                0.22
+            ],
+            [
+                0.24
+            ],
+            [
+                0.26
+            ],
+            [
+                0.28
+            ],
+            [
+                0.3
+            ],
+            [
+                0.32
+            ],
+            [
+                0.34
+            ],
+            [
+                0.36
+            ],
+            [
+                0.38
+            ],
+            [
+                0.4
+            ]
+        ]
+    }
+}

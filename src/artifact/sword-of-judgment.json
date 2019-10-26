@@ -1,0 +1,55 @@
+{
+    "identifier": "efr09",
+    "name": "efr09_name",
+    "rarity": 5,
+    "role": "ranger",
+    "limited": false,
+    "description": "efr09_desc",
+    "assets": {
+        "icon": "icon_art0041",
+        "image": "art0041_fu",
+        "thumbnail": "art0041_l"
+    },
+    "stats": {
+        "attack": 21,
+        "health": 32
+    },
+    "skill": {
+        "description": "sk_efr09_de",
+        "enhancements": [
+            [
+                0.1
+            ],
+            [
+                0.11
+            ],
+            [
+                0.12
+            ],
+            [
+                0.13
+            ],
+            [
+                0.14
+            ],
+            [
+                0.15
+            ],
+            [
+                0.16
+            ],
+            [
+                0.17
+            ],
+            [
+                0.18
+            ],
+            [
+                0.19
+            ],
+            [
+                0.2
+            ]
+        ]
+    }
+}

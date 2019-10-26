@@ -1,0 +1,55 @@
+{
+    "identifier": "ef303",
+    "name": "ef303_name",
+    "rarity": 3,
+    "role": "",
+    "limited": false,
+    "description": "ef303_desc",
+    "assets": {
+        "icon": "icon_art3_3",
+        "image": "art3_3_fu",
+        "thumbnail": "art3_3_l"
+    },
+    "stats": {
+        "attack": 16,
+        "health": 24
+    },
+    "skill": {
+        "description": "sk_ef303_de",
+        "enhancements": [
+            [
+                0.2
+            ],
+            [
+                0.22
+            ],
+            [
+                0.24
+            ],
+            [
+                0.26
+            ],
+            [
+                0.28
+            ],
+            [
+                0.3
+            ],
+            [
+                0.32
+            ],
+            [
+                0.34
+            ],
+            [
+                0.36
+            ],
+            [
+                0.38
+            ],
+            [
+                0.4
+            ]
+        ]
+    }
+}

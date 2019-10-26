@@ -1,0 +1,55 @@
+{
+    "identifier": "ef304",
+    "name": "ef304_name",
+    "rarity": 3,
+    "role": "",
+    "limited": false,
+    "description": "ef304_desc",
+    "assets": {
+        "icon": "icon_art3_4",
+        "image": "art3_4_fu",
+        "thumbnail": "art3_4_l"
+    },
+    "stats": {
+        "attack": 16,
+        "health": 24
+    },
+    "skill": {
+        "description": "sk_ef304_de",
+        "enhancements": [
+            [
+                0.08
+            ],
+            [
+                0.08800000000000001
+            ],
+            [
+                0.096
+            ],
+            [
+                0.10400000000000001
+            ],
+            [
+                0.11199999999999999
+            ],
+            [
+                0.12
+            ],
+            [
+                0.128
+            ],
+            [
+                0.136
+            ],
+            [
+                0.14400000000000002
+            ],
+            [
+                0.152
+            ],
+            [
+                0.16
+            ]
+        ]
+    }
+}

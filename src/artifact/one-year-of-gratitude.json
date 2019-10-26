@@ -1,0 +1,33 @@
+{
+    "identifier": "ef405",
+    "name": "ef405_name",
+    "rarity": 4,
+    "role": "",
+    "limited": true,
+    "description": "ef405_desc",
+    "assets": {
+        "icon": "icon_art0064",
+        "image": "art0064_fu",
+        "thumbnail": "art0064_l"
+    },
+    "stats": {
+        "attack": 13,
+        "health": 48
+    },
+    "skill": {
+        "description": "sk_ef405_de",
+        "enhancements": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ]
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "identifier": "ef407",
+    "name": "ef407_name",
+    "rarity": 4,
+    "role": "",
+    "limited": true,
+    "description": "ef407_desc",
+    "assets": {
+        "icon": "icon_art0068",
+        "image": "art0068_fu",
+        "thumbnail": "art0068_l"
+    },
+    "stats": {
+        "attack": 13,
+        "health": 48
+    },
+    "skill": {
+        "description": "sk_ef407_de",
+        "enhancements": [
+            [
+                0.025
+            ],
+            [
+                0.028
+            ],
+            [
+                0.03
+            ],
+            [
+                0.033
+            ],
+            [
+                0.035
+            ],
+            [
+                0.038
+            ],
+            [
+                0.04
+            ],
+            [
+                0.043
+            ],
+            [
+                0.045
+            ],
+            [
+                0.048
+            ],
+            [
+                0.05
+            ]
+        ]
+    }
+}

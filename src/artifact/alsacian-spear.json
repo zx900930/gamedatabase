@@ -1,0 +1,55 @@
+{
+    "identifier": "ef307",
+    "name": "ef307_name",
+    "rarity": 3,
+    "role": "",
+    "limited": false,
+    "description": "ef307_desc",
+    "assets": {
+        "icon": "icon_art3_7",
+        "image": "art3_7_fu",
+        "thumbnail": "art3_7_l"
+    },
+    "stats": {
+        "attack": 5,
+        "health": 65
+    },
+    "skill": {
+        "description": "sk_ef307_de",
+        "enhancements": [
+            [
+                0.025
+            ],
+            [
+                0.028
+            ],
+            [
+                0.03
+            ],
+            [
+                0.033
+            ],
+            [
+                0.035
+            ],
+            [
+                0.038
+            ],
+            [
+                0.04
+            ],
+            [
+                0.043
+            ],
+            [
+                0.045
+            ],
+            [
+                0.048
+            ],
+            [
+                0.05
+            ]
+        ]
+    }
+}

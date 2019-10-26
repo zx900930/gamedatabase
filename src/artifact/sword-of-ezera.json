@@ -1,0 +1,55 @@
+{
+    "identifier": "efk08",
+    "name": "efk08_name",
+    "rarity": 5,
+    "role": "knight",
+    "limited": true,
+    "description": "efk08_desc",
+    "assets": {
+        "icon": "icon_art0046",
+        "image": "art0046_fu",
+        "thumbnail": "art0046_l"
+    },
+    "stats": {
+        "attack": 9,
+        "health": 76
+    },
+    "skill": {
+        "description": "sk_efk08_de",
+        "enhancements": [
+            [
+                0.15
+            ],
+            [
+                0.16
+            ],
+            [
+                0.17
+            ],
+            [
+                0.18
+            ],
+            [
+                0.19
+            ],
+            [
+                0.2
+            ],
+            [
+                0.22
+            ],
+            [
+                0.24
+            ],
+            [
+                0.26
+            ],
+            [
+                0.28
+            ],
+            [
+                0.3
+            ]
+        ]
+    }
+}

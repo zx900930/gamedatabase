@@ -1,0 +1,55 @@
+{
+    "identifier": "efm10",
+    "name": "efm10_name",
+    "rarity": 5,
+    "role": "mage",
+    "limited": false,
+    "description": "efm10_desc",
+    "assets": {
+        "icon": "icon_art0047",
+        "image": "art0047_fu",
+        "thumbnail": "art0047_l"
+    },
+    "stats": {
+        "attack": 21,
+        "health": 32
+    },
+    "skill": {
+        "description": "sk_efm10_de",
+        "enhancements": [
+            [
+                0.1
+            ],
+            [
+                0.11
+            ],
+            [
+                0.12
+            ],
+            [
+                0.13
+            ],
+            [
+                0.14
+            ],
+            [
+                0.15
+            ],
+            [
+                0.16
+            ],
+            [
+                0.17
+            ],
+            [
+                0.18
+            ],
+            [
+                0.19
+            ],
+            [
+                0.2
+            ]
+        ]
+    }
+}

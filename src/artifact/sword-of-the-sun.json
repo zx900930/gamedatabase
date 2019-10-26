@@ -1,0 +1,55 @@
+{
+    "identifier": "ef101",
+    "name": "ef101_name",
+    "rarity": 1,
+    "role": "",
+    "limited": false,
+    "description": "ef101_desc",
+    "assets": {
+        "icon": "icon_art0007",
+        "image": "art0007_fu",
+        "thumbnail": "art0007_l"
+    },
+    "stats": {
+        "attack": 12,
+        "health": 19
+    },
+    "skill": {
+        "description": "sk_ef101_de",
+        "enhancements": [
+            [
+                0.02
+            ],
+            [
+                0.022
+            ],
+            [
+                0.024
+            ],
+            [
+                0.026
+            ],
+            [
+                0.028
+            ],
+            [
+                0.03
+            ],
+            [
+                0.032
+            ],
+            [
+                0.034
+            ],
+            [
+                0.036
+            ],
+            [
+                0.038
+            ],
+            [
+                0.04
+            ]
+        ]
+    }
+}

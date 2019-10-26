@@ -1,0 +1,55 @@
+{
+    "identifier": "ef305",
+    "name": "ef305_name",
+    "rarity": 3,
+    "role": "",
+    "limited": false,
+    "description": "ef305_desc",
+    "assets": {
+        "icon": "icon_art0026",
+        "image": "art0026_fu",
+        "thumbnail": "art0026_l"
+    },
+    "stats": {
+        "attack": 7,
+        "health": 57
+    },
+    "skill": {
+        "description": "sk_ef305_de",
+        "enhancements": [
+            [
+                0.01
+            ],
+            [
+                0.011000000000000001
+            ],
+            [
+                0.012
+            ],
+            [
+                0.013000000000000001
+            ],
+            [
+                0.013999999999999999
+            ],
+            [
+                0.015
+            ],
+            [
+                0.016
+            ],
+            [
+                0.017
+            ],
+            [
+                0.018000000000000002
+            ],
+            [
+                0.019
+            ],
+            [
+                0.02
+            ]
+        ]
+    }
+}

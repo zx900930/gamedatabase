@@ -1,0 +1,55 @@
+{
+    "identifier": "efk07",
+    "name": "efk07_name",
+    "rarity": 5,
+    "role": "knight",
+    "limited": false,
+    "description": "efk07_desc",
+    "assets": {
+        "icon": "icon_art0043",
+        "image": "art0043_fu",
+        "thumbnail": "art0043_l"
+    },
+    "stats": {
+        "attack": 9,
+        "health": 76
+    },
+    "skill": {
+        "description": "sk_efk07_de2",
+        "enhancements": [
+            [
+                0.5
+            ],
+            [
+                0.55
+            ],
+            [
+                0.6
+            ],
+            [
+                0.65
+            ],
+            [
+                0.7
+            ],
+            [
+                0.75
+            ],
+            [
+                0.8
+            ],
+            [
+                0.85
+            ],
+            [
+                0.9
+            ],
+            [
+                0.95
+            ],
+            [
+                1
+            ]
+        ]
+    }
+}

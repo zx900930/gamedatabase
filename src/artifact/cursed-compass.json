@@ -1,0 +1,55 @@
+{
+    "identifier": "ef309",
+    "name": "ef309_name",
+    "rarity": 3,
+    "role": "",
+    "limited": false,
+    "description": "ef309_desc",
+    "assets": {
+        "icon": "icon_art3_9",
+        "image": "art3_9_fu",
+        "thumbnail": "art3_9_l"
+    },
+    "stats": {
+        "attack": 18,
+        "health": 16
+    },
+    "skill": {
+        "description": "sk_ef309_de",
+        "enhancements": [
+            [
+                0.25
+            ],
+            [
+                0.275
+            ],
+            [
+                0.3
+            ],
+            [
+                0.325
+            ],
+            [
+                0.35
+            ],
+            [
+                0.375
+            ],
+            [
+                0.4
+            ],
+            [
+                0.425
+            ],
+            [
+                0.45
+            ],
+            [
+                0.475
+            ],
+            [
+                0.5
+            ]
+        ]
+    }
+}

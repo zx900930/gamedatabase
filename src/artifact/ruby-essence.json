@@ -1,0 +1,55 @@
+{
+    "identifier": "ef323",
+    "name": "ef323_name",
+    "rarity": 3,
+    "role": "",
+    "limited": false,
+    "description": "ef323_desc",
+    "assets": {
+        "icon": "icon_art3_23",
+        "image": "art3_23_fu",
+        "thumbnail": "art3_23_l"
+    },
+    "stats": {
+        "attack": 11,
+        "health": 41
+    },
+    "skill": {
+        "description": "sk_ef323_de",
+        "enhancements": [
+            [
+                0.025
+            ],
+            [
+                0.028
+            ],
+            [
+                0.03
+            ],
+            [
+                0.033
+            ],
+            [
+                0.035
+            ],
+            [
+                0.038
+            ],
+            [
+                0.04
+            ],
+            [
+                0.043
+            ],
+            [
+                0.045
+            ],
+            [
+                0.048
+            ],
+            [
+                0.05
+            ]
+        ]
+    }
+}

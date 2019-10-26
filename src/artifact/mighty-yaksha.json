@@ -1,0 +1,55 @@
+{
+    "identifier": "ef311",
+    "name": "ef311_name",
+    "rarity": 3,
+    "role": "",
+    "limited": false,
+    "description": "ef311_desc",
+    "assets": {
+        "icon": "icon_art3_11",
+        "image": "art3_11_fu",
+        "thumbnail": "art3_11_l"
+    },
+    "stats": {
+        "attack": 11,
+        "health": 41
+    },
+    "skill": {
+        "description": "sk_ef311_de",
+        "enhancements": [
+            [
+                0.05
+            ],
+            [
+                0.055
+            ],
+            [
+                0.06
+            ],
+            [
+                0.065
+            ],
+            [
+                0.07
+            ],
+            [
+                0.075
+            ],
+            [
+                0.08
+            ],
+            [
+                0.085
+            ],
+            [
+                0.09
+            ],
+            [
+                0.095
+            ],
+            [
+                0.1
+            ]
+        ]
+    }
+}

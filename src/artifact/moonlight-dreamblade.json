@@ -1,0 +1,55 @@
+{
+    "identifier": "efa03",
+    "name": "efa03_name",
+    "rarity": 4,
+    "role": "assassin",
+    "limited": false,
+    "description": "efa03_desc",
+    "assets": {
+        "icon": "icon_art5_12",
+        "image": "art5_12_fu",
+        "thumbnail": "art5_12_l"
+    },
+    "stats": {
+        "attack": 19,
+        "health": 29
+    },
+    "skill": {
+        "description": "sk_efa03_de",
+        "enhancements": [
+            [
+                0.1
+            ],
+            [
+                0.11
+            ],
+            [
+                0.12
+            ],
+            [
+                0.13
+            ],
+            [
+                0.14
+            ],
+            [
+                0.15
+            ],
+            [
+                0.16
+            ],
+            [
+                0.17
+            ],
+            [
+                0.18
+            ],
+            [
+                0.19
+            ],
+            [
+                0.2
+            ]
+        ]
+    }
+}

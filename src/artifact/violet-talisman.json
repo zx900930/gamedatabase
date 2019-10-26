@@ -1,0 +1,66 @@
+{
+    "identifier": "efa08",
+    "name": "efa08_name",
+    "rarity": 5,
+    "role": "assassin",
+    "limited": false,
+    "description": "efa08_desc",
+    "assets": {
+        "icon": "icon_art0040",
+        "image": "art0040_fu",
+        "thumbnail": "art0040_l"
+    },
+    "stats": {
+        "attack": 21,
+        "health": 32
+    },
+    "skill": {
+        "description": "sk_efa08_de",
+        "enhancements": [
+            [
+                0.05,
+                0.05
+            ],
+            [
+                0.055,
+                0.055
+            ],
+            [
+                0.06,
+                0.06
+            ],
+            [
+                0.065,
+                0.065
+            ],
+            [
+                0.07,
+                0.07
+            ],
+            [
+                0.075,
+                0.075
+            ],
+            [
+                0.08,
+                0.08
+            ],
+            [
+                0.085,
+                0.085
+            ],
+            [
+                0.09,
+                0.09
+            ],
+            [
+                0.095,
+                0.095
+            ],
+            [
+                0.1,
+                0.1
+            ]
+        ]
+    }
+}

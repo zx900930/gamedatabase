@@ -1,0 +1,55 @@
+{
+    "identifier": "efm04",
+    "name": "efm04_name",
+    "rarity": 4,
+    "role": "mage",
+    "limited": false,
+    "description": "efm04_desc",
+    "assets": {
+        "icon": "icon_art0004",
+        "image": "art0004_fu",
+        "thumbnail": "art0004_l"
+    },
+    "stats": {
+        "attack": 19,
+        "health": 29
+    },
+    "skill": {
+        "description": "sk_efm04_de",
+        "enhancements": [
+            [
+                0.15
+            ],
+            [
+                0.17
+            ],
+            [
+                0.18
+            ],
+            [
+                0.2
+            ],
+            [
+                0.21
+            ],
+            [
+                0.23
+            ],
+            [
+                0.24
+            ],
+            [
+                0.26
+            ],
+            [
+                0.27
+            ],
+            [
+                0.28
+            ],
+            [
+                0.3
+            ]
+        ]
+    }
+}

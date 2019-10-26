@@ -1,0 +1,55 @@
+{
+    "identifier": "ef315",
+    "name": "ef315_name",
+    "rarity": 3,
+    "role": "",
+    "limited": false,
+    "description": "ef315_desc",
+    "assets": {
+        "icon": "icon_art3_15",
+        "image": "art3_15_fu",
+        "thumbnail": "art3_15_l"
+    },
+    "stats": {
+        "attack": 20,
+        "health": 8
+    },
+    "skill": {
+        "description": "sk_ef315_de",
+        "enhancements": [
+            [
+                0.05
+            ],
+            [
+                0.05500000000000001
+            ],
+            [
+                0.06
+            ],
+            [
+                0.065
+            ],
+            [
+                0.06999999999999999
+            ],
+            [
+                0.07500000000000001
+            ],
+            [
+                0.08000000000000002
+            ],
+            [
+                0.085
+            ],
+            [
+                0.09000000000000001
+            ],
+            [
+                0.095
+            ],
+            [
+                0.1
+            ]
+        ]
+    }
+}

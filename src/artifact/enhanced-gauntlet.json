@@ -1,0 +1,55 @@
+{
+    "identifier": "ef106",
+    "name": "ef106_name",
+    "rarity": 1,
+    "role": "",
+    "limited": false,
+    "description": "ef106_desc",
+    "assets": {
+        "icon": "icon_art0012",
+        "image": "art0012_fu",
+        "thumbnail": "art0012_l"
+    },
+    "stats": {
+        "attack": 3,
+        "health": 49
+    },
+    "skill": {
+        "description": "sk_ef106_de",
+        "enhancements": [
+            [
+                0.02
+            ],
+            [
+                0.022
+            ],
+            [
+                0.024
+            ],
+            [
+                0.026
+            ],
+            [
+                0.028
+            ],
+            [
+                0.03
+            ],
+            [
+                0.032
+            ],
+            [
+                0.034
+            ],
+            [
+                0.036
+            ],
+            [
+                0.038
+            ],
+            [
+                0.04
+            ]
+        ]
+    }
+}

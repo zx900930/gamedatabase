@@ -1,0 +1,55 @@
+{
+    "identifier": "ef306",
+    "name": "ef306_name",
+    "rarity": 3,
+    "role": "",
+    "limited": false,
+    "description": "ef306_desc",
+    "assets": {
+        "icon": "icon_art3_6",
+        "image": "art3_6_fu",
+        "thumbnail": "art3_6_l"
+    },
+    "stats": {
+        "attack": 5,
+        "health": 65
+    },
+    "skill": {
+        "description": "sk_ef306_de",
+        "enhancements": [
+            [
+                0.1
+            ],
+            [
+                0.11
+            ],
+            [
+                0.12
+            ],
+            [
+                0.13
+            ],
+            [
+                0.14
+            ],
+            [
+                0.15
+            ],
+            [
+                0.16
+            ],
+            [
+                0.17
+            ],
+            [
+                0.18
+            ],
+            [
+                0.19
+            ],
+            [
+                0.2
+            ]
+        ]
+    }
+}

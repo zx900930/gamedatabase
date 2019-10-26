@@ -1,0 +1,55 @@
+{
+    "identifier": "ef321",
+    "name": "ef321_name",
+    "rarity": 3,
+    "role": "",
+    "limited": false,
+    "description": "ef321_desc",
+    "assets": {
+        "icon": "icon_art3_21",
+        "image": "art3_21_fu",
+        "thumbnail": "art3_21_l"
+    },
+    "stats": {
+        "attack": 2,
+        "health": 73
+    },
+    "skill": {
+        "description": "sk_ef321_de",
+        "enhancements": [
+            [
+                0.1
+            ],
+            [
+                0.11
+            ],
+            [
+                0.12
+            ],
+            [
+                0.13
+            ],
+            [
+                0.14
+            ],
+            [
+                0.15
+            ],
+            [
+                0.16
+            ],
+            [
+                0.17
+            ],
+            [
+                0.18
+            ],
+            [
+                0.19
+            ],
+            [
+                0.2
+            ]
+        ]
+    }
+}

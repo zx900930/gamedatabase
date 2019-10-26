@@ -1,0 +1,55 @@
+{
+    "identifier": "efh01",
+    "name": "efh01_name",
+    "rarity": 5,
+    "role": "manauser",
+    "limited": false,
+    "description": "efh01_desc",
+    "assets": {
+        "icon": "icon_art0001",
+        "image": "art0001_fu",
+        "thumbnail": "art0001_l"
+    },
+    "stats": {
+        "attack": 9,
+        "health": 76
+    },
+    "skill": {
+        "description": "sk_efh01_de",
+        "enhancements": [
+            [
+                0.12
+            ],
+            [
+                0.132
+            ],
+            [
+                0.144
+            ],
+            [
+                0.156
+            ],
+            [
+                0.168
+            ],
+            [
+                0.18
+            ],
+            [
+                0.192
+            ],
+            [
+                0.204
+            ],
+            [
+                0.216
+            ],
+            [
+                0.228
+            ],
+            [
+                0.24
+            ]
+        ]
+    }
+}

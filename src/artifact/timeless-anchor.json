@@ -1,0 +1,55 @@
+{
+    "identifier": "ef320",
+    "name": "ef320_name",
+    "rarity": 3,
+    "role": "",
+    "limited": false,
+    "description": "ef320_desc",
+    "assets": {
+        "icon": "icon_art3_20",
+        "image": "art3_20_fu",
+        "thumbnail": "art3_20_l"
+    },
+    "stats": {
+        "attack": 9,
+        "health": 49
+    },
+    "skill": {
+        "description": "sk_ef320_de",
+        "enhancements": [
+            [
+                0.25
+            ],
+            [
+                0.275
+            ],
+            [
+                0.3
+            ],
+            [
+                0.325
+            ],
+            [
+                0.35
+            ],
+            [
+                0.375
+            ],
+            [
+                0.4
+            ],
+            [
+                0.425
+            ],
+            [
+                0.45
+            ],
+            [
+                0.475
+            ],
+            [
+                0.5
+            ]
+        ]
+    }
+}

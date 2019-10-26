@@ -1,0 +1,55 @@
+{
+    "identifier": "efw04",
+    "name": "efw04_name",
+    "rarity": 4,
+    "role": "warrior",
+    "limited": false,
+    "description": "efw04_desc",
+    "assets": {
+        "icon": "icon_art4_4",
+        "image": "art4_4_fu",
+        "thumbnail": "art4_4_l"
+    },
+    "stats": {
+        "attack": 19,
+        "health": 29
+    },
+    "skill": {
+        "description": "sk_efw04_de",
+        "enhancements": [
+            [
+                0.02
+            ],
+            [
+                0.022
+            ],
+            [
+                0.024
+            ],
+            [
+                0.026
+            ],
+            [
+                0.028
+            ],
+            [
+                0.03
+            ],
+            [
+                0.032
+            ],
+            [
+                0.034
+            ],
+            [
+                0.036
+            ],
+            [
+                0.038
+            ],
+            [
+                0.04
+            ]
+        ]
+    }
+}

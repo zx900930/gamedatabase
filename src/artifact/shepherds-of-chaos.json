@@ -1,0 +1,55 @@
+{
+    "identifier": "efa10",
+    "name": "efa10_name",
+    "rarity": 4,
+    "role": "assassin",
+    "limited": true,
+    "description": "efa10_desc",
+    "assets": {
+        "icon": "icon_art0060",
+        "image": "art0060_fu",
+        "thumbnail": "art0060_l"
+    },
+    "stats": {
+        "attack": 19,
+        "health": 29
+    },
+    "skill": {
+        "description": "sk_efa10_de",
+        "enhancements": [
+            [
+                0.2
+            ],
+            [
+                0.22
+            ],
+            [
+                0.24
+            ],
+            [
+                0.26
+            ],
+            [
+                0.28
+            ],
+            [
+                0.30000000000000004
+            ],
+            [
+                0.32000000000000006
+            ],
+            [
+                0.3400000000000001
+            ],
+            [
+                0.3600000000000001
+            ],
+            [
+                0.3800000000000001
+            ],
+            [
+                0.40000000000000013
+            ]
+        ]
+    }
+}

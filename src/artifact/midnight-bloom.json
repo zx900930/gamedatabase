@@ -1,0 +1,55 @@
+{
+    "identifier": "ef406",
+    "name": "ef406_name",
+    "rarity": 4,
+    "role": "",
+    "limited": true,
+    "description": "ef406_desc",
+    "assets": {
+        "icon": "icon_art0065",
+        "image": "art0065_fu",
+        "thumbnail": "art0065_l"
+    },
+    "stats": {
+        "attack": 19,
+        "health": 29
+    },
+    "skill": {
+        "description": "sk_ef406_de",
+        "enhancements": [
+            [
+                0.08
+            ],
+            [
+                0.088
+            ],
+            [
+                0.096
+            ],
+            [
+                0.104
+            ],
+            [
+                0.112
+            ],
+            [
+                0.12
+            ],
+            [
+                0.128
+            ],
+            [
+                0.136
+            ],
+            [
+                0.144
+            ],
+            [
+                0.152
+            ],
+            [
+                0.16
+            ]
+        ]
+    }
+}

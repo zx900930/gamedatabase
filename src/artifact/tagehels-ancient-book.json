@@ -1,0 +1,55 @@
+{
+    "identifier": "efm03",
+    "name": "efm03_name",
+    "rarity": 4,
+    "role": "mage",
+    "limited": false,
+    "description": "efm03_desc",
+    "assets": {
+        "icon": "icon_art5_19",
+        "image": "art5_19_fu",
+        "thumbnail": "art5_19_l"
+    },
+    "stats": {
+        "attack": 13,
+        "health": 48
+    },
+    "skill": {
+        "description": "sk_efm03_de",
+        "enhancements": [
+            [
+                10
+            ],
+            [
+                11
+            ],
+            [
+                12
+            ],
+            [
+                13
+            ],
+            [
+                14
+            ],
+            [
+                15
+            ],
+            [
+                16
+            ],
+            [
+                17
+            ],
+            [
+                18
+            ],
+            [
+                19
+            ],
+            [
+                20
+            ]
+        ]
+    }
+}

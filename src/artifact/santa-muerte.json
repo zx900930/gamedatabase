@@ -1,0 +1,55 @@
+{
+    "identifier": "efa06",
+    "name": "efa06_name",
+    "rarity": 4,
+    "role": "assassin",
+    "limited": true,
+    "description": "efa06_desc",
+    "assets": {
+        "icon": "icon_art0031",
+        "image": "art0031_fu",
+        "thumbnail": "art0031_l"
+    },
+    "stats": {
+        "attack": 19,
+        "health": 29
+    },
+    "skill": {
+        "description": "sk_efa06_de",
+        "enhancements": [
+            [
+                0.05
+            ],
+            [
+                0.055
+            ],
+            [
+                0.06
+            ],
+            [
+                0.065
+            ],
+            [
+                0.07
+            ],
+            [
+                0.075
+            ],
+            [
+                0.08
+            ],
+            [
+                0.085
+            ],
+            [
+                0.09
+            ],
+            [
+                0.095
+            ],
+            [
+                0.1
+            ]
+        ]
+    }
+}

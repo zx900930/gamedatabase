@@ -1,0 +1,55 @@
+{
+    "identifier": "ef403",
+    "name": "ef403_name",
+    "rarity": 4,
+    "role": "",
+    "limited": true,
+    "description": "ef403_desc",
+    "assets": {
+        "icon": "icon_art0048",
+        "image": "art0048_fu",
+        "thumbnail": "art0048_l"
+    },
+    "stats": {
+        "attack": 16,
+        "health": 38
+    },
+    "skill": {
+        "description": "sk_ef403_de",
+        "enhancements": [
+            [
+                0.1
+            ],
+            [
+                0.11
+            ],
+            [
+                0.12
+            ],
+            [
+                0.13
+            ],
+            [
+                0.14
+            ],
+            [
+                0.15
+            ],
+            [
+                0.16
+            ],
+            [
+                0.17
+            ],
+            [
+                0.18
+            ],
+            [
+                0.19
+            ],
+            [
+                0.2
+            ]
+        ]
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "identifier": "efm08",
+    "name": "efm08_name",
+    "rarity": 4,
+    "role": "mage",
+    "limited": true,
+    "description": "efm08_desc",
+    "assets": {
+        "icon": "icon_art4_3",
+        "image": "art4_3_fu",
+        "thumbnail": "art4_3_l"
+    },
+    "stats": {
+        "attack": 15,
+        "health": 54
+    },
+    "skill": {
+        "description": "sk_efm08_de",
+        "enhancements": [
+            [
+                0.4
+            ],
+            [
+                0.44
+            ],
+            [
+                0.48
+            ],
+            [
+                0.52
+            ],
+            [
+                0.56
+            ],
+            [
+                0.6
+            ],
+            [
+                0.64
+            ],
+            [
+                0.68
+            ],
+            [
+                0.72
+            ],
+            [
+                0.76
+            ],
+            [
+                0.8
+            ]
+        ]
+    }
+}
