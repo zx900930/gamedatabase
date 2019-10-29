@@ -1,0 +1,21 @@
+{
+    "identifier": "ef515",
+    "name": "ef515_name",
+    "rarity": 5,
+    "role": "",
+    "limited": false,
+    "description": "ef515_desc",
+    "assets": {
+        "icon": "icon_art0002",
+        "image": "art0002_fu",
+        "thumbnail": "art0002_l"
+    },
+    "stats": {
+        "attack": 6,
+        "health": 86
+    },
+    "skill": {
+        "description": "",
+        "enhancements": []
+    }
+}

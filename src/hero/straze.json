@@ -1,0 +1,88 @@
+{
+    "id": "c1034",
+    "name": "chrn_c1034",
+    "moonlight": false,
+    "rarity": 1,
+    "attribute": "none",
+    "role": "warrior",
+    "zodiac": "archer",
+    "description": "c1034_2line",
+    "story": "c1034_de_story",
+    "get_line": "c1034_gacha_get",
+    "stats": {
+        "bra": 95,
+        "int": 83,
+        "fai": 53,
+        "des": 85
+    },
+    "devotion": {},
+    "specialty": {
+        "name": "sms_c1034_nm",
+        "description": "sms_c1034_de",
+        "icon": "smc_enemy_1",
+        "effect_type": "reward_bonus",
+        "effect_value": 0,
+        "command": 0,
+        "charm": 0,
+        "politics": 0,
+        "type": {}
+    },
+    "camping": {},
+    "zodiac_tree": [],
+    "skills": [
+        {
+            "name": "sk_c1034_1_sknm",
+            "icon": "sk_c1034_1",
+            "can_enhance": false,
+            "description": "sk_c1034_1_de",
+            "passive": false,
+            "cooldown": 0,
+            "soul_gain": 3,
+            "pow": 1,
+            "att_rate": 1,
+            "enhancements": [
+                "sklv_de_dmg5",
+                "sklv_de_dmg5",
+                "sklv_de_cd1",
+                "sklv_de_cd1",
+                "sklv_de_dmg10"
+            ]
+        },
+        {
+            "name": "sk_c1034_2_sknm",
+            "icon": "sk_c1034_2",
+            "can_enhance": false,
+            "description": "sk_c1034_2_de",
+            "passive": false,
+            "cooldown": 5,
+            "soul_gain": 2,
+            "pow": 1,
+            "att_rate": 1.2,
+            "enhancements": [
+                "sklv_de_dmg5",
+                "sklv_de_dmg5",
+                "sklv_de_cd1",
+                "sklv_de_cd1",
+                "sklv_de_dmg10"
+            ]
+        },
+        {
+            "name": "sk_c1034_3_sknm",
+            "icon": "sk_c1034_3",
+            "can_enhance": false,
+            "description": "sk_c1034_3_de",
+            "passive": false,
+            "cooldown": 6,
+            "soul_gain": 2,
+            "pow": 1,
+            "att_rate": 2,
+            "enhancements": [
+                "sklv_de_dmg5",
+                "sklv_de_dmg5",
+                "sklv_de_cd1",
+                "sklv_de_cd1",
+                "sklv_de_dmg10"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "id": "m0414",
+    "name": "chrn_m0414",
+    "moonlight": false,
+    "rarity": 2,
+    "attribute": "light",
+    "role": "warrior",
+    "zodiac": "scales",
+    "description": "m0414_2line",
+    "story": "m0414_de_story",
+    "get_line": "m0414_gacha_get",
+    "stats": {
+        "bra": 0,
+        "int": 0,
+        "fai": 0,
+        "des": 0
+    },
+    "devotion": {},
+    "specialty": {},
+    "camping": {},
+    "zodiac_tree": [],
+    "skills": []
+}

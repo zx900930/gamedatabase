@@ -1,0 +1,21 @@
+{
+    "identifier": "ef508",
+    "name": "ef508_name",
+    "rarity": 5,
+    "role": "",
+    "limited": false,
+    "description": "ef508_desc",
+    "assets": {
+        "icon": "icon_art5_16",
+        "image": "art5_16_fu",
+        "thumbnail": "art5_16_l"
+    },
+    "stats": {
+        "attack": 15,
+        "health": 54
+    },
+    "skill": {
+        "description": "",
+        "enhancements": []
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "identifier": "ef426",
+    "name": "ef426_name",
+    "rarity": 4,
+    "role": "",
+    "limited": false,
+    "description": "ef426_desc",
+    "assets": {
+        "icon": "icon_art0003",
+        "image": "art0003_fu",
+        "thumbnail": "art0003_l"
+    },
+    "stats": {
+        "attack": 21,
+        "health": 19
+    },
+    "skill": {
+        "description": "",
+        "enhancements": []
+    }
+}

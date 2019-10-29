@@ -1,0 +1,80 @@
+{
+    "id": "c1025",
+    "name": "chrn_c1025",
+    "moonlight": false,
+    "rarity": 1,
+    "attribute": "none",
+    "role": "warrior",
+    "zodiac": "maiden",
+    "description": "c1025_2line",
+    "story": "c1025_de_story",
+    "get_line": "c1025_gacha_get",
+    "stats": {
+        "bra": 89,
+        "int": 79,
+        "fai": 69,
+        "des": 78
+    },
+    "devotion": {},
+    "specialty": {},
+    "camping": {},
+    "zodiac_tree": [],
+    "skills": [
+        {
+            "name": "sk_c1002_1_sknm",
+            "icon": "sk_c1002_1",
+            "can_enhance": false,
+            "description": "sk_c1002_1_de",
+            "passive": false,
+            "cooldown": 0,
+            "soul_gain": 1,
+            "pow": 1,
+            "att_rate": 0.7,
+            "enhancements": [
+                "sklv_de_dmg5",
+                "sklv_de_eff1_5",
+                "sklv_de_dmg10",
+                "sklv_de_eff1_10",
+                "sklv_de_dmg15"
+            ]
+        },
+        {
+            "name": "sk_c1002_2_sknm",
+            "icon": "sk_c1002_2",
+            "can_enhance": false,
+            "description": "sk_c1002_2_de",
+            "passive": false,
+            "cooldown": 3,
+            "soul_gain": 2,
+            "pow": 1,
+            "att_rate": 0.4,
+            "soul_description": "sk_c1002_2s_de",
+            "soul_requirement": 10,
+            "enhancements": [
+                "sklv_de_dmg5",
+                "sklv_de_eff1_5",
+                "sklv_de_dmg10",
+                "sklv_de_eff1_10",
+                "sklv_de_dmg15"
+            ]
+        },
+        {
+            "name": "sk_c1002_3_sknm",
+            "icon": "sk_c1002_3",
+            "can_enhance": false,
+            "description": "sk_c1002_3_de",
+            "passive": false,
+            "cooldown": 5,
+            "soul_gain": 2,
+            "pow": 1.05,
+            "att_rate": 0.6,
+            "enhancements": [
+                "sklv_de_dmg10",
+                "sklv_de_eff1_5",
+                "sklv_de_cd1",
+                "sklv_de_eff1_10",
+                "sklv_de_dmg15"
+            ]
+        }
+    ]
+}

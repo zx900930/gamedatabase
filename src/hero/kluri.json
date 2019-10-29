@@ -1,0 +1,415 @@
+{
+    "id": "c3003",
+    "name": "chrn_c3003",
+    "moonlight": false,
+    "rarity": 3,
+    "attribute": "wind",
+    "role": "knight",
+    "zodiac": "ram",
+    "description": "c3003_2line",
+    "story": "c3003_de_story",
+    "get_line": "c3003_gacha_get",
+    "stats": {
+        "bra": 61,
+        "int": 89,
+        "fai": 70,
+        "des": 67
+    },
+    "devotion": {
+        "type": "def",
+        "grades": {
+            "D": 12,
+            "C": 18,
+            "B": 24,
+            "A": 30,
+            "S": 36,
+            "SS": 42,
+            "SSS": 48
+        },
+        "slots": {
+            "1": true,
+            "2": true,
+            "3": true,
+            "4": true
+        }
+    },
+    "specialty": {
+        "name": "sms_c3003_nm",
+        "description": "sms_c3003_de",
+        "icon": "smt_explore",
+        "effect_type": "reward_bonus",
+        "effect_value": 0.06,
+        "command": 64,
+        "charm": 35,
+        "politics": 22,
+        "type": {
+            "name": "sm_type_explore",
+            "description": null
+        }
+    },
+    "camping": {
+        "personalities": [
+            "c_pers_31_escapism",
+            "c_pers_23_indifferen"
+        ],
+        "topics": [
+            "c_topic_10_unique",
+            "c_topic_22_belief"
+        ],
+        "values": {
+            "c_topic_1_criticism": 2,
+            "c_topic_2_realistic": -3,
+            "c_topic_3_taleheroic": 0,
+            "c_topic_4_cheeringup": 3,
+            "c_topic_5_charmcheer": 3,
+            "c_topic_6_herocheer": -3,
+            "c_topic_7_sadmemo": 3,
+            "c_topic_8_enjoymemo": 4,
+            "c_topic_9_happymemo": 2,
+            "c_topic_10_unique": 2,
+            "c_topic_11_narcissis": -2,
+            "c_topic_12_occult": 2,
+            "c_topic_13_myth": -3,
+            "c_topic_14_gagsto": -2,
+            "c_topic_15_foodsto": 6,
+            "c_topic_16_horrorsto": -4,
+            "c_topic_17_gossip": 1,
+            "c_topic_18_dream": 0,
+            "c_topic_19_advice": 2,
+            "c_topic_20_moaning": 2,
+            "c_topic_22_belief": -3,
+            "c_topic_25_adventure": 4
+        }
+    },
+    "zodiac_tree": [
+        {
+            "name": "zs_01_nm",
+            "description": "zs_01_de",
+            "skill_enhanced": false,
+            "costs": [
+                {
+                    "item": "ma_runewind1_name",
+                    "count": 5
+                }
+            ],
+            "stats": [
+                {
+                    "stat": "max_hp_rate",
+                    "value": 0.03,
+                    "type": "sub"
+                },
+                {
+                    "stat": "att",
+                    "value": 20,
+                    "type": "main"
+                },
+                {
+                    "stat": "max_hp",
+                    "value": 60,
+                    "type": "sub"
+                }
+            ]
+        },
+        {
+            "name": "zs_01_nm",
+            "description": "zs_01_de",
+            "skill_enhanced": false,
+            "costs": [
+                {
+                    "item": "ma_runewind1_name",
+                    "count": 9
+                }
+            ],
+            "stats": [
+                {
+                    "stat": "acc",
+                    "value": 0.06,
+                    "type": "sub"
+                },
+                {
+                    "stat": "att",
+                    "value": 20,
+                    "type": "main"
+                },
+                {
+                    "stat": "max_hp",
+                    "value": 60,
+                    "type": "sub"
+                }
+            ]
+        },
+        {
+            "name": "zs_02_nm",
+            "description": "zs_02_de",
+            "skill_enhanced": 3,
+            "costs": [
+                {
+                    "item": "ma_runewind1_name",
+                    "count": 12
+                },
+                {
+                    "item": "ma_runewind2_name",
+                    "count": 6
+                }
+            ],
+            "stats": [
+                {
+                    "stat": "att",
+                    "value": 20,
+                    "type": "main"
+                },
+                {
+                    "stat": "max_hp",
+                    "value": 60,
+                    "type": "sub"
+                }
+            ]
+        },
+        {
+            "name": "zs_01_nm",
+            "description": "zs_01_de",
+            "skill_enhanced": false,
+            "costs": [
+                {
+                    "item": "ma_runewind2_name",
+                    "count": 15
+                }
+            ],
+            "stats": [
+                {
+                    "stat": "speed",
+                    "value": 4,
+                    "type": "sub"
+                },
+                {
+                    "stat": "att",
+                    "value": 30,
+                    "type": "main"
+                },
+                {
+                    "stat": "max_hp",
+                    "value": 80,
+                    "type": "sub"
+                }
+            ]
+        },
+        {
+            "name": "zs_01_nm",
+            "description": "zs_01_de",
+            "skill_enhanced": false,
+            "costs": [
+                {
+                    "item": "ma_runewind3_name",
+                    "count": 4
+                },
+                {
+                    "item": "ma_nature_es_name",
+                    "count": 9
+                }
+            ],
+            "stats": [
+                {
+                    "stat": "max_hp_rate",
+                    "value": 0.06,
+                    "type": "sub"
+                },
+                {
+                    "stat": "att",
+                    "value": 30,
+                    "type": "main"
+                },
+                {
+                    "stat": "max_hp",
+                    "value": 80,
+                    "type": "sub"
+                }
+            ]
+        },
+        {
+            "name": "zs_01_nm",
+            "description": "zs_01_de",
+            "skill_enhanced": false,
+            "costs": [
+                {
+                    "item": "ma_runewind3_name",
+                    "count": 6
+                },
+                {
+                    "item": "ma_dreamerk_es_name",
+                    "count": 6
+                }
+            ],
+            "stats": [
+                {
+                    "stat": "acc",
+                    "value": 0.12,
+                    "type": "sub"
+                },
+                {
+                    "stat": "att",
+                    "value": 30,
+                    "type": "main"
+                },
+                {
+                    "stat": "max_hp",
+                    "value": 80,
+                    "type": "sub"
+                }
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "name": "sk_c3003_1_sknm",
+            "icon": "sk_m0011_w",
+            "can_enhance": false,
+            "description": "sk_c3003_1_de",
+            "passive": false,
+            "cooldown": 0,
+            "soul_gain": 1,
+            "pow": 0.9,
+            "att_rate": 0.5,
+            "enhancements": [
+                "sklv_de_dmg5",
+                "sklv_de_dmg5",
+                "sklv_de_ab5",
+                "sklv_de_dmg5",
+                "sklv_de_dmg10",
+                "sklv_de_dmg15"
+            ]
+        },
+        {
+            "name": "sk_c3003_2_sknm",
+            "icon": "pa_m0019_w",
+            "can_enhance": false,
+            "description": "sk_c3003_2_de",
+            "passive": true,
+            "cooldown": 0,
+            "soul_gain": 0,
+            "pow": 1,
+            "att_rate": 0,
+            "enhancements": [
+                "pa_c3003_21_de",
+                "pa_c3003_22_de",
+                "pa_c3003_23_de",
+                "pa_c3003_24_de",
+                "pa_c3003_25_de",
+                "pa_c3003_26_de"
+            ]
+        },
+        {
+            "name": "sk_c3003_2_sknm",
+            "icon": "pa_m0019_w",
+            "can_enhance": false,
+            "description": "sk_c3003_2_de",
+            "passive": true,
+            "cooldown": 0,
+            "soul_gain": 0,
+            "pow": 1,
+            "att_rate": 0,
+            "enhancements": [
+                "pa_c3003_21_de",
+                "pa_c3003_22_de",
+                "pa_c3003_23_de",
+                "pa_c3003_24_de",
+                "pa_c3003_25_de",
+                "pa_c3003_26_de"
+            ]
+        },
+        {
+            "name": "sk_c3003_2_sknm",
+            "icon": "pa_m0019_w",
+            "can_enhance": false,
+            "description": "sk_c3003_2_de",
+            "passive": true,
+            "cooldown": 0,
+            "soul_gain": 0,
+            "pow": 1,
+            "att_rate": 0,
+            "enhancements": [
+                "pa_c3003_21_de",
+                "pa_c3003_22_de",
+                "pa_c3003_23_de",
+                "pa_c3003_24_de",
+                "pa_c3003_25_de",
+                "pa_c3003_26_de"
+            ]
+        },
+        {
+            "name": "sk_c3003_2_sknm",
+            "icon": "pa_m0019_w",
+            "can_enhance": false,
+            "description": "sk_c3003_2_de",
+            "passive": true,
+            "cooldown": 0,
+            "soul_gain": 0,
+            "pow": 1,
+            "att_rate": 0,
+            "enhancements": [
+                "pa_c3003_21_de",
+                "pa_c3003_22_de",
+                "pa_c3003_23_de",
+                "pa_c3003_24_de",
+                "pa_c3003_25_de",
+                "pa_c3003_26_de"
+            ]
+        },
+        {
+            "name": "sk_c3003_2_sknm",
+            "icon": "pa_m0019_w",
+            "can_enhance": false,
+            "description": "sk_c3003_2_de",
+            "passive": true,
+            "cooldown": 0,
+            "soul_gain": 0,
+            "pow": 1,
+            "att_rate": 0,
+            "enhancements": [
+                "pa_c3003_21_de",
+                "pa_c3003_22_de",
+                "pa_c3003_23_de",
+                "pa_c3003_24_de",
+                "pa_c3003_25_de",
+                "pa_c3003_26_de"
+            ]
+        },
+        {
+            "name": "sk_c3003_2_sknm",
+            "icon": "pa_m0019_w",
+            "can_enhance": false,
+            "description": "sk_c3003_2_de",
+            "passive": true,
+            "cooldown": 0,
+            "soul_gain": 0,
+            "pow": 1,
+            "att_rate": 0,
+            "enhancements": [
+                "pa_c3003_21_de",
+                "pa_c3003_22_de",
+                "pa_c3003_23_de",
+                "pa_c3003_24_de",
+                "pa_c3003_25_de",
+                "pa_c3003_26_de"
+            ]
+        },
+        {
+            "name": "sk_c3003_3u_sknm",
+            "icon": "sk_m0012_w",
+            "can_enhance": true,
+            "description": "sk_c3003_3_de",
+            "passive": false,
+            "cooldown": 6,
+            "soul_gain": 3,
+            "pow": 1,
+            "att_rate": 0,
+            "soul_description": "sk_c3003_3s_de",
+            "soul_requirement": 20,
+            "enhanced_description": "sk_c3003_3u_de",
+            "enhancements": [
+                "sklv_de_eff1_10",
+                "sklv_de_cd1",
+                "sklv_de_eff1_15"
+            ]
+        }
+    ]
+}

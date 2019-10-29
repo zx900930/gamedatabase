@@ -1,0 +1,21 @@
+{
+    "identifier": "ef503",
+    "name": "ef503_name",
+    "rarity": 5,
+    "role": "",
+    "limited": false,
+    "description": "ef503_desc",
+    "assets": {
+        "icon": "icon_art5_8",
+        "image": "art5_8_fu",
+        "thumbnail": "art5_8_l"
+    },
+    "stats": {
+        "attack": 6,
+        "health": 86
+    },
+    "skill": {
+        "description": "",
+        "enhancements": []
+    }
+}

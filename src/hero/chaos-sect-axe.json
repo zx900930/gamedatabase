@@ -1,0 +1,320 @@
+{
+    "id": "c4025",
+    "name": "chrn_c4025",
+    "moonlight": true,
+    "rarity": 3,
+    "attribute": "dark",
+    "role": "warrior",
+    "zodiac": "lion",
+    "description": "c4025_2line",
+    "story": "c4025_de_story",
+    "get_line": "c4025_gacha_get",
+    "stats": {
+        "bra": 93,
+        "int": 75,
+        "fai": 55,
+        "des": 66
+    },
+    "devotion": {
+        "type": "max_hp",
+        "grades": {
+            "D": 120,
+            "C": 180,
+            "B": 240,
+            "A": 300,
+            "S": 360,
+            "SS": 420,
+            "SSS": 480
+        },
+        "slots": {
+            "1": true,
+            "2": true,
+            "3": true,
+            "4": true
+        }
+    },
+    "specialty": {
+        "name": "sms_c3025_nm",
+        "description": "sms_c3025_de",
+        "icon": "smc_mission_1",
+        "effect_type": "reward_bonus",
+        "effect_value": 0.1,
+        "command": 25,
+        "charm": 7,
+        "politics": 14,
+        "type": {
+            "name": "smc_mission_nm",
+            "description": "smc_mission_de"
+        }
+    },
+    "camping": {
+        "personalities": [
+            "c_pers_20_religious",
+            "c_pers_28_desire"
+        ],
+        "topics": [
+            "c_topic_2_realistic",
+            "c_topic_17_gossip"
+        ],
+        "values": {
+            "c_topic_1_criticism": 0,
+            "c_topic_2_realistic": 0,
+            "c_topic_3_taleheroic": 2,
+            "c_topic_4_cheeringup": 1,
+            "c_topic_5_charmcheer": 2,
+            "c_topic_6_herocheer": 5,
+            "c_topic_7_sadmemo": 3,
+            "c_topic_8_enjoymemo": 3,
+            "c_topic_9_happymemo": 3,
+            "c_topic_10_unique": 3,
+            "c_topic_11_narcissis": 2,
+            "c_topic_12_occult": -1,
+            "c_topic_13_myth": 7,
+            "c_topic_14_gagsto": -2,
+            "c_topic_15_foodsto": 3,
+            "c_topic_16_horrorsto": 0,
+            "c_topic_17_gossip": -1,
+            "c_topic_18_dream": 5,
+            "c_topic_19_advice": 0,
+            "c_topic_20_moaning": 0,
+            "c_topic_22_belief": 6,
+            "c_topic_25_adventure": 1
+        }
+    },
+    "zodiac_tree": [
+        {
+            "name": "zs_01_nm",
+            "description": "zs_01_de",
+            "skill_enhanced": false,
+            "costs": [
+                {
+                    "item": "ma_runedark1_name",
+                    "count": 5
+                }
+            ],
+            "stats": [
+                {
+                    "stat": "att_rate",
+                    "value": 0.03,
+                    "type": "sub"
+                },
+                {
+                    "stat": "att",
+                    "value": 20,
+                    "type": "main"
+                },
+                {
+                    "stat": "max_hp",
+                    "value": 60,
+                    "type": "sub"
+                }
+            ]
+        },
+        {
+            "name": "zs_01_nm",
+            "description": "zs_01_de",
+            "skill_enhanced": false,
+            "costs": [
+                {
+                    "item": "ma_runedark1_name",
+                    "count": 9
+                }
+            ],
+            "stats": [
+                {
+                    "stat": "att_rate",
+                    "value": 0.03,
+                    "type": "sub"
+                },
+                {
+                    "stat": "att",
+                    "value": 20,
+                    "type": "main"
+                },
+                {
+                    "stat": "max_hp",
+                    "value": 60,
+                    "type": "sub"
+                }
+            ]
+        },
+        {
+            "name": "zs_02_nm",
+            "description": "zs_02_de",
+            "skill_enhanced": 2,
+            "costs": [
+                {
+                    "item": "ma_runedark1_name",
+                    "count": 12
+                },
+                {
+                    "item": "ma_runedark2_name",
+                    "count": 6
+                }
+            ],
+            "stats": [
+                {
+                    "stat": "att",
+                    "value": 20,
+                    "type": "main"
+                },
+                {
+                    "stat": "max_hp",
+                    "value": 60,
+                    "type": "sub"
+                }
+            ]
+        },
+        {
+            "name": "zs_01_nm",
+            "description": "zs_01_de",
+            "skill_enhanced": false,
+            "costs": [
+                {
+                    "item": "ma_runedark2_name",
+                    "count": 15
+                }
+            ],
+            "stats": [
+                {
+                    "stat": "cri",
+                    "value": 0.08,
+                    "type": "sub"
+                },
+                {
+                    "stat": "att",
+                    "value": 30,
+                    "type": "main"
+                },
+                {
+                    "stat": "max_hp",
+                    "value": 80,
+                    "type": "sub"
+                }
+            ]
+        },
+        {
+            "name": "zs_01_nm",
+            "description": "zs_01_de",
+            "skill_enhanced": false,
+            "costs": [
+                {
+                    "item": "ma_runedark3_name",
+                    "count": 4
+                },
+                {
+                    "item": "ma_wolf_es_name",
+                    "count": 9
+                }
+            ],
+            "stats": [
+                {
+                    "stat": "att_rate",
+                    "value": 0.06,
+                    "type": "sub"
+                },
+                {
+                    "stat": "att",
+                    "value": 30,
+                    "type": "main"
+                },
+                {
+                    "stat": "max_hp",
+                    "value": 80,
+                    "type": "sub"
+                }
+            ]
+        },
+        {
+            "name": "zs_01_nm",
+            "description": "zs_01_de",
+            "skill_enhanced": false,
+            "costs": [
+                {
+                    "item": "ma_runedark3_name",
+                    "count": 6
+                },
+                {
+                    "item": "ma_queen_es_name",
+                    "count": 6
+                }
+            ],
+            "stats": [
+                {
+                    "stat": "att_rate",
+                    "value": 0.06,
+                    "type": "sub"
+                },
+                {
+                    "stat": "att",
+                    "value": 30,
+                    "type": "main"
+                },
+                {
+                    "stat": "max_hp",
+                    "value": 80,
+                    "type": "sub"
+                }
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "name": "sk_c4025_1_sknm",
+            "icon": "sk_c4025_1",
+            "can_enhance": false,
+            "description": "sk_c4025_1_de",
+            "passive": false,
+            "cooldown": 0,
+            "soul_gain": 1,
+            "pow": 0.95,
+            "att_rate": 1,
+            "enhancements": [
+                "sklv_de_dmg5",
+                "sklv_de_dmg5",
+                "sklv_de_dmg10",
+                "sklv_de_dmg15"
+            ]
+        },
+        {
+            "name": "sk_c4025_2_sknm",
+            "icon": "sk_c4025_2",
+            "can_enhance": true,
+            "description": "sk_c4025_2_de",
+            "passive": false,
+            "cooldown": 3,
+            "soul_gain": 2,
+            "pow": 0.95,
+            "att_rate": 0.8,
+            "soul_description": "sk_c4025_2s_de",
+            "soul_requirement": 10,
+            "enhanced_description": "sk_c4025_2u_de",
+            "enhancements": [
+                "sklv_de_dmg5",
+                "sklv_de_dmg5",
+                "sklv_de_dmg10",
+                "sklv_de_dmg15"
+            ]
+        },
+        {
+            "name": "sk_c4025_3_sknm",
+            "icon": "sk_c4025_3",
+            "can_enhance": false,
+            "description": "sk_c4025_3_de",
+            "passive": false,
+            "cooldown": 3,
+            "soul_gain": 1,
+            "pow": 0.9,
+            "att_rate": 1.8,
+            "enhancements": [
+                "sklv_de_dmg5",
+                "sklv_de_dmg5",
+                "sklv_de_dmg5",
+                "sklv_de_eff1_10",
+                "sklv_de_eff1_10",
+                "sklv_de_dmg10",
+                "sklv_de_dmg15"
+            ]
+        }
+    ]
+}

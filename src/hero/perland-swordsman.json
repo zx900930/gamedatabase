@@ -1,0 +1,23 @@
+{
+    "id": "m0413",
+    "name": "chrn_m0413",
+    "moonlight": false,
+    "rarity": 2,
+    "attribute": "wind",
+    "role": "warrior",
+    "zodiac": "scales",
+    "description": "m0413_2line",
+    "story": "m0413_de_story",
+    "get_line": "m0413_gacha_get",
+    "stats": {
+        "bra": 0,
+        "int": 0,
+        "fai": 0,
+        "des": 0
+    },
+    "devotion": {},
+    "specialty": {},
+    "camping": {},
+    "zodiac_tree": [],
+    "skills": []
+}

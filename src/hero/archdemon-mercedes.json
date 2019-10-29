@@ -1,0 +1,23 @@
+{
+    "id": "m9194",
+    "name": "chrn_m9194",
+    "moonlight": false,
+    "rarity": 5,
+    "attribute": "dark",
+    "role": "mage",
+    "zodiac": "scorpion",
+    "description": "m9194_2line",
+    "story": "m9194_de_story",
+    "get_line": "m9194_gacha_get",
+    "stats": {
+        "bra": 115,
+        "int": 309,
+        "fai": 86,
+        "des": 50
+    },
+    "devotion": {},
+    "specialty": {},
+    "camping": {},
+    "zodiac_tree": [],
+    "skills": []
+}
