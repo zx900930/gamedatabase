@@ -1,4 +1,5 @@
 {
+    "_id": "rikoris",
     "id": "c3034",
     "name": "chrn_c3034",
     "moonlight": true,
@@ -264,6 +265,9 @@
             "icon": "sk_m0005_l",
             "can_enhance": false,
             "description": "sk_c3034_1_de",
+            "values": [
+                0.35
+            ],
             "passive": false,
             "cooldown": 0,
             "soul_gain": 1,
@@ -283,6 +287,7 @@
             "icon": "sk_m0020_l",
             "can_enhance": true,
             "description": "sk_c3034_2_de",
+            "values": [],
             "passive": false,
             "cooldown": 6,
             "soul_gain": 1,
@@ -301,6 +306,9 @@
             "icon": "sk_m0006_l",
             "can_enhance": false,
             "description": "sk_c3034_3_de",
+            "values": [
+                0.75
+            ],
             "passive": false,
             "cooldown": 3,
             "soul_gain": 2,

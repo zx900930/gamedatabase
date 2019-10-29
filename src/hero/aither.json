@@ -1,4 +1,5 @@
 {
+    "_id": "aither",
     "id": "c1018",
     "name": "chrn_c1018",
     "moonlight": false,
@@ -264,6 +265,9 @@
             "icon": "sk_c1018_1",
             "can_enhance": false,
             "description": "sk_c1018_1_de",
+            "values": [
+                0.4
+            ],
             "passive": false,
             "cooldown": 0,
             "soul_gain": 1,
@@ -281,6 +285,7 @@
             "icon": "sk_c1018_2",
             "can_enhance": false,
             "description": "sk_c1018_2_de",
+            "values": [],
             "passive": false,
             "cooldown": 2,
             "soul_gain": 1,
@@ -300,6 +305,7 @@
             "icon": "sk_c1018_3",
             "can_enhance": true,
             "description": "sk_c1018_3_de",
+            "values": [],
             "passive": false,
             "cooldown": 3,
             "soul_gain": 2,

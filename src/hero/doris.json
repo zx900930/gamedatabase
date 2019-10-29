@@ -1,4 +1,5 @@
 {
+    "_id": "doris",
     "id": "c3044",
     "name": "chrn_c3044",
     "moonlight": true,
@@ -264,6 +265,9 @@
             "icon": "sk_m0009_l",
             "can_enhance": false,
             "description": "sk_c3044_1_de",
+            "values": [
+                0.5
+            ],
             "passive": false,
             "cooldown": 0,
             "soul_gain": 1,
@@ -282,6 +286,7 @@
             "icon": "sk_m0027_l",
             "can_enhance": false,
             "description": "sk_c3044_2_de",
+            "values": [],
             "passive": false,
             "cooldown": 5,
             "soul_gain": 2,
@@ -302,6 +307,7 @@
             "icon": "sk_m0020_l",
             "can_enhance": true,
             "description": "sk_c3044_3_de",
+            "values": [],
             "passive": false,
             "cooldown": 3,
             "soul_gain": 2,

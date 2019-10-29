@@ -1,4 +1,5 @@
 {
+    "_id": "challenger-dominiel",
     "id": "c2037",
     "name": "chrn_c2037",
     "moonlight": true,
@@ -271,6 +272,7 @@
             "icon": "sk_c2037_1",
             "can_enhance": false,
             "description": "sk_c2037_1_de",
+            "values": [],
             "passive": false,
             "cooldown": 0,
             "soul_gain": 1,
@@ -291,6 +293,7 @@
             "icon": "pa_c2037_2",
             "can_enhance": true,
             "description": "sk_c2037_2_de",
+            "values": [],
             "passive": true,
             "cooldown": 0,
             "soul_gain": 0,
@@ -310,6 +313,9 @@
             "icon": "sk_c2037_3",
             "can_enhance": false,
             "description": "sk_c2037_3_de",
+            "values": [
+                0.1
+            ],
             "passive": false,
             "cooldown": 5,
             "soul_gain": 2,

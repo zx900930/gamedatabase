@@ -1,4 +1,5 @@
 {
+    "_id": "carmainerose",
     "id": "c3071",
     "name": "chrn_c3071",
     "moonlight": false,
@@ -264,6 +265,7 @@
             "icon": "sk_m0009_f",
             "can_enhance": false,
             "description": "sk_c3071_1_de",
+            "values": [],
             "passive": false,
             "cooldown": 0,
             "soul_gain": 1,
@@ -282,6 +284,9 @@
             "icon": "sk_m0010_f",
             "can_enhance": true,
             "description": "sk_c3071_2_de",
+            "values": [
+                0.35
+            ],
             "passive": false,
             "cooldown": 4,
             "soul_gain": 2,
@@ -301,6 +306,7 @@
             "icon": "sk_m0024_f",
             "can_enhance": false,
             "description": "sk_c3071_3_de",
+            "values": [],
             "passive": false,
             "cooldown": 4,
             "soul_gain": 2,

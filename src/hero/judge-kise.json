@@ -1,4 +1,5 @@
 {
+    "_id": "judge-kise",
     "id": "c2006",
     "name": "chrn_c2006",
     "moonlight": true,
@@ -270,6 +271,9 @@
             "icon": "sk_c1006_1",
             "can_enhance": false,
             "description": "sk_c2006_1_de",
+            "values": [
+                0.35
+            ],
             "passive": false,
             "cooldown": 0,
             "soul_gain": 1,
@@ -287,6 +291,7 @@
             "icon": "sk_c1006_2",
             "can_enhance": false,
             "description": "sk_c2006_2_de",
+            "values": [],
             "passive": false,
             "cooldown": 3,
             "soul_gain": 2,
@@ -306,6 +311,9 @@
             "icon": "sk_c1006_3",
             "can_enhance": true,
             "description": "sk_c2006_3_de",
+            "values": [
+                0.55
+            ],
             "passive": false,
             "cooldown": 6,
             "soul_gain": 3,

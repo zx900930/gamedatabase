@@ -1,4 +1,5 @@
 {
+    "_id": "lorina",
     "id": "c3035",
     "name": "chrn_c3035",
     "moonlight": true,
@@ -264,6 +265,7 @@
             "icon": "sk_m0005_d",
             "can_enhance": true,
             "description": "sk_c3035_1_de",
+            "values": [],
             "passive": false,
             "cooldown": 0,
             "soul_gain": 1,
@@ -283,6 +285,9 @@
             "icon": "pa_m0019_d",
             "can_enhance": false,
             "description": "sk_c3035_2_de",
+            "values": [
+                0.1
+            ],
             "passive": true,
             "cooldown": 0,
             "soul_gain": 0,
@@ -301,6 +306,7 @@
             "icon": "sk_m0006_d",
             "can_enhance": false,
             "description": "sk_c3035_3_de",
+            "values": [],
             "passive": false,
             "cooldown": 4,
             "soul_gain": 2,

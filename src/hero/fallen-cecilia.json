@@ -1,4 +1,5 @@
 {
+    "_id": "fallen-cecilia",
     "id": "c2002",
     "name": "chrn_c2002",
     "moonlight": true,
@@ -270,6 +271,9 @@
             "icon": "sk_c2002_1",
             "can_enhance": false,
             "description": "sk_c2002_1_de",
+            "values": [
+                0.85
+            ],
             "passive": false,
             "cooldown": 0,
             "soul_gain": 1,
@@ -288,6 +292,7 @@
             "icon": "sk_c2002_2",
             "can_enhance": true,
             "description": "sk_c2002_2_de",
+            "values": [],
             "passive": true,
             "cooldown": 0,
             "soul_gain": 0,
@@ -307,6 +312,7 @@
             "icon": "sk_c2002_3",
             "can_enhance": false,
             "description": "sk_c2002_3_de",
+            "values": [],
             "passive": false,
             "cooldown": 6,
             "soul_gain": 2,

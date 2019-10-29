@@ -1,4 +1,5 @@
 {
+    "_id": "otillie",
     "id": "c3045",
     "name": "chrn_c3045",
     "moonlight": true,
@@ -261,6 +262,9 @@
             "icon": "sk_m0009_d",
             "can_enhance": false,
             "description": "sk_c3045_1_de",
+            "values": [
+                0.35
+            ],
             "passive": false,
             "cooldown": 0,
             "soul_gain": 1,
@@ -279,6 +283,9 @@
             "icon": "pa_m0026_d",
             "can_enhance": false,
             "description": "sk_c3045_2_de",
+            "values": [
+                0.25
+            ],
             "passive": true,
             "cooldown": 0,
             "soul_gain": 0,
@@ -297,6 +304,9 @@
             "icon": "sk_m0010_d",
             "can_enhance": true,
             "description": "sk_c3045_3_de",
+            "values": [
+                0.25
+            ],
             "passive": false,
             "cooldown": 4,
             "soul_gain": 2,

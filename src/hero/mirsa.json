@@ -1,4 +1,5 @@
 {
+    "_id": "mirsa",
     "id": "c3014",
     "name": "chrn_c3014",
     "moonlight": true,
@@ -264,6 +265,9 @@
             "icon": "sk_m0015_l",
             "can_enhance": false,
             "description": "sk_c3014_1_de",
+            "values": [
+                0.35
+            ],
             "passive": false,
             "cooldown": 0,
             "soul_gain": 1,
@@ -283,6 +287,9 @@
             "icon": "pa_m0019_l",
             "can_enhance": false,
             "description": "sk_c3014_2_de",
+            "values": [
+                0.15
+            ],
             "passive": true,
             "cooldown": 0,
             "soul_gain": 0,
@@ -299,6 +306,7 @@
             "icon": "sk_m0016_l",
             "can_enhance": true,
             "description": "sk_c3014_3_de",
+            "values": [],
             "passive": false,
             "cooldown": 5,
             "soul_gain": 2,

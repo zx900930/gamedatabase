@@ -1,4 +1,5 @@
 {
+    "_id": "vivian",
     "id": "c1088",
     "name": "chrn_c1088",
     "moonlight": false,
@@ -270,6 +271,9 @@
             "icon": "sk_c1088_1",
             "can_enhance": true,
             "description": "sk_c1088_1_de",
+            "values": [
+                0.1
+            ],
             "passive": false,
             "cooldown": 0,
             "soul_gain": 1,
@@ -291,6 +295,7 @@
             "icon": "sk_c1088_2",
             "can_enhance": false,
             "description": "sk_c1088_2_de",
+            "values": [],
             "passive": false,
             "cooldown": 2,
             "soul_gain": 2,
@@ -313,6 +318,7 @@
             "icon": "sk_c1088_3",
             "can_enhance": false,
             "description": "sk_c1088_3_de",
+            "values": [],
             "passive": false,
             "cooldown": 6,
             "soul_gain": 3,

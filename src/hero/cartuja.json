@@ -1,4 +1,5 @@
 {
+    "_id": "cartuja",
     "id": "c1013",
     "name": "chrn_c1013",
     "moonlight": false,
@@ -271,6 +272,9 @@
             "icon": "sk_c1013_1",
             "can_enhance": false,
             "description": "sk_c1013_1_de",
+            "values": [
+                0.35
+            ],
             "passive": false,
             "cooldown": 0,
             "soul_gain": 1,
@@ -290,6 +294,9 @@
             "icon": "pa_c1013_2",
             "can_enhance": false,
             "description": "sk_c1013_2_de",
+            "values": [
+                0.1
+            ],
             "passive": true,
             "cooldown": 0,
             "soul_gain": 0,
@@ -306,6 +313,9 @@
             "icon": "sk_c1013_3",
             "can_enhance": true,
             "description": "sk_c1013_3_de",
+            "values": [
+                0.5
+            ],
             "passive": false,
             "cooldown": 5,
             "soul_gain": 3,

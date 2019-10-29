@@ -1,4 +1,5 @@
 {
+    "_id": "taranor-royal-guard",
     "id": "c3002",
     "name": "chrn_c3002",
     "moonlight": false,
@@ -264,6 +265,9 @@
             "icon": "sk_m0011_i",
             "can_enhance": false,
             "description": "sk_c3002_1_de",
+            "values": [
+                0.35
+            ],
             "passive": false,
             "cooldown": 0,
             "soul_gain": 1,
@@ -282,6 +286,9 @@
             "icon": "pa_m0019_i",
             "can_enhance": false,
             "description": "sk_c3002_2_de",
+            "values": [
+                0.3
+            ],
             "passive": true,
             "cooldown": 0,
             "soul_gain": 0,
@@ -300,6 +307,7 @@
             "icon": "sk_m0012_i",
             "can_enhance": true,
             "description": "sk_c3002_3_de",
+            "values": [],
             "passive": false,
             "cooldown": 4,
             "soul_gain": 2,

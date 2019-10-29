@@ -1,4 +1,5 @@
 {
+    "_id": "adlay",
     "id": "c3043",
     "name": "chrn_c3043",
     "moonlight": false,
@@ -264,6 +265,9 @@
             "icon": "sk_m0009_w",
             "can_enhance": false,
             "description": "sk_c3043_1_de",
+            "values": [
+                0.25
+            ],
             "passive": false,
             "cooldown": 0,
             "soul_gain": 1,
@@ -282,6 +286,9 @@
             "icon": "pa_m0019_w",
             "can_enhance": true,
             "description": "sk_c3043_2_de",
+            "values": [
+                0.09
+            ],
             "passive": true,
             "cooldown": 0,
             "soul_gain": 0,
@@ -301,6 +308,9 @@
             "icon": "sk_m0010_w",
             "can_enhance": false,
             "description": "sk_c3043_3_de",
+            "values": [
+                0.5
+            ],
             "passive": false,
             "cooldown": 5,
             "soul_gain": 3,

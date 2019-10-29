@@ -1,4 +1,5 @@
 {
+    "_id": "alexa",
     "id": "c3012",
     "name": "chrn_c3012",
     "moonlight": false,
@@ -264,6 +265,7 @@
             "icon": "sk_m0015_i",
             "can_enhance": true,
             "description": "sk_c3012_1_de",
+            "values": [],
             "passive": false,
             "cooldown": 0,
             "soul_gain": 1,
@@ -281,6 +283,9 @@
             "icon": "sk_m0016_i",
             "can_enhance": false,
             "description": "sk_c3012_2_de",
+            "values": [
+                0.8
+            ],
             "passive": false,
             "cooldown": 3,
             "soul_gain": 2,
@@ -302,6 +307,7 @@
             "icon": "sk_m0020_i",
             "can_enhance": false,
             "description": "sk_c3012_3_de",
+            "values": [],
             "passive": false,
             "cooldown": 5,
             "soul_gain": 2,

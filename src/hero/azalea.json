@@ -1,4 +1,5 @@
 {
+    "_id": "azalea",
     "id": "c3031",
     "name": "chrn_c3031",
     "moonlight": false,
@@ -264,6 +265,7 @@
             "icon": "sk_m0005_f",
             "can_enhance": false,
             "description": "sk_c3031_1_de",
+            "values": [],
             "passive": false,
             "cooldown": 0,
             "soul_gain": 1,
@@ -282,6 +284,9 @@
             "icon": "sk_m0006_f",
             "can_enhance": true,
             "description": "sk_c3031_2_de",
+            "values": [
+                0.8
+            ],
             "passive": false,
             "cooldown": 5,
             "soul_gain": 3,
@@ -303,6 +308,9 @@
             "icon": "sk_m0017_f",
             "can_enhance": false,
             "description": "sk_c3031_3_de",
+            "values": [
+                0.65
+            ],
             "passive": false,
             "cooldown": 4,
             "soul_gain": 2,

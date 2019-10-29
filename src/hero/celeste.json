@@ -1,4 +1,5 @@
 {
+    "_id": "celeste",
     "id": "c3064",
     "name": "chrn_c3064",
     "moonlight": true,
@@ -264,6 +265,9 @@
             "icon": "sk_m0007_l",
             "can_enhance": false,
             "description": "sk_c3064_1_de",
+            "values": [
+                0.5
+            ],
             "passive": false,
             "cooldown": 0,
             "soul_gain": 1,
@@ -283,6 +287,7 @@
             "icon": "sk_m0037_l",
             "can_enhance": false,
             "description": "sk_c3064_2_de",
+            "values": [],
             "passive": false,
             "cooldown": 4,
             "soul_gain": 2,
@@ -305,6 +310,7 @@
             "icon": "sk_m0020_l",
             "can_enhance": true,
             "description": "sk_c3064_3_de",
+            "values": [],
             "passive": false,
             "cooldown": 4,
             "soul_gain": 1,

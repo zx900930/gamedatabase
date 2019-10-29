@@ -1,4 +1,5 @@
 {
+    "_id": "kikirat-v2",
     "id": "c3084",
     "name": "chrn_c3084",
     "moonlight": false,
@@ -223,6 +224,9 @@
             "icon": "sk_m0008_l",
             "can_enhance": false,
             "description": "sk_c3084_1_de",
+            "values": [
+                0.65
+            ],
             "passive": false,
             "cooldown": 0,
             "soul_gain": 1,
@@ -241,6 +245,9 @@
             "icon": "pa_resist",
             "can_enhance": false,
             "description": "sk_c3084_2_de",
+            "values": [
+                0.07
+            ],
             "passive": true,
             "cooldown": 0,
             "soul_gain": 0,
@@ -259,6 +266,9 @@
             "icon": "sk_m0024_l",
             "can_enhance": true,
             "description": "sk_c3084_3_de",
+            "values": [
+                0.6
+            ],
             "passive": false,
             "cooldown": 3,
             "soul_gain": 2,

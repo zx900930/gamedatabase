@@ -1,4 +1,5 @@
 {
+    "_id": "seaside-bellona",
     "id": "c5071",
     "name": "chrn_c5071",
     "moonlight": false,
@@ -270,6 +271,9 @@
             "icon": "sk_c5071_1",
             "can_enhance": true,
             "description": "sk_c5071_1_de",
+            "values": [
+                0.6
+            ],
             "passive": false,
             "cooldown": 0,
             "soul_gain": 1,
@@ -290,6 +294,7 @@
             "icon": "sk_c5071_2",
             "can_enhance": false,
             "description": "sk_c5071_2_de",
+            "values": [],
             "passive": true,
             "cooldown": 0,
             "soul_gain": 0,
@@ -306,6 +311,9 @@
             "icon": "sk_c5071_3",
             "can_enhance": false,
             "description": "sk_c5071_3_de",
+            "values": [
+                0.85
+            ],
             "passive": false,
             "cooldown": 5,
             "soul_gain": 3,

@@ -1,4 +1,5 @@
 {
+    "_id": "pyllis",
     "id": "c3005",
     "name": "chrn_c3005",
     "moonlight": true,
@@ -264,6 +265,9 @@
             "icon": "sk_m0011_d",
             "can_enhance": false,
             "description": "sk_c3005_1_de",
+            "values": [
+                0.5
+            ],
             "passive": false,
             "cooldown": 0,
             "soul_gain": 1,
@@ -282,6 +286,7 @@
             "icon": "pa_m0026_d",
             "can_enhance": false,
             "description": "sk_c3005_2_de",
+            "values": [],
             "passive": true,
             "cooldown": 0,
             "soul_gain": 0,
@@ -300,6 +305,7 @@
             "icon": "sk_m0012_d",
             "can_enhance": true,
             "description": "sk_c3005_3_de",
+            "values": [],
             "passive": false,
             "cooldown": 4,
             "soul_gain": 2,

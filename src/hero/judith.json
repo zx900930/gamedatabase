@@ -1,4 +1,5 @@
 {
+    "_id": "judith",
     "id": "c3011",
     "name": "chrn_c3011",
     "moonlight": false,
@@ -261,6 +262,9 @@
             "icon": "sk_m0015_f",
             "can_enhance": false,
             "description": "sk_c3011_1_de",
+            "values": [
+                0.75
+            ],
             "passive": false,
             "cooldown": 0,
             "soul_gain": 1,
@@ -279,6 +283,9 @@
             "icon": "pa_m0019_f",
             "can_enhance": false,
             "description": "sk_c3011_2_de",
+            "values": [
+                0.7
+            ],
             "passive": true,
             "cooldown": 1,
             "soul_gain": 0,
@@ -297,6 +304,9 @@
             "icon": "sk_m0016_f",
             "can_enhance": true,
             "description": "sk_c3011_3_de",
+            "values": [
+                0.2
+            ],
             "passive": false,
             "cooldown": 4,
             "soul_gain": 2,

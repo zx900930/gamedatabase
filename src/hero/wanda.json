@@ -1,4 +1,5 @@
 {
+    "_id": "wanda",
     "id": "c3065",
     "name": "chrn_c3065",
     "moonlight": true,
@@ -264,6 +265,9 @@
             "icon": "sk_m0007_d",
             "can_enhance": false,
             "description": "sk_c3065_1_de",
+            "values": [
+                0.1
+            ],
             "passive": false,
             "cooldown": 0,
             "soul_gain": 1,
@@ -283,6 +287,9 @@
             "icon": "pa_m0008_d",
             "can_enhance": false,
             "description": "sk_c3065_2_de",
+            "values": [
+                0.8
+            ],
             "passive": true,
             "cooldown": 0,
             "soul_gain": 0,
@@ -299,6 +306,9 @@
             "icon": "sk_m0036_d",
             "can_enhance": true,
             "description": "sk_c3065_3_de",
+            "values": [
+                0.8
+            ],
             "passive": false,
             "cooldown": 4,
             "soul_gain": 2,

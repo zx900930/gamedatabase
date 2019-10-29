@@ -1,4 +1,5 @@
 {
+    "_id": "lidica",
     "id": "c1046",
     "name": "chrn_c1046",
     "moonlight": false,
@@ -270,6 +271,7 @@
             "icon": "sk_c1046_1",
             "can_enhance": true,
             "description": "sk_c1046_1_de",
+            "values": [],
             "passive": false,
             "cooldown": 0,
             "soul_gain": 1,
@@ -289,6 +291,9 @@
             "icon": "sk_c1046_2",
             "can_enhance": false,
             "description": "sk_c1046_2_de",
+            "values": [
+                0.85
+            ],
             "passive": false,
             "cooldown": 3,
             "soul_gain": 2,
@@ -309,6 +314,7 @@
             "icon": "sk_c1046_3",
             "can_enhance": false,
             "description": "sk_c1046_3_de",
+            "values": [],
             "passive": false,
             "cooldown": 5,
             "soul_gain": 3,

@@ -1,4 +1,5 @@
 {
+    "_id": "jecht",
     "id": "c3053",
     "name": "chrn_c3053",
     "moonlight": false,
@@ -264,6 +265,9 @@
             "icon": "sk_m0003_w",
             "can_enhance": false,
             "description": "sk_c3053_1_de",
+            "values": [
+                0.5
+            ],
             "passive": false,
             "cooldown": 0,
             "soul_gain": 1,
@@ -281,6 +285,9 @@
             "icon": "pa_m0019_w",
             "can_enhance": false,
             "description": "sk_c3053_2_de",
+            "values": [
+                0.8
+            ],
             "passive": true,
             "cooldown": 0,
             "soul_gain": 0,
@@ -298,6 +305,7 @@
             "icon": "sk_m0024_w",
             "can_enhance": true,
             "description": "sk_c3053_3_de",
+            "values": [],
             "passive": false,
             "cooldown": 5,
             "soul_gain": 2,

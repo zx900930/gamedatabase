@@ -1,4 +1,5 @@
 {
+    "_id": "carrot",
     "id": "c3051",
     "name": "chrn_c3051",
     "moonlight": false,
@@ -264,6 +265,9 @@
             "icon": "sk_m0003_f",
             "can_enhance": false,
             "description": "sk_c3051_1_de",
+            "values": [
+                0.35
+            ],
             "passive": false,
             "cooldown": 0,
             "soul_gain": 1,
@@ -285,6 +289,9 @@
             "icon": "pa_m0020_f",
             "can_enhance": false,
             "description": "sk_c3051_2_de",
+            "values": [
+                0.3
+            ],
             "passive": true,
             "cooldown": 1,
             "soul_gain": 0,
@@ -300,6 +307,9 @@
             "icon": "sk_m0024_f",
             "can_enhance": true,
             "description": "sk_c3051_3_de",
+            "values": [
+                0.6
+            ],
             "passive": false,
             "cooldown": 4,
             "soul_gain": 3,

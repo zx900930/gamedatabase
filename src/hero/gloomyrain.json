@@ -1,4 +1,5 @@
 {
+    "_id": "gloomyrain",
     "id": "c3074",
     "name": "chrn_c3074",
     "moonlight": true,
@@ -264,6 +265,9 @@
             "icon": "sk_m0009_l",
             "can_enhance": true,
             "description": "sk_c3074_1_de",
+            "values": [
+                0.1
+            ],
             "passive": false,
             "cooldown": 0,
             "soul_gain": 1,
@@ -284,6 +288,9 @@
             "icon": "pa_m0019_l",
             "can_enhance": false,
             "description": "sk_c3074_2_de",
+            "values": [
+                0.2
+            ],
             "passive": true,
             "cooldown": 0,
             "soul_gain": 0,
@@ -300,6 +307,9 @@
             "icon": "sk_m0010_l",
             "can_enhance": false,
             "description": "sk_c3074_3_de",
+            "values": [
+                0.75
+            ],
             "passive": false,
             "cooldown": 4,
             "soul_gain": 2,

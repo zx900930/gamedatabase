@@ -1,4 +1,5 @@
 {
+    "_id": "violet",
     "id": "c1074",
     "name": "chrn_c1074",
     "moonlight": false,
@@ -270,6 +271,9 @@
             "icon": "sk_c1074_1",
             "can_enhance": false,
             "description": "sk_c1074_1_de",
+            "values": [
+                0.65
+            ],
             "passive": false,
             "cooldown": 0,
             "soul_gain": 1,
@@ -292,6 +296,7 @@
             "icon": "sk_c1074_2",
             "can_enhance": false,
             "description": "sk_c1074_2_de",
+            "values": [],
             "passive": false,
             "cooldown": 5,
             "soul_gain": 2,
@@ -306,6 +311,7 @@
             "icon": "sk_c1074_3",
             "can_enhance": true,
             "description": "sk_c1074_3_de",
+            "values": [],
             "passive": false,
             "cooldown": 6,
             "soul_gain": 3,

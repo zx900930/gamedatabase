@@ -1,4 +1,5 @@
 {
+    "_id": "hurado",
     "id": "c3055",
     "name": "chrn_c3055",
     "moonlight": true,
@@ -264,6 +265,9 @@
             "icon": "sk_m0003_d",
             "can_enhance": false,
             "description": "sk_c3055_1_de",
+            "values": [
+                0.35
+            ],
             "passive": false,
             "cooldown": 0,
             "soul_gain": 1,
@@ -283,6 +287,9 @@
             "icon": "pa_m0019_d",
             "can_enhance": false,
             "description": "sk_c3055_2_de",
+            "values": [
+                0.35
+            ],
             "passive": true,
             "cooldown": 0,
             "soul_gain": 0,
@@ -299,6 +306,9 @@
             "icon": "sk_m0024_d",
             "can_enhance": true,
             "description": "sk_c3055_3_de",
+            "values": [
+                0.8
+            ],
             "passive": false,
             "cooldown": 4,
             "soul_gain": 2,

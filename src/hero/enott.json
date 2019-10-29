@@ -1,4 +1,5 @@
 {
+    "_id": "enott",
     "id": "c3022",
     "name": "chrn_c3022",
     "moonlight": false,
@@ -264,6 +265,9 @@
             "icon": "sk_m0013_i",
             "can_enhance": false,
             "description": "sk_c3022_1_de",
+            "values": [
+                0.3
+            ],
             "passive": false,
             "cooldown": 0,
             "soul_gain": 1,
@@ -282,6 +286,9 @@
             "icon": "sk_m0014_i",
             "can_enhance": false,
             "description": "sk_c3022_2_de",
+            "values": [
+                0.5
+            ],
             "passive": false,
             "cooldown": 5,
             "soul_gain": 2,
@@ -300,6 +307,9 @@
             "icon": "sk_m0017_i",
             "can_enhance": true,
             "description": "sk_c3022_3_de",
+            "values": [
+                0.3
+            ],
             "passive": false,
             "cooldown": 4,
             "soul_gain": 1,

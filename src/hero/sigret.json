@@ -1,4 +1,5 @@
 {
+    "_id": "sigret",
     "id": "c1072",
     "name": "chrn_c1072",
     "moonlight": false,
@@ -270,6 +271,9 @@
             "icon": "sk_c1072_1",
             "can_enhance": false,
             "description": "sk_c1072_1_de",
+            "values": [
+                0.4
+            ],
             "passive": false,
             "cooldown": 0,
             "soul_gain": 1,
@@ -288,6 +292,9 @@
             "icon": "sk_c1072_2",
             "can_enhance": false,
             "description": "sk_c1072_2_de",
+            "values": [
+                0.85
+            ],
             "passive": false,
             "cooldown": 3,
             "soul_gain": 2,
@@ -308,6 +315,7 @@
             "icon": "sk_c1072_3",
             "can_enhance": true,
             "description": "sk_c1072_3_de",
+            "values": [],
             "passive": false,
             "cooldown": 5,
             "soul_gain": 3,

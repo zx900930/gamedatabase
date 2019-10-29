@@ -1,4 +1,5 @@
 {
+    "_id": "bellona",
     "id": "c1071",
     "name": "chrn_c1071",
     "moonlight": false,
@@ -270,6 +271,7 @@
             "icon": "sk_c1071_1",
             "can_enhance": false,
             "description": "sk_c1071_1_de",
+            "values": [],
             "passive": false,
             "cooldown": 0,
             "soul_gain": 1,
@@ -288,6 +290,7 @@
             "icon": "sk_c1071_2",
             "can_enhance": true,
             "description": "sk_c1071_2_de",
+            "values": [],
             "passive": false,
             "cooldown": 3,
             "soul_gain": 2,
@@ -307,6 +310,9 @@
             "icon": "sk_c1071_3",
             "can_enhance": false,
             "description": "sk_c1071_3_de",
+            "values": [
+                0.65
+            ],
             "passive": false,
             "cooldown": 6,
             "soul_gain": 2,

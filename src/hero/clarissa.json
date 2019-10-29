@@ -1,4 +1,5 @@
 {
+    "_id": "clarissa",
     "id": "c1028",
     "name": "chrn_c1028",
     "moonlight": false,
@@ -271,6 +272,9 @@
             "icon": "sk_c1028_1",
             "can_enhance": false,
             "description": "sk_c1028_1_de",
+            "values": [
+                0.35
+            ],
             "passive": false,
             "cooldown": 0,
             "soul_gain": 1,
@@ -289,6 +293,7 @@
             "icon": "pa_c1028_2",
             "can_enhance": false,
             "description": "sk_c1028_2_de",
+            "values": [],
             "passive": true,
             "cooldown": 0,
             "soul_gain": 0,
@@ -307,6 +312,7 @@
             "icon": "sk_c1028_3",
             "can_enhance": true,
             "description": "sk_c1028_3_de",
+            "values": [],
             "passive": false,
             "cooldown": 4,
             "soul_gain": 2,

@@ -1,4 +1,5 @@
 {
+    "_id": "roaming-warrior-leo",
     "id": "c2029",
     "name": "chrn_c2029",
     "moonlight": true,
@@ -271,6 +272,9 @@
             "icon": "sk_c2029_1",
             "can_enhance": true,
             "description": "sk_c2029_1_de",
+            "values": [
+                0.35
+            ],
             "passive": false,
             "cooldown": 0,
             "soul_gain": 1,
@@ -290,6 +294,9 @@
             "icon": "sk_c2029_2",
             "can_enhance": false,
             "description": "sk_c2029_2_de",
+            "values": [
+                0.8
+            ],
             "passive": false,
             "cooldown": 3,
             "soul_gain": 1,
@@ -308,6 +315,9 @@
             "icon": "sk_c2029_3",
             "can_enhance": false,
             "description": "sk_c2029_3_de",
+            "values": [
+                0.75
+            ],
             "passive": false,
             "cooldown": 5,
             "soul_gain": 2,

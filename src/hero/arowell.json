@@ -1,4 +1,5 @@
 {
+    "_id": "arowell",
     "id": "c3004",
     "name": "chrn_c3004",
     "moonlight": true,
@@ -264,6 +265,9 @@
             "icon": "sk_m0011_l",
             "can_enhance": false,
             "description": "sk_c3004_1_de",
+            "values": [
+                0.5
+            ],
             "passive": false,
             "cooldown": 0,
             "soul_gain": 1,
@@ -283,6 +287,9 @@
             "icon": "pa_m0026_l",
             "can_enhance": false,
             "description": "sk_c3004_2_de",
+            "values": [
+                0.09
+            ],
             "passive": true,
             "cooldown": 0,
             "soul_gain": 0,
@@ -299,6 +306,9 @@
             "icon": "sk_m0012_l",
             "can_enhance": true,
             "description": "sk_c3004_3_de",
+            "values": [
+                0.75
+            ],
             "passive": false,
             "cooldown": 4,
             "soul_gain": 2,

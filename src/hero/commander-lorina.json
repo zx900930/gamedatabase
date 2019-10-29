@@ -1,4 +1,5 @@
 {
+    "_id": "commander-lorina",
     "id": "c4035",
     "name": "chrn_c4035",
     "moonlight": true,
@@ -264,6 +265,7 @@
             "icon": "sk_c4035_1",
             "can_enhance": true,
             "description": "sk_c4035_1_de",
+            "values": [],
             "passive": false,
             "cooldown": 0,
             "soul_gain": 1,
@@ -283,6 +285,9 @@
             "icon": "sk_c4035_2",
             "can_enhance": false,
             "description": "sk_c4035_2_de",
+            "values": [
+                0.1
+            ],
             "passive": true,
             "cooldown": 0,
             "soul_gain": 0,
@@ -301,6 +306,9 @@
             "icon": "sk_c4035_3",
             "can_enhance": false,
             "description": "sk_c4035_3_de",
+            "values": [
+                0.15
+            ],
             "passive": false,
             "cooldown": 4,
             "soul_gain": 2,

@@ -1,4 +1,5 @@
 {
+    "_id": "kitty-clarissa",
     "id": "c2028",
     "name": "chrn_c2028",
     "moonlight": true,
@@ -271,6 +272,7 @@
             "icon": "sk_c2028_1",
             "can_enhance": false,
             "description": "sk_c2028_1_de",
+            "values": [],
             "passive": false,
             "cooldown": 0,
             "soul_gain": 1,
@@ -291,6 +293,9 @@
             "icon": "sk_c2028_2",
             "can_enhance": true,
             "description": "sk_c2028_2_de",
+            "values": [
+                0.6
+            ],
             "passive": false,
             "cooldown": 3,
             "soul_gain": 1,
@@ -314,6 +319,7 @@
             "icon": "sk_c2028_3",
             "can_enhance": false,
             "description": "sk_c2028_3_de",
+            "values": [],
             "passive": false,
             "cooldown": 5,
             "soul_gain": 2,

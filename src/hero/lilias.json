@@ -1,4 +1,5 @@
 {
+    "_id": "lilias",
     "id": "c1089",
     "name": "chrn_c1089",
     "moonlight": false,
@@ -270,6 +271,7 @@
             "icon": "sk_c1089_1",
             "can_enhance": false,
             "description": "sk_c1089_1_de",
+            "values": [],
             "passive": false,
             "cooldown": 0,
             "soul_gain": 1,
@@ -289,6 +291,9 @@
             "icon": "sk_c1089_2",
             "can_enhance": false,
             "description": "sk_c1089_2_de",
+            "values": [
+                0.85
+            ],
             "passive": false,
             "cooldown": 5,
             "soul_gain": 2,
@@ -307,6 +312,7 @@
             "icon": "sk_c1089_3",
             "can_enhance": true,
             "description": "sk_c1089_3_de",
+            "values": [],
             "passive": false,
             "cooldown": 5,
             "soul_gain": 3,

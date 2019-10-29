@@ -1,4 +1,5 @@
 {
+    "_id": "roozid",
     "id": "c3013",
     "name": "chrn_c3013",
     "moonlight": false,
@@ -264,6 +265,9 @@
             "icon": "sk_m0015_w",
             "can_enhance": false,
             "description": "sk_c3013_1_de",
+            "values": [
+                0.35
+            ],
             "passive": false,
             "cooldown": 0,
             "soul_gain": 1,
@@ -282,6 +286,9 @@
             "icon": "sk_m0016_w",
             "can_enhance": false,
             "description": "sk_c3013_2_de",
+            "values": [
+                0.35
+            ],
             "passive": false,
             "cooldown": 3,
             "soul_gain": 1,
@@ -300,6 +307,9 @@
             "icon": "sk_m0027_w",
             "can_enhance": true,
             "description": "sk_c3013_3_de",
+            "values": [
+                0.15
+            ],
             "passive": false,
             "cooldown": 4,
             "soul_gain": 2,

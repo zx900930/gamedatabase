@@ -1,4 +1,5 @@
 {
+    "_id": "nemunas",
     "id": "c3061",
     "name": "chrn_c3061",
     "moonlight": false,
@@ -264,6 +265,9 @@
             "icon": "sk_m0007_f",
             "can_enhance": false,
             "description": "sk_c3061_1_de",
+            "values": [
+                0.1
+            ],
             "passive": false,
             "cooldown": 0,
             "soul_gain": 1,
@@ -283,6 +287,7 @@
             "icon": "sk_m0036_f",
             "can_enhance": false,
             "description": "sk_c3061_2_de",
+            "values": [],
             "passive": false,
             "cooldown": 5,
             "soul_gain": 2,
@@ -305,6 +310,7 @@
             "icon": "sk_m0027_f",
             "can_enhance": true,
             "description": "sk_c3061_3_de",
+            "values": [],
             "passive": false,
             "cooldown": 5,
             "soul_gain": 1,

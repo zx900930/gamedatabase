@@ -1,4 +1,5 @@
 {
+    "_id": "zerato",
     "id": "c1010",
     "name": "chrn_c1010",
     "moonlight": false,
@@ -268,6 +269,9 @@
             "icon": "sk_c1010_1",
             "can_enhance": false,
             "description": "sk_c1010_1_de",
+            "values": [
+                0.4
+            ],
             "passive": false,
             "cooldown": 0,
             "soul_gain": 1,
@@ -285,6 +289,7 @@
             "icon": "sk_c1010_2",
             "can_enhance": true,
             "description": "sk_c1010_2_de",
+            "values": [],
             "passive": false,
             "cooldown": 3,
             "soul_gain": 2,
@@ -305,6 +310,9 @@
             "icon": "sk_c1010_3",
             "can_enhance": false,
             "description": "sk_c1010_3_de",
+            "values": [
+                0.5
+            ],
             "passive": false,
             "cooldown": 5,
             "soul_gain": 2,

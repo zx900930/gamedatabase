@@ -1,4 +1,5 @@
 {
+    "_id": "hazel",
     "id": "c3041",
     "name": "chrn_c3041",
     "moonlight": false,
@@ -264,6 +265,9 @@
             "icon": "sk_m0009_f",
             "can_enhance": false,
             "description": "sk_c3041_1_de",
+            "values": [
+                0.3
+            ],
             "passive": false,
             "cooldown": 0,
             "soul_gain": 1,
@@ -281,6 +285,7 @@
             "icon": "sk_m0020_f",
             "can_enhance": false,
             "description": "sk_c3041_2_de",
+            "values": [],
             "passive": false,
             "cooldown": 2,
             "soul_gain": 1,
@@ -298,6 +303,7 @@
             "icon": "sk_m0027_f",
             "can_enhance": true,
             "description": "sk_c3041_3_de",
+            "values": [],
             "passive": false,
             "cooldown": 4,
             "soul_gain": 2,

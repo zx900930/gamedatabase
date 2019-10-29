@@ -1,4 +1,5 @@
 {
+    "_id": "auxiliary-lots",
     "id": "c2031",
     "name": "chrn_c2031",
     "moonlight": true,
@@ -268,6 +269,7 @@
             "icon": "sk_c2031_1",
             "can_enhance": false,
             "description": "sk_c2031_1_de",
+            "values": [],
             "passive": false,
             "cooldown": 0,
             "soul_gain": 1,
@@ -287,6 +289,9 @@
             "icon": "sk_c2031_2",
             "can_enhance": true,
             "description": "sk_c2031_2_de",
+            "values": [
+                0.8
+            ],
             "passive": false,
             "cooldown": 2,
             "soul_gain": 1,
@@ -304,6 +309,9 @@
             "icon": "sk_c2031_3",
             "can_enhance": false,
             "description": "sk_c2031_3_de",
+            "values": [
+                0.5
+            ],
             "passive": false,
             "cooldown": 5,
             "soul_gain": 2,
