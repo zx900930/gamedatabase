@@ -302,38 +302,6 @@
             ]
         },
         {
-            "name": "sk_c5071_2_sknm",
-            "icon": "sk_c5071_2",
-            "can_enhance": false,
-            "description": "sk_c5071_2_de",
-            "passive": true,
-            "cooldown": 0,
-            "soul_gain": 0,
-            "pow": 1,
-            "att_rate": 0.7,
-            "enhancements": [
-                "sklv_de_dmg5",
-                "sklv_de_dmg10",
-                "sklv_de_dmg15"
-            ]
-        },
-        {
-            "name": "sk_c5071_2_sknm",
-            "icon": "sk_c5071_2",
-            "can_enhance": false,
-            "description": "sk_c5071_2_de",
-            "passive": true,
-            "cooldown": 0,
-            "soul_gain": 0,
-            "pow": 1,
-            "att_rate": 0.7,
-            "enhancements": [
-                "sklv_de_dmg5",
-                "sklv_de_dmg10",
-                "sklv_de_dmg15"
-            ]
-        },
-        {
             "name": "sk_c5071_3_sknm",
             "icon": "sk_c5071_3",
             "can_enhance": false,

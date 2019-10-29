@@ -296,21 +296,6 @@
             ]
         },
         {
-            "name": "sk_c4051_2_sknm",
-            "icon": "sk_c4051_2",
-            "can_enhance": false,
-            "description": "sk_c4051_2_de",
-            "passive": true,
-            "cooldown": 1,
-            "soul_gain": 0,
-            "pow": 1,
-            "att_rate": 0,
-            "enhancements": [
-                "pa_c4051_21",
-                "pa_c4051_22"
-            ]
-        },
-        {
             "name": "sk_c4051_3_sknm",
             "icon": "sk_c4051_3",
             "can_enhance": true,

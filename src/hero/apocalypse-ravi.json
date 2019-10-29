@@ -303,38 +303,6 @@
             ]
         },
         {
-            "name": "sk_c2019_2_sknm",
-            "icon": "sk_c2019_2",
-            "can_enhance": false,
-            "description": "sk_c2019_2_de",
-            "passive": true,
-            "cooldown": 0,
-            "soul_gain": 0,
-            "pow": 1,
-            "att_rate": 0,
-            "enhancements": [
-                "pa_c2019_21_de",
-                "pa_c2019_22_de",
-                "pa_c2019_23_de"
-            ]
-        },
-        {
-            "name": "sk_c2019_2_sknm",
-            "icon": "sk_c2019_2",
-            "can_enhance": false,
-            "description": "sk_c2019_2_de",
-            "passive": true,
-            "cooldown": 0,
-            "soul_gain": 0,
-            "pow": 1,
-            "att_rate": 0,
-            "enhancements": [
-                "pa_c2019_21_de",
-                "pa_c2019_22_de",
-                "pa_c2019_23_de"
-            ]
-        },
-        {
             "name": "sk_c2019_3_sknm",
             "icon": "sk_c2019_3",
             "can_enhance": true,

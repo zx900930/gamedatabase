@@ -303,38 +303,6 @@
             ]
         },
         {
-            "name": "sk_c2050_2_sknm",
-            "icon": "pa_c2050_2",
-            "can_enhance": false,
-            "description": "sk_c2050_2_de",
-            "passive": true,
-            "cooldown": 0,
-            "soul_gain": 0,
-            "pow": 1,
-            "att_rate": 0,
-            "enhancements": [
-                "pa_c2050_21_de",
-                "pa_c2050_22_de",
-                "pa_c2050_23_de"
-            ]
-        },
-        {
-            "name": "sk_c2050_2_sknm",
-            "icon": "pa_c2050_2",
-            "can_enhance": false,
-            "description": "sk_c2050_2_de",
-            "passive": true,
-            "cooldown": 0,
-            "soul_gain": 0,
-            "pow": 1,
-            "att_rate": 0,
-            "enhancements": [
-                "pa_c2050_21_de",
-                "pa_c2050_22_de",
-                "pa_c2050_23_de"
-            ]
-        },
-        {
             "name": "sk_c2050_3_sknm",
             "icon": "sk_c2050_3",
             "can_enhance": true,

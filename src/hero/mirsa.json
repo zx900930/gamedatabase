@@ -295,38 +295,6 @@
             ]
         },
         {
-            "name": "sk_c3014_2_sknm",
-            "icon": "pa_m0019_l",
-            "can_enhance": false,
-            "description": "sk_c3014_2_de",
-            "passive": true,
-            "cooldown": 0,
-            "soul_gain": 0,
-            "pow": 1,
-            "att_rate": 0,
-            "enhancements": [
-                "pa_c3014_21_de",
-                "pa_c3014_22_de",
-                "pa_c3014_23_de"
-            ]
-        },
-        {
-            "name": "sk_c3014_2_sknm",
-            "icon": "pa_m0019_l",
-            "can_enhance": false,
-            "description": "sk_c3014_2_de",
-            "passive": true,
-            "cooldown": 0,
-            "soul_gain": 0,
-            "pow": 1,
-            "att_rate": 0,
-            "enhancements": [
-                "pa_c3014_21_de",
-                "pa_c3014_22_de",
-                "pa_c3014_23_de"
-            ]
-        },
-        {
             "name": "sk_c3014_3_sknm",
             "icon": "sk_m0016_l",
             "can_enhance": true,

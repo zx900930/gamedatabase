@@ -295,38 +295,6 @@
             ]
         },
         {
-            "name": "sk_c3065_2_sknm",
-            "icon": "pa_m0008_d",
-            "can_enhance": false,
-            "description": "sk_c3065_2_de",
-            "passive": true,
-            "cooldown": 0,
-            "soul_gain": 0,
-            "pow": 1,
-            "att_rate": 0,
-            "enhancements": [
-                "pa_c3065_21_de",
-                "pa_c3065_22_de",
-                "pa_c3065_23_de"
-            ]
-        },
-        {
-            "name": "sk_c3065_2_sknm",
-            "icon": "pa_m0008_d",
-            "can_enhance": false,
-            "description": "sk_c3065_2_de",
-            "passive": true,
-            "cooldown": 0,
-            "soul_gain": 0,
-            "pow": 1,
-            "att_rate": 0,
-            "enhancements": [
-                "pa_c3065_21_de",
-                "pa_c3065_22_de",
-                "pa_c3065_23_de"
-            ]
-        },
-        {
             "name": "sk_c3065_3_sknm",
             "icon": "sk_m0036_d",
             "can_enhance": true,

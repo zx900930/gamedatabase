@@ -296,21 +296,6 @@
             ]
         },
         {
-            "name": "sk_c3051_2_sknm",
-            "icon": "pa_m0020_f",
-            "can_enhance": false,
-            "description": "sk_c3051_2_de",
-            "passive": true,
-            "cooldown": 1,
-            "soul_gain": 0,
-            "pow": 1,
-            "att_rate": 0,
-            "enhancements": [
-                "pa_c3051_21_de",
-                "pa_c3051_22_de"
-            ]
-        },
-        {
             "name": "sk_c3051_3_sknm",
             "icon": "sk_m0024_f",
             "can_enhance": true,

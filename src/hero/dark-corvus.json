@@ -301,38 +301,6 @@
             ]
         },
         {
-            "name": "sk_c2012_2_sknm",
-            "icon": "pa_c2012_2",
-            "can_enhance": false,
-            "description": "sk_c2012_2_de",
-            "passive": true,
-            "cooldown": 0,
-            "soul_gain": 0,
-            "pow": 1,
-            "att_rate": 0,
-            "enhancements": [
-                "pa_c2012_21_de",
-                "pa_c2012_22_de",
-                "pa_c2012_23_de"
-            ]
-        },
-        {
-            "name": "sk_c2012_2_sknm",
-            "icon": "pa_c2012_2",
-            "can_enhance": false,
-            "description": "sk_c2012_2_de",
-            "passive": true,
-            "cooldown": 0,
-            "soul_gain": 0,
-            "pow": 1,
-            "att_rate": 0,
-            "enhancements": [
-                "pa_c2012_21_de",
-                "pa_c2012_22_de",
-                "pa_c2012_23_de"
-            ]
-        },
-        {
             "name": "sk_c2012_3_sknm",
             "icon": "sk_c2012_3",
             "can_enhance": true,

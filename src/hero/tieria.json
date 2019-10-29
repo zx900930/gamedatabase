@@ -291,57 +291,6 @@
             ]
         },
         {
-            "name": "sk_c3021_2_sknm",
-            "icon": "pa_m0026_f",
-            "can_enhance": false,
-            "description": "sk_c3021_2_de",
-            "passive": true,
-            "cooldown": 0,
-            "soul_gain": 0,
-            "pow": 1,
-            "att_rate": 0,
-            "enhancements": [
-                "pa_c3021_21_de",
-                "pa_c3021_22_de",
-                "pa_c3021_23_de",
-                "pa_c3021_24_de"
-            ]
-        },
-        {
-            "name": "sk_c3021_2_sknm",
-            "icon": "pa_m0026_f",
-            "can_enhance": false,
-            "description": "sk_c3021_2_de",
-            "passive": true,
-            "cooldown": 0,
-            "soul_gain": 0,
-            "pow": 1,
-            "att_rate": 0,
-            "enhancements": [
-                "pa_c3021_21_de",
-                "pa_c3021_22_de",
-                "pa_c3021_23_de",
-                "pa_c3021_24_de"
-            ]
-        },
-        {
-            "name": "sk_c3021_2_sknm",
-            "icon": "pa_m0026_f",
-            "can_enhance": false,
-            "description": "sk_c3021_2_de",
-            "passive": true,
-            "cooldown": 0,
-            "soul_gain": 0,
-            "pow": 1,
-            "att_rate": 0,
-            "enhancements": [
-                "pa_c3021_21_de",
-                "pa_c3021_22_de",
-                "pa_c3021_23_de",
-                "pa_c3021_24_de"
-            ]
-        },
-        {
             "name": "sk_c3021_3_sknm",
             "icon": "sk_m0014_f",
             "can_enhance": true,

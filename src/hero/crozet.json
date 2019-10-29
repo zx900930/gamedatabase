@@ -302,60 +302,6 @@
             ]
         },
         {
-            "name": "sk_c1036_2_sknm",
-            "icon": "pa_c1036_2",
-            "can_enhance": true,
-            "description": "sk_c1036_2_de",
-            "passive": true,
-            "cooldown": 2,
-            "soul_gain": 0,
-            "pow": 1,
-            "att_rate": 0,
-            "enhanced_description": "sk_c1036_2u_de",
-            "enhancements": [
-                "pa_c1036_21_de",
-                "pa_c1036_22_de",
-                "pa_c1036_23_de",
-                "pa_c1036_24_de"
-            ]
-        },
-        {
-            "name": "sk_c1036_2_sknm",
-            "icon": "pa_c1036_2",
-            "can_enhance": true,
-            "description": "sk_c1036_2_de",
-            "passive": true,
-            "cooldown": 2,
-            "soul_gain": 0,
-            "pow": 1,
-            "att_rate": 0,
-            "enhanced_description": "sk_c1036_2u_de",
-            "enhancements": [
-                "pa_c1036_21_de",
-                "pa_c1036_22_de",
-                "pa_c1036_23_de",
-                "pa_c1036_24_de"
-            ]
-        },
-        {
-            "name": "sk_c1036_2_sknm",
-            "icon": "pa_c1036_2",
-            "can_enhance": true,
-            "description": "sk_c1036_2_de",
-            "passive": true,
-            "cooldown": 2,
-            "soul_gain": 0,
-            "pow": 1,
-            "att_rate": 0,
-            "enhanced_description": "sk_c1036_2u_de",
-            "enhancements": [
-                "pa_c1036_21_de",
-                "pa_c1036_22_de",
-                "pa_c1036_23_de",
-                "pa_c1036_24_de"
-            ]
-        },
-        {
             "name": "sk_c1036_3_sknm",
             "icon": "sk_c1036_3",
             "can_enhance": false,
