@@ -314,6 +314,7 @@
             "can_enhance": false,
             "description": "sk_c1037_3_de",
             "values": [
+                0.75,
                 0.35
             ],
             "passive": false,

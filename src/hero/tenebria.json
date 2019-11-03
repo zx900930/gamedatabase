@@ -278,7 +278,7 @@
             "cooldown": 0,
             "soul_gain": 1,
             "pow": 1,
-            "att_rate": 1,
+            "att_rate": 1.2,
             "enhanced_description": "sk_c1050_1u_de",
             "enhancements": [
                 "sklv_de_dmg5",
@@ -315,7 +315,8 @@
             "can_enhance": false,
             "description": "sk_c1050_3_de",
             "values": [
-                0.7
+                0.7,
+                0.6
             ],
             "passive": false,
             "cooldown": 5,
