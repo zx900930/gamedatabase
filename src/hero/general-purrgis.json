@@ -292,7 +292,8 @@
             "can_enhance": false,
             "description": "sk_c2035_2_de",
             "values": [
-                0.1
+                0.1,
+                0.13
             ],
             "passive": true,
             "cooldown": 0,
