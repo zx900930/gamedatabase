@@ -16,6 +16,7 @@
         "fai": 42,
         "des": 92
     },
+    "self_devotion": {},
     "devotion": {},
     "specialty": {},
     "camping": {},
@@ -34,13 +35,7 @@
             "soul_gain": 1,
             "pow": 1,
             "att_rate": 0.7,
-            "enhancements": [
-                "sklv_de_dmg5",
-                "sklv_de_eff1_5",
-                "sklv_de_dmg10",
-                "sklv_de_eff1_10",
-                "sklv_de_dmg15"
-            ]
+            "enhancements": []
         },
         {
             "name": "sk_c1002_2_sknm",
@@ -57,13 +52,7 @@
             "att_rate": 0.4,
             "soul_description": "sk_c1002_2s_de",
             "soul_requirement": 10,
-            "enhancements": [
-                "sklv_de_dmg5",
-                "sklv_de_eff1_5",
-                "sklv_de_dmg10",
-                "sklv_de_eff1_10",
-                "sklv_de_dmg15"
-            ]
+            "enhancements": []
         },
         {
             "name": "sk_c1002_3_sknm",
@@ -78,13 +67,7 @@
             "soul_gain": 2,
             "pow": 1.05,
             "att_rate": 0.6,
-            "enhancements": [
-                "sklv_de_dmg10",
-                "sklv_de_eff1_5",
-                "sklv_de_cd1",
-                "sklv_de_eff1_10",
-                "sklv_de_dmg15"
-            ]
+            "enhancements": []
         }
     ]
 }

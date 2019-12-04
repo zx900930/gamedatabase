@@ -1,0 +1,16 @@
+{
+    "identifier": "ma_clandummy4",
+    "name": "sp_clbfgold_name",
+    "description": "ma_clandummy4_de",
+    "category": "item_category_clanbuff",
+    "attribute": null,
+    "grade": 1,
+    "type1": "token",
+    "type2": null,
+    "assets": {
+        "thumbnail": null,
+        "icon": "sp_bfgold_clan_b"
+    },
+    "request_count": 0,
+    "support_count": 0
+}

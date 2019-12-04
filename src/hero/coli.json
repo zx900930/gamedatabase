@@ -16,6 +16,17 @@
         "fai": 32,
         "des": 82
     },
+    "self_devotion": {
+        "type": "coop",
+        "grades": {
+            "C": 0.014,
+            "B": 0.021,
+            "A": 0.028,
+            "S": 0.035,
+            "SS": 0.042,
+            "SSS": 0.049
+        }
+    },
     "devotion": {
         "type": "att_rate",
         "grades": {
@@ -88,7 +99,7 @@
             "skill_enhanced": false,
             "costs": [
                 {
-                    "item": "ma_runeice1_name",
+                    "item": "ma_runeice1",
                     "count": 8
                 }
             ],
@@ -116,11 +127,11 @@
             "skill_enhanced": false,
             "costs": [
                 {
-                    "item": "ma_runeice1_name",
+                    "item": "ma_runeice1",
                     "count": 12
                 },
                 {
-                    "item": "ma_runeice2_name",
+                    "item": "ma_runeice2",
                     "count": 2
                 }
             ],
@@ -148,11 +159,11 @@
             "skill_enhanced": 3,
             "costs": [
                 {
-                    "item": "ma_runeice1_name",
+                    "item": "ma_runeice1",
                     "count": 17
                 },
                 {
-                    "item": "ma_runeice2_name",
+                    "item": "ma_runeice2",
                     "count": 8
                 }
             ],
@@ -175,11 +186,11 @@
             "skill_enhanced": false,
             "costs": [
                 {
-                    "item": "ma_runeice2_name",
+                    "item": "ma_runeice2",
                     "count": 8
                 },
                 {
-                    "item": "ma_runeice3_name",
+                    "item": "ma_runeice3",
                     "count": 1
                 }
             ],
@@ -207,11 +218,11 @@
             "skill_enhanced": false,
             "costs": [
                 {
-                    "item": "ma_runeice3_name",
+                    "item": "ma_runeice3",
                     "count": 5
                 },
                 {
-                    "item": "ma_carapace_es_name",
+                    "item": "ma_carapace_es",
                     "count": 12
                 }
             ],
@@ -239,11 +250,11 @@
             "skill_enhanced": false,
             "costs": [
                 {
-                    "item": "ma_runeice3_name",
+                    "item": "ma_runeice3",
                     "count": 8
                 },
                 {
-                    "item": "ma_powder_es_name",
+                    "item": "ma_powder_es",
                     "count": 8
                 }
             ],
@@ -279,11 +290,83 @@
             "pow": 0.9,
             "att_rate": 0.8,
             "enhancements": [
-                "sklv_de_dmg5",
-                "sklv_de_dmg5",
-                "sklv_de_dmg10",
-                "sklv_de_dmg10",
-                "sklv_de_dmg10"
+                {
+                    "string": "sklv_de_dmg5",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 4000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 1
+                        }
+                    ]
+                },
+                {
+                    "string": "sklv_de_dmg5",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 4000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 1
+                        }
+                    ]
+                },
+                {
+                    "string": "sklv_de_dmg10",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 9000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 1
+                        },
+                        {
+                            "item": "ma_spearman_es",
+                            "count": 1
+                        }
+                    ]
+                },
+                {
+                    "string": "sklv_de_dmg10",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 23000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 2
+                        },
+                        {
+                            "item": "ma_spearman_es",
+                            "count": 3
+                        }
+                    ]
+                },
+                {
+                    "string": "sklv_de_dmg10",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 80000
+                        },
+                        {
+                            "item": "ma_moragora2",
+                            "count": 1
+                        },
+                        {
+                            "item": "ma_powder_es",
+                            "count": 2
+                        }
+                    ]
+                }
             ]
         },
         {
@@ -298,11 +381,83 @@
             "pow": 0.9,
             "att_rate": 1.2,
             "enhancements": [
-                "sklv_de_dmg5",
-                "sklv_de_dmg5",
-                "sklv_de_dmg5",
-                "sklv_de_dmg10",
-                "sklv_de_dmg15"
+                {
+                    "string": "sklv_de_dmg5",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 4000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 1
+                        }
+                    ]
+                },
+                {
+                    "string": "sklv_de_dmg5",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 4000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 1
+                        }
+                    ]
+                },
+                {
+                    "string": "sklv_de_dmg5",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 9000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 1
+                        },
+                        {
+                            "item": "ma_spearman_es",
+                            "count": 1
+                        }
+                    ]
+                },
+                {
+                    "string": "sklv_de_dmg10",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 23000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 2
+                        },
+                        {
+                            "item": "ma_spearman_es",
+                            "count": 3
+                        }
+                    ]
+                },
+                {
+                    "string": "sklv_de_dmg15",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 80000
+                        },
+                        {
+                            "item": "ma_moragora2",
+                            "count": 1
+                        },
+                        {
+                            "item": "ma_powder_es",
+                            "count": 2
+                        }
+                    ]
+                }
             ]
         },
         {
@@ -320,11 +475,83 @@
             "soul_requirement": 20,
             "enhanced_description": "sk_c1033_3u_de",
             "enhancements": [
-                "sklv_de_dmg5",
-                "sklv_de_dmg10",
-                "sklv_de_cd1",
-                "sklv_de_dmg10",
-                "sklv_de_dmg15"
+                {
+                    "string": "sklv_de_dmg5",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 4000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 1
+                        }
+                    ]
+                },
+                {
+                    "string": "sklv_de_dmg10",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 4000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 1
+                        }
+                    ]
+                },
+                {
+                    "string": "sklv_de_cd1",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 9000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 1
+                        },
+                        {
+                            "item": "ma_spearman_es",
+                            "count": 1
+                        }
+                    ]
+                },
+                {
+                    "string": "sklv_de_dmg10",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 23000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 2
+                        },
+                        {
+                            "item": "ma_spearman_es",
+                            "count": 3
+                        }
+                    ]
+                },
+                {
+                    "string": "sklv_de_dmg15",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 80000
+                        },
+                        {
+                            "item": "ma_moragora2",
+                            "count": 1
+                        },
+                        {
+                            "item": "ma_powder_es",
+                            "count": 2
+                        }
+                    ]
+                }
             ]
         }
     ]

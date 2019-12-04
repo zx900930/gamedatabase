@@ -1,0 +1,16 @@
+{
+    "identifier": "ma_runeice3",
+    "name": "ma_runeice3_name",
+    "description": "ma_runeice3_de",
+    "category": "item_category_stone",
+    "attribute": "ice",
+    "grade": 5,
+    "type1": "rune",
+    "type2": null,
+    "assets": {
+        "thumbnail": null,
+        "icon": "ma_runeice3"
+    },
+    "request_count": 0,
+    "support_count": 0
+}

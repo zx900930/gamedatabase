@@ -1,0 +1,16 @@
+{
+    "identifier": "ma_runefire3",
+    "name": "ma_runefire3_name",
+    "description": "ma_runefire3_de",
+    "category": "item_category_stone",
+    "attribute": "fire",
+    "grade": 5,
+    "type1": "rune",
+    "type2": null,
+    "assets": {
+        "thumbnail": null,
+        "icon": "ma_runefire3"
+    },
+    "request_count": 0,
+    "support_count": 0
+}

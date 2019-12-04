@@ -1,0 +1,16 @@
+{
+    "identifier": "ma_est2w",
+    "name": "est2w_name",
+    "description": "est2w_desc",
+    "category": "item_category_ehstone",
+    "attribute": null,
+    "grade": 2,
+    "type1": "stone",
+    "type2": "weapon",
+    "assets": {
+        "thumbnail": null,
+        "icon": "icon_eq_stone_weapon_1"
+    },
+    "request_count": 0,
+    "support_count": 0
+}

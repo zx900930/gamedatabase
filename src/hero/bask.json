@@ -16,6 +16,18 @@
         "fai": 76,
         "des": 48
     },
+    "self_devotion": {
+        "type": "res",
+        "grades": {
+            "D": 0.045,
+            "C": 0.068,
+            "B": 0.09,
+            "A": 0.112,
+            "S": 0.135,
+            "SS": 0.158,
+            "SSS": 0.18
+        }
+    },
     "devotion": {
         "type": "max_hp",
         "grades": {
@@ -86,7 +98,7 @@
             "skill_enhanced": false,
             "costs": [
                 {
-                    "item": "ma_runeice1_name",
+                    "item": "ma_runeice1",
                     "count": 5
                 }
             ],
@@ -114,7 +126,7 @@
             "skill_enhanced": false,
             "costs": [
                 {
-                    "item": "ma_runeice1_name",
+                    "item": "ma_runeice1",
                     "count": 9
                 }
             ],
@@ -142,11 +154,11 @@
             "skill_enhanced": 3,
             "costs": [
                 {
-                    "item": "ma_runeice1_name",
+                    "item": "ma_runeice1",
                     "count": 12
                 },
                 {
-                    "item": "ma_runeice2_name",
+                    "item": "ma_runeice2",
                     "count": 6
                 }
             ],
@@ -169,7 +181,7 @@
             "skill_enhanced": false,
             "costs": [
                 {
-                    "item": "ma_runeice2_name",
+                    "item": "ma_runeice2",
                     "count": 15
                 }
             ],
@@ -197,11 +209,11 @@
             "skill_enhanced": false,
             "costs": [
                 {
-                    "item": "ma_runeice3_name",
+                    "item": "ma_runeice3",
                     "count": 4
                 },
                 {
-                    "item": "ma_carapace_es_name",
+                    "item": "ma_carapace_es",
                     "count": 9
                 }
             ],
@@ -229,11 +241,11 @@
             "skill_enhanced": false,
             "costs": [
                 {
-                    "item": "ma_runeice3_name",
+                    "item": "ma_runeice3",
                     "count": 6
                 },
                 {
-                    "item": "ma_powder_es_name",
+                    "item": "ma_powder_es",
                     "count": 6
                 }
             ],
@@ -271,12 +283,100 @@
             "pow": 0.9,
             "att_rate": 0.7,
             "enhancements": [
-                "sklv_de_dmg5",
-                "sklv_de_eff1_10",
-                "sklv_de_dmg10",
-                "sklv_de_dmg10",
-                "sklv_de_eff1_15",
-                "sklv_de_dmg15"
+                {
+                    "string": "sklv_de_dmg5",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 2000
+                        },
+                        {
+                            "item": "to_stigma",
+                            "count": 80
+                        }
+                    ]
+                },
+                {
+                    "string": "sklv_de_eff1_10",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 3000
+                        },
+                        {
+                            "item": "to_stigma",
+                            "count": 180
+                        }
+                    ]
+                },
+                {
+                    "string": "sklv_de_dmg10",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 10000
+                        },
+                        {
+                            "item": "to_stigma",
+                            "count": 320
+                        },
+                        {
+                            "item": "ma_spearman_es",
+                            "count": 1
+                        }
+                    ]
+                },
+                {
+                    "string": "sklv_de_dmg10",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 18000
+                        },
+                        {
+                            "item": "to_stigma",
+                            "count": 530
+                        },
+                        {
+                            "item": "ma_spearman_es",
+                            "count": 2
+                        }
+                    ]
+                },
+                {
+                    "string": "sklv_de_eff1_15",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 32000
+                        },
+                        {
+                            "item": "to_stigma",
+                            "count": 850
+                        },
+                        {
+                            "item": "ma_spearman_es",
+                            "count": 4
+                        }
+                    ]
+                },
+                {
+                    "string": "sklv_de_dmg15",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 48000
+                        },
+                        {
+                            "item": "to_stigma",
+                            "count": 1340
+                        },
+                        {
+                            "item": "ma_spearman_es",
+                            "count": 6
+                        }
+                    ]
+                }
             ]
         },
         {
@@ -295,13 +395,113 @@
             "soul_description": "sk_c3006_2s_de",
             "soul_requirement": 10,
             "enhancements": [
-                "sklv_de_dmg5",
-                "sklv_de_dmg5",
-                "sklv_de_eff1_5",
-                "sklv_de_cd1",
-                "sklv_de_eff1_10",
-                "sklv_de_dmg10",
-                "sklv_de_dmg10"
+                {
+                    "string": "sklv_de_dmg5",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 1000
+                        },
+                        {
+                            "item": "to_stigma",
+                            "count": 50
+                        }
+                    ]
+                },
+                {
+                    "string": "sklv_de_dmg5",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 2000
+                        },
+                        {
+                            "item": "to_stigma",
+                            "count": 120
+                        }
+                    ]
+                },
+                {
+                    "string": "sklv_de_eff1_5",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 4000
+                        },
+                        {
+                            "item": "to_stigma",
+                            "count": 230
+                        }
+                    ]
+                },
+                {
+                    "string": "sklv_de_cd1",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 21000
+                        },
+                        {
+                            "item": "to_stigma",
+                            "count": 400
+                        },
+                        {
+                            "item": "ma_spearman_es",
+                            "count": 3
+                        }
+                    ]
+                },
+                {
+                    "string": "sklv_de_eff1_10",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 29000
+                        },
+                        {
+                            "item": "to_stigma",
+                            "count": 650
+                        },
+                        {
+                            "item": "ma_spearman_es",
+                            "count": 4
+                        }
+                    ]
+                },
+                {
+                    "string": "sklv_de_dmg10",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 39000
+                        },
+                        {
+                            "item": "to_stigma",
+                            "count": 1000
+                        },
+                        {
+                            "item": "ma_spearman_es",
+                            "count": 5
+                        }
+                    ]
+                },
+                {
+                    "string": "sklv_de_dmg10",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 50000
+                        },
+                        {
+                            "item": "to_stigma",
+                            "count": 1450
+                        },
+                        {
+                            "item": "ma_spearman_es",
+                            "count": 6
+                        }
+                    ]
+                }
             ]
         },
         {
@@ -317,8 +517,40 @@
             "att_rate": 0,
             "enhanced_description": "sk_c3006_3u_de",
             "enhancements": [
-                "sklv_de_soul2",
-                "sklv_de_cd1"
+                {
+                    "string": "sklv_de_soul2",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 14000
+                        },
+                        {
+                            "item": "to_stigma",
+                            "count": 250
+                        },
+                        {
+                            "item": "ma_spearman_es",
+                            "count": 2
+                        }
+                    ]
+                },
+                {
+                    "string": "sklv_de_cd1",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 24000
+                        },
+                        {
+                            "item": "to_stigma",
+                            "count": 650
+                        },
+                        {
+                            "item": "ma_spearman_es",
+                            "count": 3
+                        }
+                    ]
+                }
             ]
         }
     ]

@@ -1,0 +1,16 @@
+{
+    "identifier": "ma_cp_pup",
+    "name": "ma_cp_pup_name",
+    "description": "ma_cp_pup_de",
+    "category": "item_category_cp",
+    "attribute": null,
+    "grade": 1,
+    "type1": "cp",
+    "type2": null,
+    "assets": {
+        "thumbnail": null,
+        "icon": "ma_cp"
+    },
+    "request_count": 0,
+    "support_count": 0
+}

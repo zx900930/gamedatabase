@@ -1,0 +1,16 @@
+{
+    "identifier": "ma_dungeoncoin",
+    "name": "ma_dungeoncoin_name",
+    "description": "ma_dungeoncoin_de",
+    "category": "item_category_gold",
+    "attribute": null,
+    "grade": 4,
+    "type1": "token",
+    "type2": null,
+    "assets": {
+        "thumbnail": null,
+        "icon": "ma_dungeoncoin"
+    },
+    "request_count": 0,
+    "support_count": 0
+}

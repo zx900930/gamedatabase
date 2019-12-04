@@ -1,0 +1,16 @@
+{
+    "identifier": "ma_runelight3",
+    "name": "ma_runelight3_name",
+    "description": "ma_runelight3_de",
+    "category": "item_category_stone",
+    "attribute": "light",
+    "grade": 5,
+    "type1": "rune",
+    "type2": null,
+    "assets": {
+        "thumbnail": null,
+        "icon": "ma_runelight3"
+    },
+    "request_count": 0,
+    "support_count": 0
+}

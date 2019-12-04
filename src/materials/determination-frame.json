@@ -1,0 +1,16 @@
+{
+    "identifier": "ma_border18",
+    "name": "ma_border_pvp44_name",
+    "description": "ma_border_pvp44_desc",
+    "category": "item_category_border",
+    "attribute": null,
+    "grade": 2,
+    "type1": "border",
+    "type2": null,
+    "assets": {
+        "thumbnail": null,
+        "icon": "border/icon_border_pvp_season4_rank_n"
+    },
+    "request_count": 0,
+    "support_count": 0
+}

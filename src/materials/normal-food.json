@@ -1,0 +1,16 @@
+{
+    "identifier": "ma_petfood_e_1",
+    "name": "ma_petfood_e_1_name",
+    "description": "ma_petfood_e_1_de",
+    "category": "item_category_petitem",
+    "attribute": null,
+    "grade": 4,
+    "type1": "petfood",
+    "type2": "exp",
+    "assets": {
+        "thumbnail": null,
+        "icon": "ma_petfood_e_1"
+    },
+    "request_count": 0,
+    "support_count": 0
+}

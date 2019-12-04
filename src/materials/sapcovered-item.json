@@ -1,0 +1,16 @@
+{
+    "identifier": "ma_unidentified",
+    "name": "ma_unidentified_name",
+    "description": "ma_unidentified_de",
+    "category": "item_category_unidentified",
+    "attribute": null,
+    "grade": 1,
+    "type1": "material",
+    "type2": null,
+    "assets": {
+        "thumbnail": null,
+        "icon": "ma_unidentified"
+    },
+    "request_count": 0,
+    "support_count": 0
+}

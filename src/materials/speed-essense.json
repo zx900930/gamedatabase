@@ -1,0 +1,16 @@
+{
+    "identifier": "ma_speed",
+    "name": "ma_speed_name",
+    "description": "ma_speed_de",
+    "category": "item_category_catalyst",
+    "attribute": null,
+    "grade": 5,
+    "type1": "catalyst",
+    "type2": null,
+    "assets": {
+        "thumbnail": null,
+        "icon": "ma_speed"
+    },
+    "request_count": 0,
+    "support_count": 0
+}

@@ -1,0 +1,16 @@
+{
+    "identifier": "ma_vvalea3",
+    "name": "ma_vvalea3_name",
+    "description": "ma_vvalea3_de",
+    "category": "item_cateogry_eventtoken",
+    "attribute": null,
+    "grade": 3,
+    "type1": "token",
+    "type2": "substory",
+    "assets": {
+        "thumbnail": null,
+        "icon": "ma_vvalea3"
+    },
+    "request_count": 0,
+    "support_count": 0
+}

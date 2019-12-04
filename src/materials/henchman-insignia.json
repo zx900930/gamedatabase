@@ -1,0 +1,16 @@
+{
+    "identifier": "ma_vyunab3",
+    "name": "ma_vyunab3_name",
+    "description": "ma_vyunab3_de",
+    "category": "item_cateogry_eventtoken",
+    "attribute": null,
+    "grade": 3,
+    "type1": "token",
+    "type2": "substory",
+    "assets": {
+        "thumbnail": null,
+        "icon": "ma_mazol"
+    },
+    "request_count": 0,
+    "support_count": 0
+}
