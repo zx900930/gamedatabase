@@ -48,6 +48,7 @@ def mount_collection_array(files, parentFolder):
 ## compile collections
 mount_collection_array(glob.glob("../src/artifact/*.json"), "artifact")
 mount_collection_array(glob.glob("../src/hero/*.json"), "hero")
+mount_collection_array(glob.glob("../src/materials/*.json"), "item")
 
 ## compile translation collections
 translations = glob.glob("../src/text/*.json")
