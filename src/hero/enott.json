@@ -288,43 +288,76 @@
             "enhancements": [
                 {
                     "string": "sklv_de_dmg5",
-                    "costs": {
-                        "to_gold": 1000,
-                        "to_stigma": 50,
-                        "null": 0
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 1000
+                        },
+                        {
+                            "item": "to_stigma",
+                            "count": 50
+                        }
+                    ]
                 },
                 {
                     "string": "sklv_de_eff1_10",
-                    "costs": {
-                        "to_gold": 2000,
-                        "to_stigma": 120,
-                        "null": 0
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 2000
+                        },
+                        {
+                            "item": "to_stigma",
+                            "count": 120
+                        }
+                    ]
                 },
                 {
                     "string": "sklv_de_eff1_10",
-                    "costs": {
-                        "to_gold": 4000,
-                        "to_stigma": 230,
-                        "null": 0
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 4000
+                        },
+                        {
+                            "item": "to_stigma",
+                            "count": 230
+                        }
+                    ]
                 },
                 {
                     "string": "sklv_de_dmg10",
-                    "costs": {
-                        "to_gold": 21000,
-                        "to_stigma": 400,
-                        "ma_spearman_es": 3
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 21000
+                        },
+                        {
+                            "item": "to_stigma",
+                            "count": 400
+                        },
+                        {
+                            "item": "ma_spearman_es",
+                            "count": 3
+                        }
+                    ]
                 },
                 {
                     "string": "sklv_de_dmg15",
-                    "costs": {
-                        "to_gold": 29000,
-                        "to_stigma": 650,
-                        "ma_spearman_es": 4
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 29000
+                        },
+                        {
+                            "item": "to_stigma",
+                            "count": 650
+                        },
+                        {
+                            "item": "ma_spearman_es",
+                            "count": 4
+                        }
+                    ]
                 }
             ]
         },
@@ -344,43 +377,76 @@
             "enhancements": [
                 {
                     "string": "sklv_de_dmg10",
-                    "costs": {
-                        "to_gold": 1000,
-                        "to_stigma": 50,
-                        "null": 0
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 1000
+                        },
+                        {
+                            "item": "to_stigma",
+                            "count": 50
+                        }
+                    ]
                 },
                 {
                     "string": "sklv_de_eff1_10",
-                    "costs": {
-                        "to_gold": 2000,
-                        "to_stigma": 120,
-                        "null": 0
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 2000
+                        },
+                        {
+                            "item": "to_stigma",
+                            "count": 120
+                        }
+                    ]
                 },
                 {
                     "string": "sklv_de_cd1",
-                    "costs": {
-                        "to_gold": 4000,
-                        "to_stigma": 230,
-                        "null": 0
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 4000
+                        },
+                        {
+                            "item": "to_stigma",
+                            "count": 230
+                        }
+                    ]
                 },
                 {
                     "string": "sklv_de_eff1_15",
-                    "costs": {
-                        "to_gold": 21000,
-                        "to_stigma": 400,
-                        "ma_spearman_es": 3
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 21000
+                        },
+                        {
+                            "item": "to_stigma",
+                            "count": 400
+                        },
+                        {
+                            "item": "ma_spearman_es",
+                            "count": 3
+                        }
+                    ]
                 },
                 {
                     "string": "sklv_de_dmg15",
-                    "costs": {
-                        "to_gold": 29000,
-                        "to_stigma": 650,
-                        "ma_spearman_es": 4
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 29000
+                        },
+                        {
+                            "item": "to_stigma",
+                            "count": 650
+                        },
+                        {
+                            "item": "ma_spearman_es",
+                            "count": 4
+                        }
+                    ]
                 }
             ]
         },
@@ -403,43 +469,76 @@
             "enhancements": [
                 {
                     "string": "sklv_de_soul2",
-                    "costs": {
-                        "to_gold": 1000,
-                        "to_stigma": 50,
-                        "null": 0
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 1000
+                        },
+                        {
+                            "item": "to_stigma",
+                            "count": 50
+                        }
+                    ]
                 },
                 {
                     "string": "sklv_de_ab5",
-                    "costs": {
-                        "to_gold": 2000,
-                        "to_stigma": 120,
-                        "null": 0
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 2000
+                        },
+                        {
+                            "item": "to_stigma",
+                            "count": 120
+                        }
+                    ]
                 },
                 {
                     "string": "sklv_de_cd1",
-                    "costs": {
-                        "to_gold": 4000,
-                        "to_stigma": 230,
-                        "null": 0
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 4000
+                        },
+                        {
+                            "item": "to_stigma",
+                            "count": 230
+                        }
+                    ]
                 },
                 {
                     "string": "sklv_de_ab5",
-                    "costs": {
-                        "to_gold": 21000,
-                        "to_stigma": 400,
-                        "ma_spearman_es": 3
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 21000
+                        },
+                        {
+                            "item": "to_stigma",
+                            "count": 400
+                        },
+                        {
+                            "item": "ma_spearman_es",
+                            "count": 3
+                        }
+                    ]
                 },
                 {
                     "string": "sklv_de_ab10",
-                    "costs": {
-                        "to_gold": 29000,
-                        "to_stigma": 650,
-                        "ma_spearman_es": 4
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 29000
+                        },
+                        {
+                            "item": "to_stigma",
+                            "count": 650
+                        },
+                        {
+                            "item": "ma_spearman_es",
+                            "count": 4
+                        }
+                    ]
                 }
             ]
         }

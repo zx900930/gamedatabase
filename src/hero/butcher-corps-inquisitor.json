@@ -288,51 +288,97 @@
             "enhancements": [
                 {
                     "string": "sklv_de_dmg5",
-                    "costs": {
-                        "to_gold": 2000,
-                        "to_stigma": 80,
-                        "null": 0
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 2000
+                        },
+                        {
+                            "item": "to_stigma",
+                            "count": 80
+                        }
+                    ]
                 },
                 {
                     "string": "sklv_de_eff1_5",
-                    "costs": {
-                        "to_gold": 3000,
-                        "to_stigma": 180,
-                        "null": 0
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 3000
+                        },
+                        {
+                            "item": "to_stigma",
+                            "count": 180
+                        }
+                    ]
                 },
                 {
                     "string": "sklv_de_dmg10",
-                    "costs": {
-                        "to_gold": 10000,
-                        "to_stigma": 320,
-                        "ma_demon_es": 1
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 10000
+                        },
+                        {
+                            "item": "to_stigma",
+                            "count": 320
+                        },
+                        {
+                            "item": "ma_demon_es",
+                            "count": 1
+                        }
+                    ]
                 },
                 {
                     "string": "sklv_de_eff1_5",
-                    "costs": {
-                        "to_gold": 18000,
-                        "to_stigma": 530,
-                        "ma_demon_es": 2
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 18000
+                        },
+                        {
+                            "item": "to_stigma",
+                            "count": 530
+                        },
+                        {
+                            "item": "ma_demon_es",
+                            "count": 2
+                        }
+                    ]
                 },
                 {
                     "string": "sklv_de_eff1_5",
-                    "costs": {
-                        "to_gold": 32000,
-                        "to_stigma": 850,
-                        "ma_demon_es": 4
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 32000
+                        },
+                        {
+                            "item": "to_stigma",
+                            "count": 850
+                        },
+                        {
+                            "item": "ma_demon_es",
+                            "count": 4
+                        }
+                    ]
                 },
                 {
                     "string": "sklv_de_dmg15",
-                    "costs": {
-                        "to_gold": 48000,
-                        "to_stigma": 1340,
-                        "ma_demon_es": 6
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 48000
+                        },
+                        {
+                            "item": "to_stigma",
+                            "count": 1340
+                        },
+                        {
+                            "item": "ma_demon_es",
+                            "count": 6
+                        }
+                    ]
                 }
             ]
         },
@@ -352,27 +398,54 @@
             "enhancements": [
                 {
                     "string": "pa_c3001_21_de",
-                    "costs": {
-                        "to_gold": 13000,
-                        "to_stigma": 200,
-                        "ma_demon_es": 2
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 13000
+                        },
+                        {
+                            "item": "to_stigma",
+                            "count": 200
+                        },
+                        {
+                            "item": "ma_demon_es",
+                            "count": 2
+                        }
+                    ]
                 },
                 {
                     "string": "pa_c3001_22_de",
-                    "costs": {
-                        "to_gold": 21000,
-                        "to_stigma": 450,
-                        "ma_demon_es": 3
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 21000
+                        },
+                        {
+                            "item": "to_stigma",
+                            "count": 450
+                        },
+                        {
+                            "item": "ma_demon_es",
+                            "count": 3
+                        }
+                    ]
                 },
                 {
                     "string": "pa_c3001_23_de",
-                    "costs": {
-                        "to_gold": 37000,
-                        "to_stigma": 850,
-                        "ma_demon_es": 5
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 37000
+                        },
+                        {
+                            "item": "to_stigma",
+                            "count": 850
+                        },
+                        {
+                            "item": "ma_demon_es",
+                            "count": 5
+                        }
+                    ]
                 }
             ]
         },
@@ -393,51 +466,97 @@
             "enhancements": [
                 {
                     "string": "sklv_de_dmg5",
-                    "costs": {
-                        "to_gold": 2000,
-                        "to_stigma": 80,
-                        "null": 0
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 2000
+                        },
+                        {
+                            "item": "to_stigma",
+                            "count": 80
+                        }
+                    ]
                 },
                 {
                     "string": "sklv_de_dmg5",
-                    "costs": {
-                        "to_gold": 3000,
-                        "to_stigma": 180,
-                        "null": 0
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 3000
+                        },
+                        {
+                            "item": "to_stigma",
+                            "count": 180
+                        }
+                    ]
                 },
                 {
                     "string": "sklv_de_cd1",
-                    "costs": {
-                        "to_gold": 10000,
-                        "to_stigma": 320,
-                        "ma_demon_es": 1
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 10000
+                        },
+                        {
+                            "item": "to_stigma",
+                            "count": 320
+                        },
+                        {
+                            "item": "ma_demon_es",
+                            "count": 1
+                        }
+                    ]
                 },
                 {
                     "string": "sklv_de_dmg10",
-                    "costs": {
-                        "to_gold": 18000,
-                        "to_stigma": 530,
-                        "ma_demon_es": 2
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 18000
+                        },
+                        {
+                            "item": "to_stigma",
+                            "count": 530
+                        },
+                        {
+                            "item": "ma_demon_es",
+                            "count": 2
+                        }
+                    ]
                 },
                 {
                     "string": "sklv_de_dmg10",
-                    "costs": {
-                        "to_gold": 32000,
-                        "to_stigma": 850,
-                        "ma_demon_es": 4
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 32000
+                        },
+                        {
+                            "item": "to_stigma",
+                            "count": 850
+                        },
+                        {
+                            "item": "ma_demon_es",
+                            "count": 4
+                        }
+                    ]
                 },
                 {
                     "string": "sklv_de_dmg15",
-                    "costs": {
-                        "to_gold": 48000,
-                        "to_stigma": 1340,
-                        "ma_demon_es": 6
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 48000
+                        },
+                        {
+                            "item": "to_stigma",
+                            "count": 1340
+                        },
+                        {
+                            "item": "ma_demon_es",
+                            "count": 6
+                        }
+                    ]
                 }
             ]
         }

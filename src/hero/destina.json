@@ -292,51 +292,97 @@
             "enhancements": [
                 {
                     "string": "sklv_de_dmg5",
-                    "costs": {
-                        "to_gold": 4000,
-                        "ma_moragora1": 1,
-                        "null": 0
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 4000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 1
+                        }
+                    ]
                 },
                 {
                     "string": "sklv_de_dmg5",
-                    "costs": {
-                        "to_gold": 4000,
-                        "ma_moragora1": 1,
-                        "null": 0
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 4000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 1
+                        }
+                    ]
                 },
                 {
                     "string": "sklv_de_heal15",
-                    "costs": {
-                        "to_gold": 14000,
-                        "ma_moragora1": 1,
-                        "ma_rodent_es": 2
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 14000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 1
+                        },
+                        {
+                            "item": "ma_rodent_es",
+                            "count": 2
+                        }
+                    ]
                 },
                 {
                     "string": "sklv_de_dmg5",
-                    "costs": {
-                        "to_gold": 28000,
-                        "ma_moragora1": 2,
-                        "ma_rodent_es": 4
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 28000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 2
+                        },
+                        {
+                            "item": "ma_rodent_es",
+                            "count": 4
+                        }
+                    ]
                 },
                 {
                     "string": "sklv_de_heal20",
-                    "costs": {
-                        "to_gold": 45000,
-                        "ma_moragora2": 1,
-                        "ma_rodent_es": 5
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 45000
+                        },
+                        {
+                            "item": "ma_moragora2",
+                            "count": 1
+                        },
+                        {
+                            "item": "ma_rodent_es",
+                            "count": 5
+                        }
+                    ]
                 },
                 {
                     "string": "sklv_de_dmg15",
-                    "costs": {
-                        "to_gold": 80000,
-                        "ma_moragora2": 1,
-                        "ma_homon_es": 2
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 80000
+                        },
+                        {
+                            "item": "ma_moragora2",
+                            "count": 1
+                        },
+                        {
+                            "item": "ma_homon_es",
+                            "count": 2
+                        }
+                    ]
                 }
             ]
         },
@@ -354,27 +400,54 @@
             "enhancements": [
                 {
                     "string": "sklv_de_heal5",
-                    "costs": {
-                        "to_gold": 19000,
-                        "ma_moragora1": 1,
-                        "ma_rodent_es": 3
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 19000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 1
+                        },
+                        {
+                            "item": "ma_rodent_es",
+                            "count": 3
+                        }
+                    ]
                 },
                 {
                     "string": "sklv_de_heal10",
-                    "costs": {
-                        "to_gold": 33000,
-                        "ma_moragora1": 2,
-                        "ma_rodent_es": 5
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 33000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 2
+                        },
+                        {
+                            "item": "ma_rodent_es",
+                            "count": 5
+                        }
+                    ]
                 },
                 {
                     "string": "sklv_de_heal15",
-                    "costs": {
-                        "to_gold": 110000,
-                        "ma_moragora2": 1,
-                        "ma_homon_es": 3
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 110000
+                        },
+                        {
+                            "item": "ma_moragora2",
+                            "count": 1
+                        },
+                        {
+                            "item": "ma_homon_es",
+                            "count": 3
+                        }
+                    ]
                 }
             ]
         },
@@ -393,51 +466,97 @@
             "enhancements": [
                 {
                     "string": "sklv_de_heal5",
-                    "costs": {
-                        "to_gold": 4000,
-                        "ma_moragora1": 1,
-                        "null": 0
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 4000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 1
+                        }
+                    ]
                 },
                 {
                     "string": "sklv_de_heal5",
-                    "costs": {
-                        "to_gold": 4000,
-                        "ma_moragora1": 1,
-                        "null": 0
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 4000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 1
+                        }
+                    ]
                 },
                 {
                     "string": "sklv_de_cd1",
-                    "costs": {
-                        "to_gold": 14000,
-                        "ma_moragora1": 1,
-                        "ma_rodent_es": 2
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 14000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 1
+                        },
+                        {
+                            "item": "ma_rodent_es",
+                            "count": 2
+                        }
+                    ]
                 },
                 {
                     "string": "sklv_de_heal5",
-                    "costs": {
-                        "to_gold": 28000,
-                        "ma_moragora1": 2,
-                        "ma_rodent_es": 4
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 28000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 2
+                        },
+                        {
+                            "item": "ma_rodent_es",
+                            "count": 4
+                        }
+                    ]
                 },
                 {
                     "string": "sklv_de_heal10",
-                    "costs": {
-                        "to_gold": 45000,
-                        "ma_moragora2": 1,
-                        "ma_rodent_es": 5
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 45000
+                        },
+                        {
+                            "item": "ma_moragora2",
+                            "count": 1
+                        },
+                        {
+                            "item": "ma_rodent_es",
+                            "count": 5
+                        }
+                    ]
                 },
                 {
                     "string": "sklv_de_heal10",
-                    "costs": {
-                        "to_gold": 80000,
-                        "ma_moragora2": 1,
-                        "ma_homon_es": 2
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 80000
+                        },
+                        {
+                            "item": "ma_moragora2",
+                            "count": 1
+                        },
+                        {
+                            "item": "ma_homon_es",
+                            "count": 2
+                        }
+                    ]
                 }
             ]
         }

@@ -296,59 +296,110 @@
             "enhancements": [
                 {
                     "string": "sklv_de_eff1_5",
-                    "costs": {
-                        "to_gold": 4000,
-                        "ma_moragora1": 1,
-                        "null": 0
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 4000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 1
+                        }
+                    ]
                 },
                 {
                     "string": "sklv_de_dmg5",
-                    "costs": {
-                        "to_gold": 4000,
-                        "ma_moragora1": 1,
-                        "null": 0
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 4000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 1
+                        }
+                    ]
                 },
                 {
                     "string": "sklv_de_eff1_5",
-                    "costs": {
-                        "to_gold": 4000,
-                        "ma_moragora1": 1,
-                        "null": 0
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 4000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 1
+                        }
+                    ]
                 },
                 {
                     "string": "sklv_de_dmg5",
-                    "costs": {
-                        "to_gold": 9000,
-                        "ma_moragora1": 1,
-                        "ma_imp_es": 1
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 9000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 1
+                        },
+                        {
+                            "item": "ma_imp_es",
+                            "count": 1
+                        }
+                    ]
                 },
                 {
                     "string": "sklv_de_eff1_10",
-                    "costs": {
-                        "to_gold": 18000,
-                        "ma_moragora1": 2,
-                        "ma_imp_es": 2
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 18000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 2
+                        },
+                        {
+                            "item": "ma_imp_es",
+                            "count": 2
+                        }
+                    ]
                 },
                 {
                     "string": "sklv_de_dmg10",
-                    "costs": {
-                        "to_gold": 37000,
-                        "ma_moragora1": 3,
-                        "ma_imp_es": 5
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 37000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 3
+                        },
+                        {
+                            "item": "ma_imp_es",
+                            "count": 5
+                        }
+                    ]
                 },
                 {
                     "string": "sklv_de_dmg15",
-                    "costs": {
-                        "to_gold": 80000,
-                        "ma_moragora2": 1,
-                        "ma_golem_es": 2
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 80000
+                        },
+                        {
+                            "item": "ma_moragora2",
+                            "count": 1
+                        },
+                        {
+                            "item": "ma_golem_es",
+                            "count": 2
+                        }
+                    ]
                 }
             ]
         },
@@ -368,56 +419,110 @@
             "enhancements": [
                 {
                     "string": "pa_c2036_21",
-                    "costs": {
-                        "to_gold": 4000,
-                        "ma_moragora1": 1
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 4000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 1
+                        }
+                    ]
                 },
                 {
                     "string": "pa_c2036_22",
-                    "costs": {
-                        "to_gold": 4000,
-                        "ma_moragora1": 1
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 4000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 1
+                        }
+                    ]
                 },
                 {
                     "string": "pa_c2036_23",
-                    "costs": {
-                        "to_gold": 4000,
-                        "ma_moragora1": 1
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 4000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 1
+                        }
+                    ]
                 },
                 {
                     "string": "pa_c2036_24",
-                    "costs": {
-                        "to_gold": 9000,
-                        "ma_moragora1": 1,
-                        "ma_imp_es": 1
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 9000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 1
+                        },
+                        {
+                            "item": "ma_imp_es",
+                            "count": 1
+                        }
+                    ]
                 },
                 {
                     "string": "pa_c2036_25",
-                    "costs": {
-                        "to_gold": 18000,
-                        "ma_moragora1": 2,
-                        "ma_imp_es": 2
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 18000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 2
+                        },
+                        {
+                            "item": "ma_imp_es",
+                            "count": 2
+                        }
+                    ]
                 },
                 {
                     "string": "pa_c2036_26",
-                    "costs": {
-                        "to_gold": 37000,
-                        "ma_moragora1": 3,
-                        "ma_imp_es": 5
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 37000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 3
+                        },
+                        {
+                            "item": "ma_imp_es",
+                            "count": 5
+                        }
+                    ]
                 },
                 {
                     "string": "pa_c2036_27",
-                    "costs": {
-                        "to_gold": 80000,
-                        "ma_moragora2": 1,
-                        "ma_golem_es": 2
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 80000
+                        },
+                        {
+                            "item": "ma_moragora2",
+                            "count": 1
+                        },
+                        {
+                            "item": "ma_golem_es",
+                            "count": 2
+                        }
+                    ]
                 }
             ]
         },
@@ -436,11 +541,20 @@
             "enhancements": [
                 {
                     "string": "sklv_de_cd1",
-                    "costs": {
-                        "to_gold": 44000,
-                        "ma_moragora1": 1,
-                        "ma_imp_es": 8
-                    }
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 44000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 1
+                        },
+                        {
+                            "item": "ma_imp_es",
+                            "count": 8
+                        }
+                    ]
                 }
             ]
         }
