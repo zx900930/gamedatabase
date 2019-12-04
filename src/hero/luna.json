@@ -16,6 +16,16 @@
         "fai": 69,
         "des": 79
     },
+    "self_devotion": {
+        "type": "att_rate",
+        "grades": {
+            "B": 0.06,
+            "A": 0.09,
+            "S": 0.12,
+            "SS": 0.15,
+            "SSS": 0.18
+        }
+    },
     "devotion": {
         "type": "cri",
         "grades": {
@@ -84,7 +94,7 @@
             "skill_enhanced": false,
             "costs": [
                 {
-                    "item": "ma_runeice1_name",
+                    "item": "ma_runeice1",
                     "count": 10
                 }
             ],
@@ -112,11 +122,11 @@
             "skill_enhanced": false,
             "costs": [
                 {
-                    "item": "ma_runeice1_name",
+                    "item": "ma_runeice1",
                     "count": 15
                 },
                 {
-                    "item": "ma_runeice2_name",
+                    "item": "ma_runeice2",
                     "count": 2
                 }
             ],
@@ -144,11 +154,11 @@
             "skill_enhanced": 3,
             "costs": [
                 {
-                    "item": "ma_runeice1_name",
+                    "item": "ma_runeice1",
                     "count": 20
                 },
                 {
-                    "item": "ma_runeice2_name",
+                    "item": "ma_runeice2",
                     "count": 10
                 }
             ],
@@ -171,11 +181,11 @@
             "skill_enhanced": false,
             "costs": [
                 {
-                    "item": "ma_runeice2_name",
+                    "item": "ma_runeice2",
                     "count": 10
                 },
                 {
-                    "item": "ma_runeice3_name",
+                    "item": "ma_runeice3",
                     "count": 2
                 }
             ],
@@ -203,11 +213,11 @@
             "skill_enhanced": false,
             "costs": [
                 {
-                    "item": "ma_runeice3_name",
+                    "item": "ma_runeice3",
                     "count": 6
                 },
                 {
-                    "item": "ma_dreamer_es_name",
+                    "item": "ma_dreamer_es",
                     "count": 15
                 }
             ],
@@ -235,11 +245,11 @@
             "skill_enhanced": false,
             "costs": [
                 {
-                    "item": "ma_runeice3_name",
+                    "item": "ma_runeice3",
                     "count": 10
                 },
                 {
-                    "item": "ma_raingar_es_name",
+                    "item": "ma_raingar_es",
                     "count": 10
                 }
             ],
@@ -275,11 +285,46 @@
             "pow": 0.95,
             "att_rate": 0.7,
             "enhancements": [
-                "sklv_de_dmg5",
-                "sklv_de_dmg5",
-                "sklv_de_dmg5",
-                "sklv_de_dmg10",
-                "sklv_de_dmg10"
+                {
+                    "string": "sklv_de_dmg5",
+                    "costs": {
+                        "to_gold": 4000,
+                        "ma_moragora1": 1,
+                        "null": 0
+                    }
+                },
+                {
+                    "string": "sklv_de_dmg5",
+                    "costs": {
+                        "to_gold": 4000,
+                        "ma_moragora1": 1,
+                        "null": 0
+                    }
+                },
+                {
+                    "string": "sklv_de_dmg5",
+                    "costs": {
+                        "to_gold": 29000,
+                        "ma_moragora1": 1,
+                        "ma_gem_es": 5
+                    }
+                },
+                {
+                    "string": "sklv_de_dmg10",
+                    "costs": {
+                        "to_gold": 47000,
+                        "ma_moragora1": 3,
+                        "ma_gem_es": 7
+                    }
+                },
+                {
+                    "string": "sklv_de_dmg10",
+                    "costs": {
+                        "to_gold": 80000,
+                        "ma_moragora1": 5,
+                        "ma_raingar_es": 2
+                    }
+                }
             ]
         },
         {
@@ -296,11 +341,44 @@
             "pow": 1,
             "att_rate": 1,
             "enhancements": [
-                "pa_c1066_21_de",
-                "pa_c1066_22_de",
-                "pa_c1066_23_de",
-                "pa_c1066_24_de",
-                "pa_c1066_25_de"
+                {
+                    "string": "pa_c1066_21_de",
+                    "costs": {
+                        "to_gold": 4000,
+                        "ma_moragora1": 1
+                    }
+                },
+                {
+                    "string": "pa_c1066_22_de",
+                    "costs": {
+                        "to_gold": 4000,
+                        "ma_moragora1": 1
+                    }
+                },
+                {
+                    "string": "pa_c1066_23_de",
+                    "costs": {
+                        "to_gold": 29000,
+                        "ma_moragora1": 1,
+                        "ma_gem_es": 5
+                    }
+                },
+                {
+                    "string": "pa_c1066_24_de",
+                    "costs": {
+                        "to_gold": 47000,
+                        "ma_moragora1": 3,
+                        "ma_gem_es": 7
+                    }
+                },
+                {
+                    "string": "pa_c1066_25_de",
+                    "costs": {
+                        "to_gold": 80000,
+                        "ma_moragora1": 5,
+                        "ma_raingar_es": 2
+                    }
+                }
             ]
         },
         {
@@ -320,11 +398,46 @@
             "soul_requirement": 10,
             "enhanced_description": "sk_c1066_3u_de",
             "enhancements": [
-                "sklv_de_dmg5",
-                "sklv_de_eff1_10",
-                "sklv_de_dmg10",
-                "sklv_de_eff1_10",
-                "sklv_de_dmg10"
+                {
+                    "string": "sklv_de_dmg5",
+                    "costs": {
+                        "to_gold": 4000,
+                        "ma_moragora1": 1,
+                        "null": 0
+                    }
+                },
+                {
+                    "string": "sklv_de_eff1_10",
+                    "costs": {
+                        "to_gold": 4000,
+                        "ma_moragora1": 1,
+                        "null": 0
+                    }
+                },
+                {
+                    "string": "sklv_de_dmg10",
+                    "costs": {
+                        "to_gold": 29000,
+                        "ma_moragora1": 1,
+                        "ma_gem_es": 5
+                    }
+                },
+                {
+                    "string": "sklv_de_eff1_10",
+                    "costs": {
+                        "to_gold": 47000,
+                        "ma_moragora1": 3,
+                        "ma_gem_es": 7
+                    }
+                },
+                {
+                    "string": "sklv_de_dmg10",
+                    "costs": {
+                        "to_gold": 80000,
+                        "ma_moragora1": 5,
+                        "ma_raingar_es": 2
+                    }
+                }
             ]
         }
     ]

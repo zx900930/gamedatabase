@@ -1,0 +1,16 @@
+{
+    "identifier": "ma_vguila2",
+    "name": "ma_vguila2_name",
+    "description": "ma_vguila2_de",
+    "category": "item_cateogry_eventtoken",
+    "attribute": null,
+    "grade": 3,
+    "type1": "token",
+    "type2": "substory",
+    "assets": {
+        "thumbnail": null,
+        "icon": "ma_vguila2"
+    },
+    "request_count": 0,
+    "support_count": 0
+}

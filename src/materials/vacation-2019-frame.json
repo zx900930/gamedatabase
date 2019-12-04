@@ -1,0 +1,16 @@
+{
+    "identifier": "ma_border8",
+    "name": "ma_border_season1_name",
+    "description": "ma_border_season1_desc",
+    "category": "item_category_border",
+    "attribute": null,
+    "grade": 4,
+    "type1": "border",
+    "type2": null,
+    "assets": {
+        "thumbnail": null,
+        "icon": "border/icon_border_seasonpass_season1"
+    },
+    "request_count": 0,
+    "support_count": 0
+}

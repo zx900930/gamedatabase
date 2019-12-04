@@ -1,0 +1,16 @@
+{
+    "identifier": "ma_v1088a",
+    "name": "ma_v1088a_name",
+    "description": "ma_v1088a_de",
+    "category": "item_cateogry_eventtoken",
+    "attribute": null,
+    "grade": 3,
+    "type1": "token",
+    "type2": "substory",
+    "assets": {
+        "thumbnail": null,
+        "icon": "ma_v1088a"
+    },
+    "request_count": 0,
+    "support_count": 0
+}

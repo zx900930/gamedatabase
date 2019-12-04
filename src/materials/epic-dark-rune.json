@@ -1,0 +1,16 @@
+{
+    "identifier": "ma_runedark3",
+    "name": "ma_runedark3_name",
+    "description": "ma_runedark3_de",
+    "category": "item_category_stone",
+    "attribute": "dark",
+    "grade": 5,
+    "type1": "rune",
+    "type2": null,
+    "assets": {
+        "thumbnail": null,
+        "icon": "ma_runedark3"
+    },
+    "request_count": 0,
+    "support_count": 0
+}

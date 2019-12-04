@@ -1,0 +1,16 @@
+{
+    "identifier": "ma_azimanak3",
+    "name": "ma_azimanak3_name",
+    "description": "ma_azimanak3_de",
+    "category": "item_category_material4",
+    "attribute": null,
+    "grade": 3,
+    "type1": "material",
+    "type2": null,
+    "assets": {
+        "thumbnail": null,
+        "icon": "ma_que003"
+    },
+    "request_count": 16,
+    "support_count": 4
+}

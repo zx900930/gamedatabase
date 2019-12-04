@@ -1,0 +1,16 @@
+{
+    "identifier": "ma_est4j",
+    "name": "est4j_name",
+    "description": "est4j_desc",
+    "category": "item_category_ehstone",
+    "attribute": null,
+    "grade": 4,
+    "type1": "stone",
+    "type2": "jewellery",
+    "assets": {
+        "thumbnail": null,
+        "icon": "icon_eq_stone_equip_2"
+    },
+    "request_count": 0,
+    "support_count": 0
+}

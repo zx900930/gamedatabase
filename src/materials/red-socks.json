@@ -1,0 +1,16 @@
+{
+    "identifier": "ma_vrasea1",
+    "name": "ma_vrasea1_name",
+    "description": "ma_vrasea1_de",
+    "category": "item_cateogry_eventtoken",
+    "attribute": null,
+    "grade": 3,
+    "type1": "token",
+    "type2": "substory",
+    "assets": {
+        "thumbnail": null,
+        "icon": "ma_vrasea1"
+    },
+    "request_count": 0,
+    "support_count": 0
+}

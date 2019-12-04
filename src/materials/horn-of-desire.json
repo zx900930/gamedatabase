@@ -1,0 +1,16 @@
+{
+    "identifier": "ma_demont_es",
+    "name": "ma_demont_es_name",
+    "description": "ma_demont_es_de",
+    "category": "item_category_essence",
+    "attribute": null,
+    "grade": 5,
+    "type1": "essence",
+    "type2": null,
+    "assets": {
+        "thumbnail": null,
+        "icon": "ma_demont_es"
+    },
+    "request_count": 0,
+    "support_count": 0
+}

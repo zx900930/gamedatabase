@@ -1,0 +1,16 @@
+{
+    "identifier": "ma_spearman_es",
+    "name": "ma_spearman_es_name",
+    "description": "ma_spearman_es_de",
+    "category": "item_category_essence",
+    "attribute": null,
+    "grade": 3,
+    "type1": "essence",
+    "type2": null,
+    "assets": {
+        "thumbnail": null,
+        "icon": "ma_spearman_es"
+    },
+    "request_count": 2,
+    "support_count": 1
+}

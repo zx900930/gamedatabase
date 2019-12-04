@@ -1,0 +1,16 @@
+{
+    "identifier": "ma_gem_es",
+    "name": "ma_gem_es_name",
+    "description": "ma_gem_es_de",
+    "category": "item_category_essence",
+    "attribute": null,
+    "grade": 3,
+    "type1": "essence",
+    "type2": null,
+    "assets": {
+        "thumbnail": null,
+        "icon": "ma_gem_es"
+    },
+    "request_count": 2,
+    "support_count": 1
+}

@@ -1,0 +1,16 @@
+{
+    "identifier": "ma_def",
+    "name": "ma_def_name",
+    "description": "ma_def_de",
+    "category": "item_category_catalyst",
+    "attribute": null,
+    "grade": 5,
+    "type1": "catalyst",
+    "type2": null,
+    "assets": {
+        "thumbnail": null,
+        "icon": "ma_def"
+    },
+    "request_count": 0,
+    "support_count": 0
+}

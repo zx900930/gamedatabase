@@ -1,0 +1,16 @@
+{
+    "identifier": "ma_unknown",
+    "name": "ma_zd999_name",
+    "description": "ma_zd999_de",
+    "category": "item_category_stone",
+    "attribute": "all",
+    "grade": 1,
+    "type1": "essence",
+    "type2": null,
+    "assets": {
+        "thumbnail": null,
+        "icon": "ma_unknown"
+    },
+    "request_count": 0,
+    "support_count": 0
+}

@@ -1,0 +1,16 @@
+{
+    "identifier": "ma_bg_maze1",
+    "name": "ma_bg_maze1_name",
+    "description": "ma_bg_maze1_de",
+    "category": "item_category_background",
+    "attribute": null,
+    "grade": 1,
+    "type1": "bgpack",
+    "type2": null,
+    "assets": {
+        "thumbnail": null,
+        "icon": "bgpack/bg_maze1"
+    },
+    "request_count": 0,
+    "support_count": 0
+}

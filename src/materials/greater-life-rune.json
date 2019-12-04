@@ -1,0 +1,16 @@
+{
+    "identifier": "ma_runewind2",
+    "name": "ma_runewind2_name",
+    "description": "ma_runewind2_de",
+    "category": "item_category_stone",
+    "attribute": "wind",
+    "grade": 3,
+    "type1": "rune",
+    "type2": null,
+    "assets": {
+        "thumbnail": null,
+        "icon": "ma_runewind2"
+    },
+    "request_count": 5,
+    "support_count": 1
+}

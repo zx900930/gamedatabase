@@ -16,6 +16,18 @@
         "fai": 48,
         "des": 81
     },
+    "self_devotion": {
+        "type": "att",
+        "grades": {
+            "D": 36,
+            "C": 54,
+            "B": 72,
+            "A": 90,
+            "S": 108,
+            "SS": 126,
+            "SSS": 144
+        }
+    },
     "devotion": {
         "type": "speed",
         "grades": {
@@ -89,7 +101,7 @@
             "skill_enhanced": false,
             "costs": [
                 {
-                    "item": "ma_runewind1_name",
+                    "item": "ma_runewind1",
                     "count": 5
                 }
             ],
@@ -117,7 +129,7 @@
             "skill_enhanced": false,
             "costs": [
                 {
-                    "item": "ma_runewind1_name",
+                    "item": "ma_runewind1",
                     "count": 9
                 }
             ],
@@ -145,11 +157,11 @@
             "skill_enhanced": 3,
             "costs": [
                 {
-                    "item": "ma_runewind1_name",
+                    "item": "ma_runewind1",
                     "count": 12
                 },
                 {
-                    "item": "ma_runewind2_name",
+                    "item": "ma_runewind2",
                     "count": 6
                 }
             ],
@@ -172,7 +184,7 @@
             "skill_enhanced": false,
             "costs": [
                 {
-                    "item": "ma_runewind2_name",
+                    "item": "ma_runewind2",
                     "count": 15
                 }
             ],
@@ -200,11 +212,11 @@
             "skill_enhanced": false,
             "costs": [
                 {
-                    "item": "ma_runewind3_name",
+                    "item": "ma_runewind3",
                     "count": 4
                 },
                 {
-                    "item": "ma_demonr_es_name",
+                    "item": "ma_demonr_es",
                     "count": 9
                 }
             ],
@@ -232,11 +244,11 @@
             "skill_enhanced": false,
             "costs": [
                 {
-                    "item": "ma_runewind3_name",
+                    "item": "ma_runewind3",
                     "count": 6
                 },
                 {
-                    "item": "ma_hired_es_name",
+                    "item": "ma_hired_es",
                     "count": 6
                 }
             ],
@@ -274,11 +286,46 @@
             "pow": 1,
             "att_rate": 0.9,
             "enhancements": [
-                "sklv_de_dmg5",
-                "sklv_de_ab2",
-                "sklv_de_dmg10",
-                "sklv_de_ab3",
-                "sklv_de_dmg15"
+                {
+                    "string": "sklv_de_dmg5",
+                    "costs": {
+                        "to_gold": 2000,
+                        "to_stigma": 120,
+                        "null": 0
+                    }
+                },
+                {
+                    "string": "sklv_de_ab2",
+                    "costs": {
+                        "to_gold": 4000,
+                        "to_stigma": 270,
+                        "null": 0
+                    }
+                },
+                {
+                    "string": "sklv_de_dmg10",
+                    "costs": {
+                        "to_gold": 22000,
+                        "to_stigma": 470,
+                        "ma_bowman_es": 3
+                    }
+                },
+                {
+                    "string": "sklv_de_ab3",
+                    "costs": {
+                        "to_gold": 30000,
+                        "to_stigma": 740,
+                        "ma_bowman_es": 4
+                    }
+                },
+                {
+                    "string": "sklv_de_dmg15",
+                    "costs": {
+                        "to_gold": 40000,
+                        "to_stigma": 1100,
+                        "ma_bowman_es": 5
+                    }
+                }
             ]
         },
         {
@@ -295,11 +342,44 @@
             "pow": 1,
             "att_rate": 0,
             "enhancements": [
-                "pa_c3033_21_de",
-                "pa_c3033_22_de",
-                "pa_c3033_23_de",
-                "pa_c3033_24_de",
-                "pa_c3033_25_de"
+                {
+                    "string": "pa_c3033_21_de",
+                    "costs": {
+                        "to_gold": 2000,
+                        "to_stigma": 120
+                    }
+                },
+                {
+                    "string": "pa_c3033_22_de",
+                    "costs": {
+                        "to_gold": 4000,
+                        "to_stigma": 270
+                    }
+                },
+                {
+                    "string": "pa_c3033_23_de",
+                    "costs": {
+                        "to_gold": 22000,
+                        "to_stigma": 470,
+                        "ma_bowman_es": 3
+                    }
+                },
+                {
+                    "string": "pa_c3033_24_de",
+                    "costs": {
+                        "to_gold": 30000,
+                        "to_stigma": 740,
+                        "ma_bowman_es": 4
+                    }
+                },
+                {
+                    "string": "pa_c3033_25_de",
+                    "costs": {
+                        "to_gold": 40000,
+                        "to_stigma": 1100,
+                        "ma_bowman_es": 5
+                    }
+                }
             ]
         },
         {
@@ -319,11 +399,46 @@
             "soul_requirement": 20,
             "enhanced_description": "sk_c3033_3u_de",
             "enhancements": [
-                "sklv_de_dmg5",
-                "sklv_de_eff1_10",
-                "sklv_de_dmg10",
-                "sklv_de_eff1_15",
-                "sklv_de_dmg15"
+                {
+                    "string": "sklv_de_dmg5",
+                    "costs": {
+                        "to_gold": 2000,
+                        "to_stigma": 120,
+                        "null": 0
+                    }
+                },
+                {
+                    "string": "sklv_de_eff1_10",
+                    "costs": {
+                        "to_gold": 4000,
+                        "to_stigma": 270,
+                        "null": 0
+                    }
+                },
+                {
+                    "string": "sklv_de_dmg10",
+                    "costs": {
+                        "to_gold": 22000,
+                        "to_stigma": 470,
+                        "ma_bowman_es": 3
+                    }
+                },
+                {
+                    "string": "sklv_de_eff1_15",
+                    "costs": {
+                        "to_gold": 30000,
+                        "to_stigma": 740,
+                        "ma_bowman_es": 4
+                    }
+                },
+                {
+                    "string": "sklv_de_dmg15",
+                    "costs": {
+                        "to_gold": 40000,
+                        "to_stigma": 1100,
+                        "ma_bowman_es": 5
+                    }
+                }
             ]
         }
     ]

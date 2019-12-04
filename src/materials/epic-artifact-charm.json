@@ -1,0 +1,16 @@
+{
+    "identifier": "ma_est6f",
+    "name": "est6f_name",
+    "description": "est6f_desc",
+    "category": "item_category_ehstone",
+    "attribute": null,
+    "grade": 5,
+    "type1": "stone",
+    "type2": "artifact",
+    "assets": {
+        "thumbnail": "stone_art3_l",
+        "icon": "icon_stone_art3"
+    },
+    "request_count": 0,
+    "support_count": 0
+}

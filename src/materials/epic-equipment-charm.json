@@ -1,0 +1,16 @@
+{
+    "identifier": "ma_est6e",
+    "name": "est6e_name",
+    "description": "est6e_desc",
+    "category": "item_category_ehstone",
+    "attribute": null,
+    "grade": 5,
+    "type1": "stone",
+    "type2": "equip",
+    "assets": {
+        "thumbnail": null,
+        "icon": "icon_eq_stone_equip_3"
+    },
+    "request_count": 0,
+    "support_count": 0
+}

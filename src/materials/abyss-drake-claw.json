@@ -1,0 +1,16 @@
+{
+    "identifier": "ma_wyvern6",
+    "name": "ma_wyvern6_name",
+    "description": "ma_wyvern6_de",
+    "category": "item_category_material2",
+    "attribute": null,
+    "grade": 5,
+    "type1": "material",
+    "type2": null,
+    "assets": {
+        "thumbnail": null,
+        "icon": "ma_bone006"
+    },
+    "request_count": 0,
+    "support_count": 0
+}

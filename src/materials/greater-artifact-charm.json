@@ -1,0 +1,16 @@
+{
+    "identifier": "ma_est4f",
+    "name": "est4f_name",
+    "description": "est4f_desc",
+    "category": "item_category_ehstone",
+    "attribute": null,
+    "grade": 4,
+    "type1": "stone",
+    "type2": "artifact",
+    "assets": {
+        "thumbnail": "stone_art2_l",
+        "icon": "icon_stone_art2"
+    },
+    "request_count": 0,
+    "support_count": 0
+}

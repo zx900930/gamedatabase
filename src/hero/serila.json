@@ -16,6 +16,17 @@
         "fai": 95,
         "des": 74
     },
+    "self_devotion": {
+        "type": "acc",
+        "grades": {
+            "C": 0.068,
+            "B": 0.102,
+            "A": 0.136,
+            "S": 0.17,
+            "SS": 0.204,
+            "SSS": 0.238
+        }
+    },
     "devotion": {
         "type": "acc",
         "grades": {
@@ -88,7 +99,7 @@
             "skill_enhanced": false,
             "costs": [
                 {
-                    "item": "ma_runefire1_name",
+                    "item": "ma_runefire1",
                     "count": 8
                 }
             ],
@@ -116,11 +127,11 @@
             "skill_enhanced": false,
             "costs": [
                 {
-                    "item": "ma_runefire1_name",
+                    "item": "ma_runefire1",
                     "count": 12
                 },
                 {
-                    "item": "ma_runefire2_name",
+                    "item": "ma_runefire2",
                     "count": 2
                 }
             ],
@@ -148,11 +159,11 @@
             "skill_enhanced": 2,
             "costs": [
                 {
-                    "item": "ma_runefire1_name",
+                    "item": "ma_runefire1",
                     "count": 17
                 },
                 {
-                    "item": "ma_runefire2_name",
+                    "item": "ma_runefire2",
                     "count": 8
                 }
             ],
@@ -175,11 +186,11 @@
             "skill_enhanced": false,
             "costs": [
                 {
-                    "item": "ma_runefire2_name",
+                    "item": "ma_runefire2",
                     "count": 8
                 },
                 {
-                    "item": "ma_runefire3_name",
+                    "item": "ma_runefire3",
                     "count": 1
                 }
             ],
@@ -207,11 +218,11 @@
             "skill_enhanced": false,
             "costs": [
                 {
-                    "item": "ma_runefire3_name",
+                    "item": "ma_runefire3",
                     "count": 5
                 },
                 {
-                    "item": "ma_shield_es_name",
+                    "item": "ma_shield_es",
                     "count": 12
                 }
             ],
@@ -239,11 +250,11 @@
             "skill_enhanced": false,
             "costs": [
                 {
-                    "item": "ma_runefire3_name",
+                    "item": "ma_runefire3",
                     "count": 8
                 },
                 {
-                    "item": "ma_manager_es_name",
+                    "item": "ma_manager_es",
                     "count": 8
                 }
             ],
@@ -281,11 +292,46 @@
             "pow": 1,
             "att_rate": 1,
             "enhancements": [
-                "sklv_de_dmg5",
-                "sklv_de_eff1_5",
-                "sklv_de_dmg10",
-                "sklv_de_eff1_10",
-                "sklv_de_dmg15"
+                {
+                    "string": "sklv_de_dmg5",
+                    "costs": {
+                        "to_gold": 4000,
+                        "ma_moragora1": 1,
+                        "null": 0
+                    }
+                },
+                {
+                    "string": "sklv_de_eff1_5",
+                    "costs": {
+                        "to_gold": 4000,
+                        "ma_moragora1": 1,
+                        "null": 0
+                    }
+                },
+                {
+                    "string": "sklv_de_dmg10",
+                    "costs": {
+                        "to_gold": 9000,
+                        "ma_moragora1": 1,
+                        "ma_swordman_es": 1
+                    }
+                },
+                {
+                    "string": "sklv_de_eff1_10",
+                    "costs": {
+                        "to_gold": 23000,
+                        "ma_moragora1": 2,
+                        "ma_swordman_es": 3
+                    }
+                },
+                {
+                    "string": "sklv_de_dmg15",
+                    "costs": {
+                        "to_gold": 80000,
+                        "ma_moragora2": 1,
+                        "ma_manager_es": 2
+                    }
+                }
             ]
         },
         {
@@ -305,11 +351,46 @@
             "soul_requirement": 10,
             "enhanced_description": "sk_c1040_2u_de",
             "enhancements": [
-                "sklv_de_dmg10",
-                "sklv_de_eff1_5",
-                "sklv_de_cd1",
-                "sklv_de_eff1_10",
-                "sklv_de_dmg15"
+                {
+                    "string": "sklv_de_dmg10",
+                    "costs": {
+                        "to_gold": 4000,
+                        "ma_moragora1": 1,
+                        "null": 0
+                    }
+                },
+                {
+                    "string": "sklv_de_eff1_5",
+                    "costs": {
+                        "to_gold": 4000,
+                        "ma_moragora1": 1,
+                        "null": 0
+                    }
+                },
+                {
+                    "string": "sklv_de_cd1",
+                    "costs": {
+                        "to_gold": 9000,
+                        "ma_moragora1": 1,
+                        "ma_swordman_es": 1
+                    }
+                },
+                {
+                    "string": "sklv_de_eff1_10",
+                    "costs": {
+                        "to_gold": 23000,
+                        "ma_moragora1": 2,
+                        "ma_swordman_es": 3
+                    }
+                },
+                {
+                    "string": "sklv_de_dmg15",
+                    "costs": {
+                        "to_gold": 80000,
+                        "ma_moragora2": 1,
+                        "ma_manager_es": 2
+                    }
+                }
             ]
         },
         {
@@ -326,11 +407,46 @@
             "pow": 1.05,
             "att_rate": 1.8,
             "enhancements": [
-                "sklv_de_dmg10",
-                "sklv_de_eff1_5",
-                "sklv_de_cd1",
-                "sklv_de_eff1_10",
-                "sklv_de_dmg15"
+                {
+                    "string": "sklv_de_dmg10",
+                    "costs": {
+                        "to_gold": 4000,
+                        "ma_moragora1": 1,
+                        "null": 0
+                    }
+                },
+                {
+                    "string": "sklv_de_eff1_5",
+                    "costs": {
+                        "to_gold": 4000,
+                        "ma_moragora1": 1,
+                        "null": 0
+                    }
+                },
+                {
+                    "string": "sklv_de_cd1",
+                    "costs": {
+                        "to_gold": 9000,
+                        "ma_moragora1": 1,
+                        "ma_swordman_es": 1
+                    }
+                },
+                {
+                    "string": "sklv_de_eff1_10",
+                    "costs": {
+                        "to_gold": 23000,
+                        "ma_moragora1": 2,
+                        "ma_swordman_es": 3
+                    }
+                },
+                {
+                    "string": "sklv_de_dmg15",
+                    "costs": {
+                        "to_gold": 80000,
+                        "ma_moragora2": 1,
+                        "ma_manager_es": 2
+                    }
+                }
             ]
         }
     ]

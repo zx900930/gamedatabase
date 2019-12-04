@@ -1,0 +1,16 @@
+{
+    "identifier": "ma_wyvern3",
+    "name": "ma_wyvern3_name",
+    "description": "ma_wyvern3_de",
+    "category": "item_category_material2",
+    "attribute": null,
+    "grade": 3,
+    "type1": "material",
+    "type2": null,
+    "assets": {
+        "thumbnail": null,
+        "icon": "ma_bone003"
+    },
+    "request_count": 16,
+    "support_count": 4
+}

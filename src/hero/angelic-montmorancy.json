@@ -16,6 +16,18 @@
         "fai": 81,
         "des": 55
     },
+    "self_devotion": {
+        "type": "res",
+        "grades": {
+            "D": 0.045,
+            "C": 0.068,
+            "B": 0.09,
+            "A": 0.112,
+            "S": 0.135,
+            "SS": 0.158,
+            "SSS": 0.18
+        }
+    },
     "devotion": {
         "type": "def",
         "grades": {
@@ -89,7 +101,7 @@
             "skill_enhanced": false,
             "costs": [
                 {
-                    "item": "ma_runeice1_name",
+                    "item": "ma_runeice1",
                     "count": 5
                 }
             ],
@@ -117,7 +129,7 @@
             "skill_enhanced": false,
             "costs": [
                 {
-                    "item": "ma_runeice1_name",
+                    "item": "ma_runeice1",
                     "count": 9
                 }
             ],
@@ -145,11 +157,11 @@
             "skill_enhanced": 3,
             "costs": [
                 {
-                    "item": "ma_runeice1_name",
+                    "item": "ma_runeice1",
                     "count": 12
                 },
                 {
-                    "item": "ma_runeice2_name",
+                    "item": "ma_runeice2",
                     "count": 6
                 }
             ],
@@ -172,7 +184,7 @@
             "skill_enhanced": false,
             "costs": [
                 {
-                    "item": "ma_runeice2_name",
+                    "item": "ma_runeice2",
                     "count": 15
                 }
             ],
@@ -200,11 +212,11 @@
             "skill_enhanced": false,
             "costs": [
                 {
-                    "item": "ma_runeice3_name",
+                    "item": "ma_runeice3",
                     "count": 4
                 },
                 {
-                    "item": "ma_bone_es_name",
+                    "item": "ma_bone_es",
                     "count": 9
                 }
             ],
@@ -232,11 +244,11 @@
             "skill_enhanced": false,
             "costs": [
                 {
-                    "item": "ma_runeice3_name",
+                    "item": "ma_runeice3",
                     "count": 6
                 },
                 {
-                    "item": "ma_golem_es_name",
+                    "item": "ma_golem_es",
                     "count": 6
                 }
             ],
@@ -274,11 +286,46 @@
             "pow": 1,
             "att_rate": 1,
             "enhancements": [
-                "sklv_de_dmg5",
-                "sklv_de_dmg10",
-                "sklv_de_eff1_5",
-                "sklv_de_eff1_5",
-                "sklv_de_dmg15"
+                {
+                    "string": "sklv_de_dmg5",
+                    "costs": {
+                        "to_gold": 2000,
+                        "to_stigma": 80,
+                        "null": 0
+                    }
+                },
+                {
+                    "string": "sklv_de_dmg10",
+                    "costs": {
+                        "to_gold": 3000,
+                        "to_stigma": 180,
+                        "null": 0
+                    }
+                },
+                {
+                    "string": "sklv_de_eff1_5",
+                    "costs": {
+                        "to_gold": 10000,
+                        "to_stigma": 320,
+                        "ma_imp_es": 1
+                    }
+                },
+                {
+                    "string": "sklv_de_eff1_5",
+                    "costs": {
+                        "to_gold": 18000,
+                        "to_stigma": 530,
+                        "ma_imp_es": 2
+                    }
+                },
+                {
+                    "string": "sklv_de_dmg15",
+                    "costs": {
+                        "to_gold": 32000,
+                        "to_stigma": 850,
+                        "ma_imp_es": 4
+                    }
+                }
             ]
         },
         {
@@ -293,11 +340,46 @@
             "pow": 1,
             "att_rate": 0,
             "enhancements": [
-                "sklv_de_heal5",
-                "sklv_de_heal5",
-                "sklv_de_heal10",
-                "sklv_de_heal10",
-                "sklv_de_heal15"
+                {
+                    "string": "sklv_de_heal5",
+                    "costs": {
+                        "to_gold": 2000,
+                        "to_stigma": 80,
+                        "null": 0
+                    }
+                },
+                {
+                    "string": "sklv_de_heal5",
+                    "costs": {
+                        "to_gold": 3000,
+                        "to_stigma": 180,
+                        "null": 0
+                    }
+                },
+                {
+                    "string": "sklv_de_heal10",
+                    "costs": {
+                        "to_gold": 10000,
+                        "to_stigma": 320,
+                        "ma_imp_es": 1
+                    }
+                },
+                {
+                    "string": "sklv_de_heal10",
+                    "costs": {
+                        "to_gold": 18000,
+                        "to_stigma": 530,
+                        "ma_imp_es": 2
+                    }
+                },
+                {
+                    "string": "sklv_de_heal15",
+                    "costs": {
+                        "to_gold": 32000,
+                        "to_stigma": 850,
+                        "ma_imp_es": 4
+                    }
+                }
             ]
         },
         {
@@ -315,11 +397,46 @@
             "soul_requirement": 20,
             "enhanced_description": "sk_c4042_3u_de",
             "enhancements": [
-                "sklv_de_heal5",
-                "sklv_de_heal5",
-                "sklv_de_heal10",
-                "sklv_de_heal10",
-                "sklv_de_heal10"
+                {
+                    "string": "sklv_de_heal5",
+                    "costs": {
+                        "to_gold": 2000,
+                        "to_stigma": 80,
+                        "null": 0
+                    }
+                },
+                {
+                    "string": "sklv_de_heal5",
+                    "costs": {
+                        "to_gold": 3000,
+                        "to_stigma": 180,
+                        "null": 0
+                    }
+                },
+                {
+                    "string": "sklv_de_heal10",
+                    "costs": {
+                        "to_gold": 10000,
+                        "to_stigma": 320,
+                        "ma_imp_es": 1
+                    }
+                },
+                {
+                    "string": "sklv_de_heal10",
+                    "costs": {
+                        "to_gold": 18000,
+                        "to_stigma": 530,
+                        "ma_imp_es": 2
+                    }
+                },
+                {
+                    "string": "sklv_de_heal10",
+                    "costs": {
+                        "to_gold": 32000,
+                        "to_stigma": 850,
+                        "ma_imp_es": 4
+                    }
+                }
             ]
         }
     ]

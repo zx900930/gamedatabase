@@ -1,0 +1,16 @@
+{
+    "identifier": "ma_moragora3",
+    "name": "ma_moragora3_name",
+    "description": "ma_moragora3_de",
+    "category": "item_category_skillup",
+    "attribute": null,
+    "grade": 5,
+    "type1": "skillup",
+    "type2": null,
+    "assets": {
+        "thumbnail": null,
+        "icon": "ma_moragora3"
+    },
+    "request_count": 0,
+    "support_count": 0
+}

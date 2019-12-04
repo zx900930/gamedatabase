@@ -1,0 +1,16 @@
+{
+    "identifier": "ma_banshee4",
+    "name": "ma_banshee4_name",
+    "description": "ma_banshee4_de",
+    "category": "item_category_material3",
+    "attribute": null,
+    "grade": 4,
+    "type1": "material",
+    "type2": null,
+    "assets": {
+        "thumbnail": null,
+        "icon": "ma_orb004"
+    },
+    "request_count": 12,
+    "support_count": 3
+}

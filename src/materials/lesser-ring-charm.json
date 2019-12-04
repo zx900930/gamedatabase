@@ -1,0 +1,16 @@
+{
+    "identifier": "ma_est2r",
+    "name": "est2r_name",
+    "description": "est2r_desc",
+    "category": "item_category_ehstone",
+    "attribute": null,
+    "grade": 2,
+    "type1": "stone",
+    "type2": "ring",
+    "assets": {
+        "thumbnail": null,
+        "icon": "icon_eq_stone_ring_1"
+    },
+    "request_count": 0,
+    "support_count": 0
+}

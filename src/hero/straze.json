@@ -16,6 +16,7 @@
         "fai": 53,
         "des": 85
     },
+    "self_devotion": {},
     "devotion": {},
     "specialty": {
         "name": "sms_c1034_nm",
@@ -42,13 +43,7 @@
             "soul_gain": 3,
             "pow": 1,
             "att_rate": 1,
-            "enhancements": [
-                "sklv_de_dmg5",
-                "sklv_de_dmg5",
-                "sklv_de_cd1",
-                "sklv_de_cd1",
-                "sklv_de_dmg10"
-            ]
+            "enhancements": []
         },
         {
             "name": "sk_c1034_2_sknm",
@@ -61,13 +56,7 @@
             "soul_gain": 2,
             "pow": 1,
             "att_rate": 1.2,
-            "enhancements": [
-                "sklv_de_dmg5",
-                "sklv_de_dmg5",
-                "sklv_de_cd1",
-                "sklv_de_cd1",
-                "sklv_de_dmg10"
-            ]
+            "enhancements": []
         },
         {
             "name": "sk_c1034_3_sknm",
@@ -80,13 +69,7 @@
             "soul_gain": 2,
             "pow": 1,
             "att_rate": 2,
-            "enhancements": [
-                "sklv_de_dmg5",
-                "sklv_de_dmg5",
-                "sklv_de_cd1",
-                "sklv_de_cd1",
-                "sklv_de_dmg10"
-            ]
+            "enhancements": []
         }
     ]
 }

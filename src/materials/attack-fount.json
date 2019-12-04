@@ -1,0 +1,16 @@
+{
+    "identifier": "ma_att_rate",
+    "name": "ma_att_rate_name",
+    "description": "ma_att_rate_de",
+    "category": "item_category_catalyst",
+    "attribute": null,
+    "grade": 5,
+    "type1": "catalyst",
+    "type2": null,
+    "assets": {
+        "thumbnail": null,
+        "icon": "ma_att_rate"
+    },
+    "request_count": 0,
+    "support_count": 0
+}

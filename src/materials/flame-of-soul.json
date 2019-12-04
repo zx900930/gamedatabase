@@ -1,0 +1,16 @@
+{
+    "identifier": "ma_banshee_es",
+    "name": "ma_banshee_es_name",
+    "description": "ma_banshee_es_de",
+    "category": "item_category_essence",
+    "attribute": null,
+    "grade": 3,
+    "type1": "essence",
+    "type2": null,
+    "assets": {
+        "thumbnail": null,
+        "icon": "ma_banshee_es"
+    },
+    "request_count": 2,
+    "support_count": 1
+}
