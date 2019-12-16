@@ -10,8 +10,8 @@
     "background": "From a young age, her parents taught her the doctrine of the stars. Despite her youth, she now leads the faithful of Constella with her unwavering devotion and strong connection to the Spirits.",
     "relations": [
         {
-            "hero": "",
-            "relationType": ""
+            "hero": "cerise",
+            "relationType": "friendly"
         }
     ],
     "stats": {
@@ -153,7 +153,9 @@
                     ]
                 }
             ],
-            "buffs": [],
+            "buffs": [
+                "efct_cleanse"
+            ],
             "debuffs": [],
             "damageModifiers": [
                 {
@@ -421,8 +423,8 @@
     "specialtySkill": {
         "name": "Image Management",
         "description": "She cannot allow her faithful congregants to see any unpleasant sides of her.",
-        "dispatch": [],
-        "enhancement": [],
+        "dispatch": "[Fear] Attribute",
+        "enhancement": "Reward Bonus +10%",
         "stats": {
             "command": 81,
             "charm": 60,
@@ -662,6 +664,6 @@
             ]
         }
     ],
-    "summonQuote": "",
+    "summonQuote": "I'm Elena, a descendant of the stars.",
     "description": "High Priestess of Constella gazing up at the shining stars"
 }
