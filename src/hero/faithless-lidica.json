@@ -1,6 +1,6 @@
 {
     "gameId": "c2046",
-    "name": "Faithless Lidica (preview)",
+    "name": "Faithless Lidica",
     "rarity": 5,
     "classType": "ranger",
     "element": "light",
@@ -10,8 +10,12 @@
     "background": "After being taken into a cult at a young age and enduring a childhood of suffering, Faithless Lidica finally managed to escape and is now on the run. Naturally, this experience has given her a skepticism towards religion and hatred of fanatics.",
     "relations": [
         {
-            "hero": "",
-            "relationType": ""
+            "hero": "aramintha",
+            "relationType": "longing"
+        },
+        {
+            "hero": "lidica",
+            "relationType": "hostile"
         }
     ],
     "stats": {
@@ -279,7 +283,9 @@
                     ]
                 }
             ],
-            "buffs": [],
+            "buffs": [
+                "efct_cr_up"
+            ],
             "debuffs": [
                 "efct_dispel"
             ],
@@ -393,7 +399,9 @@
                 }
             ],
             "buffs": [],
-            "debuffs": [],
+            "debuffs": [
+                "efct_cd_up"
+            ],
             "damageModifiers": [
                 {
                     "name": "pow",
@@ -417,13 +425,13 @@
     ],
     "specialtySkill": {
         "name": "Breaking Free.",
-        "description": "",
-        "dispatch": [],
-        "enhancement": [],
+        "description": "She seeks to live her own life without relying on anyone.",
+        "dispatch": "[Explore] Type",
+        "enhancement": "Reward Bonus +6%",
         "stats": {
-            "command": 0,
-            "charm": 0,
-            "politics": 0
+            "command": 78,
+            "charm": 77,
+            "politics": 43
         }
     },
     "camping": {
