@@ -1,0 +1,662 @@
+{
+    "gameId": "",
+    "name": "Alencia",
+    "rarity": 5,
+    "classType": "warrior",
+    "element": "earth",
+    "zodiac": "cancer",
+    "specialtyChangeName": "",
+    "selfSkillBarName": "",
+    "background": "Maternal aunt of Luna and Yufine, who believes that Dragons are the wisest and most graceful beings in the world. As she considers it inelegant to have frequent mood swings like lowly creatures do, she tends to be kind to others unless they cross a line.",
+    "relations": [
+        {
+            "hero": "luna",
+            "relationType": "hostile"
+        },
+        {
+            "hero": "yufine",
+            "relationType": "love"
+        }
+    ],
+    "stats": {
+        "lv1BaseStarNoAwaken": {
+            "cp": 1400,
+            "atk": 82,
+            "hp": 346,
+            "spd": 106,
+            "def": 75,
+            "chc": 0.15,
+            "chd": 1.5,
+            "eff": 0,
+            "efr": 0,
+            "dac": 0.05
+        },
+        "lv50FiveStarNoAwaken": {
+            "cp": 11960,
+            "atk": 662,
+            "hp": 4588,
+            "spd": 106,
+            "def": 483,
+            "chc": 0.15,
+            "chd": 1.5,
+            "eff": 0,
+            "efr": 0,
+            "dac": 0.05
+        },
+        "lv50FiveStarFullyAwakened": {
+            "cp": 13640,
+            "atk": 782,
+            "hp": 5616,
+            "spd": 106,
+            "def": 497,
+            "chc": 0.15,
+            "chd": 1.5,
+            "eff": 0,
+            "efr": 0,
+            "dac": 0.05
+        },
+        "lv60SixStarNoAwaken": {
+            "cp": 14929,
+            "atk": 825,
+            "hp": 5769,
+            "spd": 106,
+            "def": 599,
+            "chc": 0.15,
+            "chd": 1.5,
+            "eff": 0,
+            "efr": 0,
+            "dac": 0.05
+        },
+        "lv60SixStarFullyAwakened": {
+            "cp": 17360,
+            "atk": 975,
+            "hp": 7054,
+            "spd": 106,
+            "def": 652,
+            "chc": 0.15,
+            "chd": 1.5,
+            "eff": 0,
+            "efr": 0,
+            "dac": 0.05
+        }
+    },
+    "skills": [
+        {
+            "isPassive": false,
+            "soulBurn": 10,
+            "selfSkillBarValue": 0,
+            "soulBurnEffect": "Increases effect chance to 100% and decreases Defense of target for 2 turns.",
+            "awakenUpgrade": false,
+            "cooldown": 0,
+            "name": "Eradicate",
+            "soulAcquire": 1,
+            "description": "Batters the enemy, with a 60% chance to decrease Defense for 1 turn. Damage dealt increases proportional to the caster's max Health.",
+            "enhancement": [
+                {
+                    "description": "+5% damage dealt",
+                    "resources": [
+                        {
+                            "item": "gold",
+                            "qty": 4000
+                        },
+                        {
+                            "item": "molagora",
+                            "qty": 1
+                        }
+                    ]
+                },
+                {
+                    "description": "+5% effect chance",
+                    "resources": [
+                        {
+                            "item": "gold",
+                            "qty": 4000
+                        },
+                        {
+                            "item": "molagora",
+                            "qty": 1
+                        }
+                    ]
+                },
+                {
+                    "description": "+10% damage dealt",
+                    "resources": [
+                        {
+                            "item": "gold",
+                            "qty": 29000
+                        },
+                        {
+                            "item": "molagora",
+                            "qty": 1
+                        },
+                        {
+                            "item": "baby-mouse-insignia",
+                            "qty": 5
+                        }
+                    ]
+                },
+                {
+                    "description": "+10% effect chance",
+                    "resources": [
+                        {
+                            "item": "gold",
+                            "qty": 47000
+                        },
+                        {
+                            "item": "molagora",
+                            "qty": 3
+                        },
+                        {
+                            "item": "baby-mouse-insignia",
+                            "qty": 7
+                        }
+                    ]
+                },
+                {
+                    "description": "+15% damage dealt",
+                    "resources": [
+                        {
+                            "item": "gold",
+                            "qty": 80000
+                        },
+                        {
+                            "item": "molagora",
+                            "qty": 5
+                        },
+                        {
+                            "item": "the-heart-of-hypocrisy",
+                            "qty": 2
+                        }
+                    ]
+                }
+            ],
+            "buffs": [],
+            "debuffs": [
+                "stic_def_dn"
+            ],
+            "damageModifiers": [
+                {
+                    "name": "pow",
+                    "value": 1,
+                    "soulburn": 1
+                },
+                {
+                    "name": "atk_rate",
+                    "value": 0.5,
+                    "soulburn": 0.5
+                },
+                {
+                    "name": "hp_rate",
+                    "value": 0.1,
+                    "soulburn": 0.1
+                }
+            ]
+        },
+        {
+            "isPassive": true,
+            "soulBurn": 0,
+            "selfSkillBarValue": 0,
+            "soulBurnEffect": "",
+            "awakenUpgrade": false,
+            "cooldown": 0,
+            "name": "Noble Blood",
+            "soulAcquire": 0,
+            "description": "50% chance to grant Mind's Eye to the caster for 1 turn when attacked. On the caster's turn, when using Eradicate while granted Mind's Eye, activates Trample.\nTrample: Strikes the enemy, decreasing the cooldown of Genesis by 1 turn. Damage dealt increases proportional to the caster's max Health.",
+            "enhancement": [
+                {
+                    "description": "+5% damage dealt",
+                    "resources": [
+                        {
+                            "item": "gold",
+                            "qty": 4000
+                        },
+                        {
+                            "item": "molagora",
+                            "qty": 1
+                        }
+                    ]
+                },
+                {
+                    "description": "+10% effect chance",
+                    "resources": [
+                        {
+                            "item": "gold",
+                            "qty": 4000
+                        },
+                        {
+                            "item": "molagora",
+                            "qty": 1
+                        }
+                    ]
+                },
+                {
+                    "description": "+10% damage dealt",
+                    "resources": [
+                        {
+                            "item": "gold",
+                            "qty": 29000
+                        },
+                        {
+                            "item": "molagora",
+                            "qty": 1
+                        },
+                        {
+                            "item": "baby-mouse-insignia",
+                            "qty": 5
+                        }
+                    ]
+                },
+                {
+                    "description": "+15% effect chance",
+                    "resources": [
+                        {
+                            "item": "gold",
+                            "qty": 47000
+                        },
+                        {
+                            "item": "molagora",
+                            "qty": 3
+                        },
+                        {
+                            "item": "baby-mouse-insignia",
+                            "qty": 7
+                        }
+                    ]
+                },
+                {
+                    "description": "+15% damage dealt",
+                    "resources": [
+                        {
+                            "item": "gold",
+                            "qty": 80000
+                        },
+                        {
+                            "item": "molagora",
+                            "qty": 5
+                        },
+                        {
+                            "item": "the-heart-of-hypocrisy",
+                            "qty": 2
+                        }
+                    ]
+                }
+            ],
+            "buffs": [],
+            "debuffs": [],
+            "damageModifiers": [
+                {
+                    "name": "pow",
+                    "value": 1,
+                    "soulburn": 1
+                },
+                {
+                    "name": "atk_rate",
+                    "value": 0.5,
+                    "soulburn": 0.5
+                },
+                {
+                    "name": "hp_rate",
+                    "value": 0.12,
+                    "soulburn": 0.12
+                }
+            ]
+        },
+        {
+            "isPassive": false,
+            "soulBurn": 0,
+            "selfSkillBarValue": 0,
+            "soulBurnEffect": "",
+            "awakenUpgrade": true,
+            "cooldown": 5,
+            "name": "Genesis",
+            "soulAcquire": 3,
+            "description": "Attacks all enemies with Dragon's Might, dispelling all buffs and granting increased Defense to all allies for 2 turns. Damage dealt increases proportional to the caster's max Health.",
+            "enhancement": [
+                {
+                    "description": "+5% damage dealt",
+                    "resources": [
+                        {
+                            "item": "gold",
+                            "qty": 4000
+                        },
+                        {
+                            "item": "molagora",
+                            "qty": 1
+                        }
+                    ]
+                },
+                {
+                    "description": "+5% damage dealt",
+                    "resources": [
+                        {
+                            "item": "gold",
+                            "qty": 4000
+                        },
+                        {
+                            "item": "molagora",
+                            "qty": 1
+                        }
+                    ]
+                },
+                {
+                    "description": "-1 turn cooldown",
+                    "resources": [
+                        {
+                            "item": "gold",
+                            "qty": 29000
+                        },
+                        {
+                            "item": "molagora",
+                            "qty": 1
+                        },
+                        {
+                            "item": "baby-mouse-insignia",
+                            "qty": 5
+                        }
+                    ]
+                },
+                {
+                    "description": "+5% damage dealt",
+                    "resources": [
+                        {
+                            "item": "gold",
+                            "qty": 47000
+                        },
+                        {
+                            "item": "molagora",
+                            "qty": 3
+                        },
+                        {
+                            "item": "baby-mouse-insignia",
+                            "qty": 7
+                        }
+                    ]
+                },
+                {
+                    "description": "+15% damage dealt",
+                    "resources": [
+                        {
+                            "item": "gold",
+                            "qty": 80000
+                        },
+                        {
+                            "item": "molagora",
+                            "qty": 5
+                        },
+                        {
+                            "item": "the-heart-of-hypocrisy",
+                            "qty": 2
+                        }
+                    ]
+                }
+            ],
+            "buffs": [
+                "stic_def_up"
+            ],
+            "debuffs": [],
+            "damageModifiers": [
+                {
+                    "name": "pow",
+                    "value": 1,
+                    "soulburn": 1
+                },
+                {
+                    "name": "atk_rate",
+                    "value": 0.5,
+                    "soulburn": 0.5
+                },
+                {
+                    "name": "hp_rate",
+                    "value": 0.15,
+                    "soulburn": 0.15
+                }
+            ]
+        }
+    ],
+    "specialtySkill": {
+        "name": "Excessive Curiosity",
+        "description": "Dragons are greedy for new knowledge.",
+        "dispatch": "[Explore] Type",
+        "enhancement": "Reward Bonus +6%",
+        "stats": {
+            "command": 66,
+            "charm": 21,
+            "politics": 71
+        }
+    },
+    "camping": {
+        "options": [
+            "belief",
+            "complain"
+        ],
+        "reactions": {
+            "advice": 3,
+            "belief": -3,
+            "bizarre-story": -3,
+            "comforting-cheer": 1,
+            "complain": -2,
+            "criticism": 7,
+            "cute-cheer": 4,
+            "dream": 0,
+            "food-story": 3,
+            "gossip": -1,
+            "happy-memory": 2,
+            "heroic-cheer": -3,
+            "heroic-tale": 5,
+            "horror-story": -2,
+            "interesting-story": 0,
+            "joyful-memory": 1,
+            "myth": 5,
+            "occult": 3,
+            "reality-check": -1,
+            "sad-memory": 0,
+            "self-indulgent": -3,
+            "unique-comment": 3
+        }
+    },
+    "memoryImprintFormation": {
+        "north": true,
+        "south": true,
+        "east": false,
+        "west": false
+    },
+    "memoryImprintAttribute": "def%",
+    "memoryImprint": [
+        {
+            "rank": "d",
+            "status": {
+                "type": "def",
+                "increase": 0
+            }
+        },
+        {
+            "rank": "c",
+            "status": {
+                "type": "def",
+                "increase": 0
+            }
+        },
+        {
+            "rank": "b",
+            "status": {
+                "type": "def",
+                "increase": 0.043
+            }
+        },
+        {
+            "rank": "a",
+            "status": {
+                "type": "def",
+                "increase": 0.065
+            }
+        },
+        {
+            "rank": "s",
+            "status": {
+                "type": "def",
+                "increase": 0.086
+            }
+        },
+        {
+            "rank": "ss",
+            "status": {
+                "type": "def",
+                "increase": 0.107
+            }
+        },
+        {
+            "rank": "sss",
+            "status": {
+                "type": "def",
+                "increase": 0.129
+            }
+        }
+    ],
+    "awakening": [
+        {
+            "rank": 1,
+            "skillUpgrade": false,
+            "statsIncrease": [
+                {
+                    "hp": 0.03
+                },
+                {
+                    "atk": 20
+                },
+                {
+                    "hp": 60
+                }
+            ],
+            "resources": [
+                {
+                    "item": "life-rune",
+                    "qty": 10
+                }
+            ]
+        },
+        {
+            "rank": 2,
+            "skillUpgrade": false,
+            "statsIncrease": [
+                {
+                    "def": 0.03
+                },
+                {
+                    "atk": 20
+                },
+                {
+                    "hp": 60
+                }
+            ],
+            "resources": [
+                {
+                    "item": "life-rune",
+                    "qty": 15
+                },
+                {
+                    "item": "greater-life-rune",
+                    "qty": 2
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "skillUpgrade": true,
+            "statsIncrease": [
+                {
+                    "atk": 20
+                },
+                {
+                    "hp": 60
+                }
+            ],
+            "resources": [
+                {
+                    "item": "life-rune",
+                    "qty": 20
+                },
+                {
+                    "item": "greater-life-rune",
+                    "qty": 10
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "skillUpgrade": false,
+            "statsIncrease": [
+                {
+                    "hp": 0.06
+                },
+                {
+                    "atk": 30
+                },
+                {
+                    "hp": 80
+                }
+            ],
+            "resources": [
+                {
+                    "item": "greater-life-rune",
+                    "qty": 10
+                },
+                {
+                    "item": "epic-life-rune",
+                    "qty": 2
+                }
+            ]
+        },
+        {
+            "rank": 5,
+            "skillUpgrade": false,
+            "statsIncrease": [
+                {
+                    "hp": 0.06
+                },
+                {
+                    "atk": 30
+                },
+                {
+                    "hp": 80
+                }
+            ],
+            "resources": [
+                {
+                    "item": "epic-life-rune",
+                    "qty": 6
+                },
+                {
+                    "item": "special-alarm-loop",
+                    "qty": 15
+                }
+            ]
+        },
+        {
+            "rank": 6,
+            "skillUpgrade": false,
+            "statsIncrease": [
+                {
+                    "def": 0.06
+                },
+                {
+                    "atk": 30
+                },
+                {
+                    "hp": 80
+                }
+            ],
+            "resources": [
+                {
+                    "item": "epic-life-rune",
+                    "qty": 10
+                },
+                {
+                    "item": "the-heart-of-hypocrisy",
+                    "qty": 10
+                }
+            ]
+        }
+    ],
+    "summonQuote": "",
+    "description": "A pureblood who sees Humans as inferior"
+}
