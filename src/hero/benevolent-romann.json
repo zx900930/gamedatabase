@@ -1,0 +1,641 @@
+{
+    "gameId": "",
+    "name": "Benevolent Romann",
+    "rarity": 4,
+    "classType": "mage",
+    "element": "light",
+    "zodiac": "taurus",
+    "specialtyChangeName": "",
+    "selfSkillBarName": "",
+    "background": "Though he treats everyone with gentleness and kindness, he won't hesitate to do anything for his friend Ervalen, no matter how cruel. To him, Schniel is nothing more than a troublemaker, while Ervalen is a trustworthy liege deserving of unconditional loyalty.",
+    "relations": [
+        {
+            "hero": "schniel",
+            "relationType": "hostile"
+        }
+    ],
+    "stats": {
+        "lv1BaseStarNoAwaken": {
+            "cp": 1303,
+            "atk": 76,
+            "hp": 260,
+            "spd": 108,
+            "def": 76,
+            "chc": 0.15,
+            "chd": 1.5,
+            "eff": 0,
+            "efr": 0,
+            "dac": 0.05
+        },
+        "lv50FiveStarNoAwaken": {
+            "cp": 11357,
+            "atk": 647,
+            "hp": 3656,
+            "spd": 108,
+            "def": 520,
+            "chc": 0.15,
+            "chd": 1.5,
+            "eff": 0,
+            "efr": 0,
+            "dac": 0.05
+        },
+        "lv50FiveStarFullyAwakened": {
+            "cp": 13090,
+            "atk": 767,
+            "hp": 3996,
+            "spd": 112,
+            "def": 520,
+            "chc": 0.15,
+            "chd": 1.5,
+            "eff": 0.06,
+            "efr": 0.18,
+            "dac": 0.05
+        },
+        "lv60SixStarNoAwaken": {
+            "cp": 14169,
+            "atk": 807,
+            "hp": 4596,
+            "spd": 108,
+            "def": 645,
+            "chc": 0.15,
+            "chd": 1.5,
+            "eff": 0,
+            "efr": 0,
+            "dac": 0.05
+        },
+        "lv60SixStarFullyAwakened": {
+            "cp": 16790,
+            "atk": 957,
+            "hp": 5016,
+            "spd": 112,
+            "def": 645,
+            "chc": 0.15,
+            "chd": 1.5,
+            "eff": 0.18,
+            "efr": 0.18,
+            "dac": 0.05
+        }
+    },
+    "skills": [
+        {
+            "isPassive": false,
+            "soulBurn": 20,
+            "selfSkillBarValue": 0,
+            "soulBurnEffect": "Increases chance of activating Mana Burst to 100%.",
+            "awakenUpgrade": false,
+            "cooldown": 0,
+            "name": "Mana Arrow",
+            "soulAcquire": 1,
+            "description": "Attacks the enemy with concentrated mana, with a 35% chance to activate Mana Burst.\nMana Burst: Attacks all enemies, decreasing Combat Readiness by a random amount between 10% and 50%.",
+            "enhancement": [
+                {
+                    "description": "+5% damage dealt",
+                    "resources": [
+                        {
+                            "item": "gold",
+                            "qty": 4000
+                        },
+                        {
+                            "item": "molagora",
+                            "qty": 1
+                        }
+                    ]
+                },
+                {
+                    "description": "+5% damage dealt",
+                    "resources": [
+                        {
+                            "item": "gold",
+                            "qty": 4000
+                        },
+                        {
+                            "item": "molagora",
+                            "qty": 1
+                        }
+                    ]
+                },
+                {
+                    "description": "+5% damage dealt",
+                    "resources": [
+                        {
+                            "item": "gold",
+                            "qty": 9000
+                        },
+                        {
+                            "item": "molagora",
+                            "qty": 1
+                        },
+                        {
+                            "item": "shiny-enchantment",
+                            "qty": 1
+                        }
+                    ]
+                },
+                {
+                    "description": "+10% damage dealt",
+                    "resources": [
+                        {
+                            "item": "gold",
+                            "qty": 23000
+                        },
+                        {
+                            "item": "molagora",
+                            "qty": 2
+                        },
+                        {
+                            "item": "shiny-enchantment",
+                            "qty": 3
+                        }
+                    ]
+                },
+                {
+                    "description": "+15% damage dealt",
+                    "resources": [
+                        {
+                            "item": "gold",
+                            "qty": 80000
+                        },
+                        {
+                            "item": "molagorago",
+                            "qty": 1
+                        },
+                        {
+                            "item": "horn-of-desire",
+                            "qty": 2
+                        }
+                    ]
+                }
+            ],
+            "buffs": [],
+            "debuffs": [],
+            "damageModifiers": [
+                {
+                    "name": "pow",
+                    "value": 0.9,
+                    "soulburn": 0.9
+                },
+                {
+                    "name": "atk_rate",
+                    "value": 0.8,
+                    "soulburn": 0.8
+                }
+            ]
+        },
+        {
+            "isPassive": true,
+            "soulBurn": 0,
+            "selfSkillBarValue": 0,
+            "soulBurnEffect": "",
+            "awakenUpgrade": false,
+            "cooldown": 0,
+            "name": "High Mage's Might",
+            "soulAcquire": 0,
+            "description": "Reduces the effect of decreased Combat Readiness debuffs inflicted on the caster by 80%.",
+            "enhancement": [
+                {
+                    "description": "-2% Combat Readiness decrease",
+                    "resources": [
+                        {
+                            "item": "gold",
+                            "qty": 4000
+                        },
+                        {
+                            "item": "molagora",
+                            "qty": 1
+                        }
+                    ]
+                },
+                {
+                    "description": "-2% Combat Readiness decrease",
+                    "resources": [
+                        {
+                            "item": "gold",
+                            "qty": 4000
+                        },
+                        {
+                            "item": "molagora",
+                            "qty": 1
+                        }
+                    ]
+                },
+                {
+                    "description": "-3% Combat Readiness decrease",
+                    "resources": [
+                        {
+                            "item": "gold",
+                            "qty": 9000
+                        },
+                        {
+                            "item": "molagora",
+                            "qty": 1
+                        },
+                        {
+                            "item": "shiny-enchantment",
+                            "qty": 1
+                        }
+                    ]
+                },
+                {
+                    "description": "-3% Combat Readiness decrease",
+                    "resources": [
+                        {
+                            "item": "gold",
+                            "qty": 23000
+                        },
+                        {
+                            "item": "molagora",
+                            "qty": 2
+                        },
+                        {
+                            "item": "shiny-enchantment",
+                            "qty": 3
+                        }
+                    ]
+                },
+                {
+                    "description": "-10% Combat Readiness decrease",
+                    "resources": [
+                        {
+                            "item": "gold",
+                            "qty": 80000
+                        },
+                        {
+                            "item": "molagorago",
+                            "qty": 1
+                        },
+                        {
+                            "item": "horn-of-desire",
+                            "qty": 2
+                        }
+                    ]
+                }
+            ],
+            "buffs": [],
+            "debuffs": [],
+            "damageModifiers": [
+                {
+                    "name": "pow",
+                    "value": 0,
+                    "soulburn": 0
+                },
+                {
+                    "name": "atk_rate",
+                    "value": 0,
+                    "soulburn": 0
+                }
+            ]
+        },
+        {
+            "isPassive": false,
+            "soulBurn": 0,
+            "selfSkillBarValue": 0,
+            "soulBurnEffect": "",
+            "awakenUpgrade": true,
+            "cooldown": 5,
+            "name": "Mana Fundamentals",
+            "soulAcquire": 3,
+            "description": "Attacks all enemies with condensed mana, with a 60% chance to silence for 2 turns, before dispelling one buff.",
+            "enhancement": [
+                {
+                    "description": "+5% damage dealt",
+                    "resources": [
+                        {
+                            "item": "gold",
+                            "qty": 4000
+                        },
+                        {
+                            "item": "molagora",
+                            "qty": 1
+                        }
+                    ]
+                },
+                {
+                    "description": "+5% effect chance",
+                    "resources": [
+                        {
+                            "item": "gold",
+                            "qty": 4000
+                        },
+                        {
+                            "item": "molagora",
+                            "qty": 1
+                        }
+                    ]
+                },
+                {
+                    "description": "-1 turn cooldown",
+                    "resources": [
+                        {
+                            "item": "gold",
+                            "qty": 9000
+                        },
+                        {
+                            "item": "molagora",
+                            "qty": 1
+                        },
+                        {
+                            "item": "shiny-enchantment",
+                            "qty": 1
+                        }
+                    ]
+                },
+                {
+                    "description": "+10% effect chance",
+                    "resources": [
+                        {
+                            "item": "gold",
+                            "qty": 23000
+                        },
+                        {
+                            "item": "molagora",
+                            "qty": 2
+                        },
+                        {
+                            "item": "shiny-enchantment",
+                            "qty": 3
+                        }
+                    ]
+                },
+                {
+                    "description": "+15% damage dealt",
+                    "resources": [
+                        {
+                            "item": "gold",
+                            "qty": 80000
+                        },
+                        {
+                            "item": "molagorago",
+                            "qty": 1
+                        },
+                        {
+                            "item": "horn-of-desire",
+                            "qty": 2
+                        }
+                    ]
+                }
+            ],
+            "buffs": [],
+            "debuffs": [
+                "stic_silence"
+            ],
+            "damageModifiers": [
+                {
+                    "name": "pow",
+                    "value": 1.1,
+                    "soulburn": 1.1
+                },
+                {
+                    "name": "atk_rate",
+                    "value": 0.9,
+                    "soulburn": 0.9
+                }
+            ]
+        }
+    ],
+    "specialtySkill": {
+        "name": "Fellowship",
+        "description": "There are no lengths he will not go to when it comes to those close to him.",
+        "dispatch": "[Unknown Knowledge] Attribute",
+        "enhancement": "Reward Bonus +10%",
+        "stats": {
+            "command": 85,
+            "charm": 23,
+            "politics": 79
+        }
+    },
+    "camping": {
+        "options": [
+            "reality-check",
+            "criticism"
+        ],
+        "reactions": {
+            "advice": 2,
+            "belief": -1,
+            "bizarre-story": -2,
+            "comforting-cheer": 1,
+            "complain": -3,
+            "criticism": -3,
+            "cute-cheer": 1,
+            "dream": 2,
+            "food-story": 2,
+            "gossip": -2,
+            "happy-memory": 3,
+            "heroic-cheer": 3,
+            "heroic-tale": 3,
+            "horror-story": 2,
+            "interesting-story": 2,
+            "joyful-memory": 4,
+            "myth": 3,
+            "occult": 0,
+            "reality-check": -1,
+            "sad-memory": 3,
+            "self-indulgent": -1,
+            "unique-comment": 5
+        }
+    },
+    "memoryImprintFormation": {
+        "north": true,
+        "south": false,
+        "east": false,
+        "west": true
+    },
+    "memoryImprintAttribute": "atk%",
+    "memoryImprint": [
+        {
+            "rank": "d",
+            "status": {
+                "type": "atk",
+                "increase": 0
+            }
+        },
+        {
+            "rank": "c",
+            "status": {
+                "type": "atk",
+                "increase": 0.029
+            }
+        },
+        {
+            "rank": "b",
+            "status": {
+                "type": "atk",
+                "increase": 0.044
+            }
+        },
+        {
+            "rank": "a",
+            "status": {
+                "type": "atk",
+                "increase": 0.058
+            }
+        },
+        {
+            "rank": "s",
+            "status": {
+                "type": "atk",
+                "increase": 0.073
+            }
+        },
+        {
+            "rank": "ss",
+            "status": {
+                "type": "atk",
+                "increase": 0.087
+            }
+        },
+        {
+            "rank": "sss",
+            "status": {
+                "type": "atk",
+                "increase": 0.102
+            }
+        }
+    ],
+    "awakening": [
+        {
+            "rank": 1,
+            "skillUpgrade": false,
+            "statsIncrease": [
+                {
+                    "efr": 0.06
+                },
+                {
+                    "atk": 20
+                },
+                {
+                    "hp": 60
+                }
+            ],
+            "resources": [
+                {
+                    "item": "light-rune",
+                    "qty": 8
+                }
+            ]
+        },
+        {
+            "rank": 2,
+            "skillUpgrade": false,
+            "statsIncrease": [
+                {
+                    "eff": 0.06
+                },
+                {
+                    "atk": 20
+                },
+                {
+                    "hp": 60
+                }
+            ],
+            "resources": [
+                {
+                    "item": "light-rune",
+                    "qty": 12
+                },
+                {
+                    "item": "greater-light-rune",
+                    "qty": 2
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "skillUpgrade": true,
+            "statsIncrease": [
+                {
+                    "atk": 20
+                },
+                {
+                    "hp": 60
+                }
+            ],
+            "resources": [
+                {
+                    "item": "light-rune",
+                    "qty": 17
+                },
+                {
+                    "item": "greater-light-rune",
+                    "qty": 8
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "skillUpgrade": false,
+            "statsIncrease": [
+                {
+                    "spd": 4
+                },
+                {
+                    "atk": 30
+                },
+                {
+                    "hp": 80
+                }
+            ],
+            "resources": [
+                {
+                    "item": "greater-light-rune",
+                    "qty": 8
+                },
+                {
+                    "item": "epic-light-rune",
+                    "qty": 2
+                }
+            ]
+        },
+        {
+            "rank": 5,
+            "skillUpgrade": false,
+            "statsIncrease": [
+                {
+                    "efr": 0.12
+                },
+                {
+                    "atk": 30
+                },
+                {
+                    "hp": 80
+                }
+            ],
+            "resources": [
+                {
+                    "item": "epic-light-rune",
+                    "qty": 5
+                },
+                {
+                    "item": "blazing-rage",
+                    "qty": 12
+                }
+            ]
+        },
+        {
+            "rank": 6,
+            "skillUpgrade": false,
+            "statsIncrease": [
+                {
+                    "eff": 0.12
+                },
+                {
+                    "atk": 30
+                },
+                {
+                    "hp": 80
+                }
+            ],
+            "resources": [
+                {
+                    "item": "epic-light-rune",
+                    "qty": 8
+                },
+                {
+                    "item": "horn-of-desire",
+                    "qty": 8
+                }
+            ]
+        }
+    ],
+    "summonQuote": "",
+    "description": "Knight Commander of Lefundos who is kind to everyone"
+}
