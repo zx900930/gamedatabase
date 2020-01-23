@@ -1,0 +1,55 @@
+{
+    "identifier": "efa11",
+    "name": "efa11_name",
+    "rarity": 4,
+    "role": "assassin",
+    "limited": false,
+    "description": "efa11_desc",
+    "assets": {
+        "icon": "icon_art0056",
+        "image": "art0056_fu",
+        "thumbnail": "art0056_l"
+    },
+    "stats": {
+        "attack": 19,
+        "health": 29
+    },
+    "skill": {
+        "description": "sk_efa11_de",
+        "enhancements": [
+            [
+                0.5
+            ],
+            [
+                0.55
+            ],
+            [
+                0.6
+            ],
+            [
+                0.65
+            ],
+            [
+                0.7
+            ],
+            [
+                0.75
+            ],
+            [
+                0.8
+            ],
+            [
+                0.85
+            ],
+            [
+                0.9
+            ],
+            [
+                0.95
+            ],
+            [
+                1
+            ]
+        ]
+    }
+}

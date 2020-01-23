@@ -1,0 +1,55 @@
+{
+    "identifier": "ef410",
+    "name": "ef410_name",
+    "rarity": 4,
+    "role": "",
+    "limited": true,
+    "description": "ef410_desc",
+    "assets": {
+        "icon": "icon_art0081",
+        "image": "art0081_fu",
+        "thumbnail": "art0081_l"
+    },
+    "stats": {
+        "attack": 13,
+        "health": 48
+    },
+    "skill": {
+        "description": "sk_ef410_de",
+        "enhancements": [
+            [
+                0.1
+            ],
+            [
+                0.1
+            ],
+            [
+                0.1
+            ],
+            [
+                0.1
+            ],
+            [
+                0.1
+            ],
+            [
+                0.1
+            ],
+            [
+                0.1
+            ],
+            [
+                0.1
+            ],
+            [
+                0.1
+            ],
+            [
+                0.1
+            ],
+            [
+                0.1
+            ]
+        ]
+    }
+}

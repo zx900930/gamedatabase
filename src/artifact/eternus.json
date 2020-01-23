@@ -1,0 +1,55 @@
+{
+    "identifier": "efh08",
+    "name": "efh08_name",
+    "rarity": 4,
+    "role": "manauser",
+    "limited": false,
+    "description": "efh08_desc",
+    "assets": {
+        "icon": "icon_art0055",
+        "image": "art0055_fu",
+        "thumbnail": "art0055_l"
+    },
+    "stats": {
+        "attack": 8,
+        "health": 67
+    },
+    "skill": {
+        "description": "sk_efh08_de",
+        "enhancements": [
+            [
+                0.04
+            ],
+            [
+                0.044
+            ],
+            [
+                0.048
+            ],
+            [
+                0.052000000000000005
+            ],
+            [
+                0.05600000000000001
+            ],
+            [
+                0.06000000000000001
+            ],
+            [
+                0.06400000000000002
+            ],
+            [
+                0.06800000000000002
+            ],
+            [
+                0.07200000000000002
+            ],
+            [
+                0.07600000000000003
+            ],
+            [
+                0.08
+            ]
+        ]
+    }
+}

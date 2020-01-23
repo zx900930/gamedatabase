@@ -1,7 +1,7 @@
 {
-    "identifier": "ma_vdiena1",
-    "name": "ma_vdiena1_name",
-    "description": "ma_vdiena1_de",
+    "identifier": "ma_vdienb1",
+    "name": "ma_vdienb1_name",
+    "description": "ma_vdienb1_de",
     "category": "item_cateogry_eventtoken",
     "attribute": null,
     "grade": 3,

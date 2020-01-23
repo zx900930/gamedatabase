@@ -1,0 +1,16 @@
+{
+    "identifier": "ma_coupon_name",
+    "name": "ma_coupon_name_name",
+    "description": "ma_coupon_name_de",
+    "category": "item_category_special",
+    "attribute": null,
+    "grade": 1,
+    "type1": "fake_item",
+    "type2": null,
+    "assets": {
+        "thumbnail": null,
+        "icon": "ma_coupon_name"
+    },
+    "request_count": 0,
+    "support_count": 0
+}

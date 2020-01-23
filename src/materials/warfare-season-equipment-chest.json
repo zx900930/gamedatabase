@@ -1,0 +1,16 @@
+{
+    "identifier": "ma_selectbox_pvp_001",
+    "name": "ma_selectbox_pvp_001_name",
+    "description": "ma_selectbox_pvp_001_de",
+    "category": "item_category_select",
+    "attribute": null,
+    "grade": 5,
+    "type1": "special",
+    "type2": null,
+    "assets": {
+        "thumbnail": null,
+        "icon": "sp_selectbox_pvp"
+    },
+    "request_count": 0,
+    "support_count": 0
+}

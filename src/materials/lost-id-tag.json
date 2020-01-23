@@ -1,7 +1,7 @@
 {
-    "identifier": "ma_vraseb2",
-    "name": "ma_vraseb2_name",
-    "description": "ma_vraseb2_de",
+    "identifier": "ma_vdienb3",
+    "name": "ma_vdienb3_name",
+    "description": "ma_vdienb3_de",
     "category": "item_cateogry_eventtoken",
     "attribute": null,
     "grade": 3,
@@ -9,7 +9,7 @@
     "type2": "substory",
     "assets": {
         "thumbnail": null,
-        "icon": "ma_vrasea2"
+        "icon": "ma_vdiena3"
     },
     "request_count": 0,
     "support_count": 0

@@ -1,0 +1,16 @@
+{
+    "identifier": "ma_c1002_s01",
+    "name": "ma_c1002_s01_name",
+    "description": "ma_c1002_s01_desc",
+    "category": "item_category_skin_hero",
+    "attribute": null,
+    "grade": 4,
+    "type1": "skin",
+    "type2": null,
+    "assets": {
+        "thumbnail": null,
+        "icon": "face/c1002_s01"
+    },
+    "request_count": 0,
+    "support_count": 0
+}

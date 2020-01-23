@@ -315,7 +315,7 @@
                     ]
                 },
                 {
-                    "string": "sklv_de_eff1_5",
+                    "string": "sklv_de_eff1_cs_5_4051",
                     "costs": [
                         {
                             "item": "to_gold",
@@ -349,7 +349,7 @@
                     ]
                 },
                 {
-                    "string": "sklv_de_eff1_10",
+                    "string": "sklv_de_eff1_cs_10_4051",
                     "costs": [
                         {
                             "item": "to_gold",

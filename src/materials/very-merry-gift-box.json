@@ -1,0 +1,16 @@
+{
+    "identifier": "ma_chris_select_001",
+    "name": "ma_chris_select_001_name",
+    "description": "ma_chris_select_001_de",
+    "category": "item_category_selectbox",
+    "attribute": null,
+    "grade": 5,
+    "type1": "special",
+    "type2": "sp_chris_equip_select",
+    "assets": {
+        "thumbnail": null,
+        "icon": "sp_randombox_3"
+    },
+    "request_count": 0,
+    "support_count": 0
+}

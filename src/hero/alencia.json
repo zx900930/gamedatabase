@@ -1,96 +1,92 @@
 {
-    "_id": "carrot",
-    "id": "c3051",
-    "name": "chrn_c3051",
+    "_id": "alencia",
+    "id": "c1100",
+    "name": "chrn_c1100",
     "moonlight": false,
-    "rarity": 3,
-    "attribute": "fire",
-    "role": "mage",
-    "zodiac": "archer",
-    "description": "c3051_2line",
-    "story": "c3051_de_story",
-    "get_line": "c3051_gacha_get",
+    "rarity": 5,
+    "attribute": "wind",
+    "role": "warrior",
+    "zodiac": "crab",
+    "description": "c1100_2line",
+    "story": "c1100_de_story",
+    "get_line": "c1100_gacha_get",
     "stats": {
-        "bra": 90,
-        "int": 51,
-        "fai": 73,
+        "bra": 91,
+        "int": 107,
+        "fai": 71,
         "des": 74
     },
     "self_devotion": {
-        "type": "att",
+        "type": "max_hp_rate",
         "grades": {
-            "D": 36,
-            "C": 54,
-            "B": 72,
-            "A": 90,
-            "S": 108,
-            "SS": 126,
-            "SSS": 144
+            "B": 0.06,
+            "A": 0.09,
+            "S": 0.12,
+            "SS": 0.15,
+            "SSS": 0.18
         }
     },
     "devotion": {
-        "type": "att",
+        "type": "def_rate",
         "grades": {
-            "D": 24,
-            "C": 36,
-            "B": 48,
-            "A": 60,
-            "S": 72,
-            "SS": 84,
-            "SSS": 96
+            "B": 0.043,
+            "A": 0.065,
+            "S": 0.086,
+            "SS": 0.107,
+            "SSS": 0.129
         },
         "slots": {
-            "1": true,
+            "1": false,
             "2": true,
             "3": true,
-            "4": true
+            "4": false
         }
     },
     "specialty": {
-        "name": "sms_c3051_nm",
-        "description": "sms_c3051_de",
-        "icon": "smc_cook_2",
+        "name": "sms_c1100_nm",
+        "description": "sms_c1100_de",
+        "icon": "smt_explore",
         "effect_type": "reward_bonus",
-        "effect_value": 0.1,
-        "command": 23,
-        "charm": 71,
-        "politics": 10,
+        "effect_value": 0.06,
+        "command": 66,
+        "charm": 21,
+        "politics": 71,
         "type": {
-            "name": "smc_cook_nm",
-            "description": "smc_cook_de"
+            "name": "sm_type_explore",
+            "description": null
         }
     },
     "camping": {
         "personalities": [
             "c_pers_29_cool",
-            "c_pers_11_realism"
+            "c_pers_5_pride"
         ],
         "topics": [
-            "c_topic_20_moaning",
-            "c_topic_19_advice"
+            "c_topic_22_belief",
+            "c_topic_20_moaning"
         ],
         "values": {
-            "c_topic_1_criticism": 5,
-            "c_topic_2_realistic": 5,
-            "c_topic_3_taleheroic": -1,
-            "c_topic_4_cheeringup": -2,
-            "c_topic_5_charmcheer": 1,
-            "c_topic_6_herocheer": 2,
+            "c_topic_1_criticism": 7,
+            "c_topic_2_realistic": -1,
+            "c_topic_3_taleheroic": 5,
+            "c_topic_4_cheeringup": 1,
+            "c_topic_5_charmcheer": 4,
+            "c_topic_6_herocheer": -3,
             "c_topic_7_sadmemo": 0,
             "c_topic_8_enjoymemo": 1,
-            "c_topic_9_happymemo": 0,
+            "c_topic_9_happymemo": 2,
             "c_topic_10_unique": 3,
-            "c_topic_11_narcissis": -1,
-            "c_topic_12_occult": -1,
-            "c_topic_13_myth": -1,
-            "c_topic_14_gagsto": -2,
-            "c_topic_15_foodsto": 0,
-            "c_topic_16_horrorsto": 2,
-            "c_topic_17_gossip": 1,
-            "c_topic_18_dream": -3,
-            "c_topic_19_advice": 2,
-            "c_topic_20_moaning": 0,
-            "c_topic_22_belief": 2,
+            "c_topic_11_narcissis": -3,
+            "c_topic_12_occult": 3,
+            "c_topic_13_myth": 5,
+            "c_topic_14_gagsto": -3,
+            "c_topic_15_foodsto": 3,
+            "c_topic_16_horrorsto": -2,
+            "c_topic_17_gossip": -1,
+            "c_topic_18_dream": 0,
+            "c_topic_19_advice": 3,
+            "c_topic_20_moaning": -2,
+            "c_topic_22_belief": -3,
             "c_topic_25_adventure": 0
         }
     },
@@ -101,13 +97,13 @@
             "skill_enhanced": false,
             "costs": [
                 {
-                    "item": "ma_runefire1",
-                    "count": 5
+                    "item": "ma_runewind1",
+                    "count": 10
                 }
             ],
             "stats": [
                 {
-                    "stat": "att_rate",
+                    "stat": "max_hp_rate",
                     "value": 0.03,
                     "type": "sub"
                 },
@@ -129,14 +125,18 @@
             "skill_enhanced": false,
             "costs": [
                 {
-                    "item": "ma_runefire1",
-                    "count": 9
+                    "item": "ma_runewind1",
+                    "count": 15
+                },
+                {
+                    "item": "ma_runewind2",
+                    "count": 2
                 }
             ],
             "stats": [
                 {
-                    "stat": "cri",
-                    "value": 0.04,
+                    "stat": "def_rate",
+                    "value": 0.03,
                     "type": "sub"
                 },
                 {
@@ -157,12 +157,12 @@
             "skill_enhanced": 3,
             "costs": [
                 {
-                    "item": "ma_runefire1",
-                    "count": 12
+                    "item": "ma_runewind1",
+                    "count": 20
                 },
                 {
-                    "item": "ma_runefire2",
-                    "count": 6
+                    "item": "ma_runewind2",
+                    "count": 10
                 }
             ],
             "stats": [
@@ -184,45 +184,17 @@
             "skill_enhanced": false,
             "costs": [
                 {
-                    "item": "ma_runefire2",
-                    "count": 15
+                    "item": "ma_runewind2",
+                    "count": 10
+                },
+                {
+                    "item": "ma_runewind3",
+                    "count": 2
                 }
             ],
             "stats": [
                 {
-                    "stat": "speed",
-                    "value": 4,
-                    "type": "sub"
-                },
-                {
-                    "stat": "att",
-                    "value": 30,
-                    "type": "main"
-                },
-                {
-                    "stat": "max_hp",
-                    "value": 80,
-                    "type": "sub"
-                }
-            ]
-        },
-        {
-            "name": "zs_01_nm",
-            "description": "zs_01_de",
-            "skill_enhanced": false,
-            "costs": [
-                {
-                    "item": "ma_runefire3",
-                    "count": 4
-                },
-                {
-                    "item": "ma_demonr_es",
-                    "count": 9
-                }
-            ],
-            "stats": [
-                {
-                    "stat": "att_rate",
+                    "stat": "max_hp_rate",
                     "value": 0.06,
                     "type": "sub"
                 },
@@ -244,18 +216,50 @@
             "skill_enhanced": false,
             "costs": [
                 {
-                    "item": "ma_runefire3",
+                    "item": "ma_runewind3",
                     "count": 6
                 },
                 {
-                    "item": "ma_hired_es",
-                    "count": 6
+                    "item": "ma_siren_es",
+                    "count": 15
                 }
             ],
             "stats": [
                 {
-                    "stat": "cri",
-                    "value": 0.08,
+                    "stat": "max_hp_rate",
+                    "value": 0.06,
+                    "type": "sub"
+                },
+                {
+                    "stat": "att",
+                    "value": 30,
+                    "type": "main"
+                },
+                {
+                    "stat": "max_hp",
+                    "value": 80,
+                    "type": "sub"
+                }
+            ]
+        },
+        {
+            "name": "zs_01_nm",
+            "description": "zs_01_de",
+            "skill_enhanced": false,
+            "costs": [
+                {
+                    "item": "ma_runewind3",
+                    "count": 10
+                },
+                {
+                    "item": "ma_homon_es",
+                    "count": 10
+                }
+            ],
+            "stats": [
+                {
+                    "stat": "def_rate",
+                    "value": 0.06,
                     "type": "sub"
                 },
                 {
@@ -273,19 +277,19 @@
     ],
     "skills": [
         {
-            "name": "sk_c3051_1_sknm",
-            "icon": "sk_m0003_f",
+            "name": "sk_c1100_1_sknm",
+            "icon": "sk_c1100_1",
             "can_enhance": false,
-            "description": "sk_c3051_1_de",
+            "description": "sk_c1100_1_de",
             "values": [
-                0.35
+                0.6
             ],
             "passive": false,
             "cooldown": 0,
             "soul_gain": 1,
-            "pow": 0.95,
-            "att_rate": 1,
-            "soul_description": "sk_c3051_1s_de",
+            "pow": 1,
+            "att_rate": 0.5,
+            "soul_description": "sk_c1100_1s_de",
             "soul_requirement": 10,
             "enhancements": [
                 {
@@ -293,185 +297,11 @@
                     "costs": [
                         {
                             "item": "to_gold",
-                            "count": 2000
+                            "count": 4000
                         },
                         {
-                            "item": "to_stigma",
-                            "count": 80
-                        }
-                    ]
-                },
-                {
-                    "string": "sklv_de_dmg5",
-                    "costs": [
-                        {
-                            "item": "to_gold",
-                            "count": 3000
-                        },
-                        {
-                            "item": "to_stigma",
-                            "count": 180
-                        }
-                    ]
-                },
-                {
-                    "string": "sklv_de_eff1_cs_5_3051",
-                    "costs": [
-                        {
-                            "item": "to_gold",
-                            "count": 10000
-                        },
-                        {
-                            "item": "to_stigma",
-                            "count": 320
-                        },
-                        {
-                            "item": "ma_bowman_es",
+                            "item": "ma_moragora1",
                             "count": 1
-                        }
-                    ]
-                },
-                {
-                    "string": "sklv_de_dmg10",
-                    "costs": [
-                        {
-                            "item": "to_gold",
-                            "count": 18000
-                        },
-                        {
-                            "item": "to_stigma",
-                            "count": 530
-                        },
-                        {
-                            "item": "ma_bowman_es",
-                            "count": 2
-                        }
-                    ]
-                },
-                {
-                    "string": "sklv_de_eff1_cs_10_3051",
-                    "costs": [
-                        {
-                            "item": "to_gold",
-                            "count": 32000
-                        },
-                        {
-                            "item": "to_stigma",
-                            "count": 850
-                        },
-                        {
-                            "item": "ma_bowman_es",
-                            "count": 4
-                        }
-                    ]
-                },
-                {
-                    "string": "sklv_de_dmg15",
-                    "costs": [
-                        {
-                            "item": "to_gold",
-                            "count": 48000
-                        },
-                        {
-                            "item": "to_stigma",
-                            "count": 1340
-                        },
-                        {
-                            "item": "ma_bowman_es",
-                            "count": 6
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "sk_c3051_2_sknm",
-            "icon": "pa_m0020_f",
-            "can_enhance": false,
-            "description": "sk_c3051_2_de",
-            "values": [
-                0.3
-            ],
-            "passive": true,
-            "cooldown": 1,
-            "soul_gain": 0,
-            "pow": 1,
-            "att_rate": 0,
-            "enhancements": [
-                {
-                    "string": "pa_c3051_21_de",
-                    "costs": [
-                        {
-                            "item": "to_gold",
-                            "count": 14000
-                        },
-                        {
-                            "item": "to_stigma",
-                            "count": 250
-                        },
-                        {
-                            "item": "ma_bowman_es",
-                            "count": 2
-                        }
-                    ]
-                },
-                {
-                    "string": "pa_c3051_22_de",
-                    "costs": [
-                        {
-                            "item": "to_gold",
-                            "count": 24000
-                        },
-                        {
-                            "item": "to_stigma",
-                            "count": 650
-                        },
-                        {
-                            "item": "ma_bowman_es",
-                            "count": 3
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "sk_c3051_3_sknm",
-            "icon": "sk_m0024_f",
-            "can_enhance": true,
-            "description": "sk_c3051_3_de",
-            "values": [
-                0.6
-            ],
-            "passive": false,
-            "cooldown": 4,
-            "soul_gain": 3,
-            "pow": 1,
-            "att_rate": 1,
-            "enhanced_description": "sk_c3051_3u_de",
-            "enhancements": [
-                {
-                    "string": "sklv_de_dmg5",
-                    "costs": [
-                        {
-                            "item": "to_gold",
-                            "count": 1000
-                        },
-                        {
-                            "item": "to_stigma",
-                            "count": 50
-                        }
-                    ]
-                },
-                {
-                    "string": "sklv_de_eff1_5",
-                    "costs": [
-                        {
-                            "item": "to_gold",
-                            "count": 2000
-                        },
-                        {
-                            "item": "to_stigma",
-                            "count": 120
                         }
                     ]
                 },
@@ -483,25 +313,8 @@
                             "count": 4000
                         },
                         {
-                            "item": "to_stigma",
-                            "count": 230
-                        }
-                    ]
-                },
-                {
-                    "string": "sklv_de_cd1",
-                    "costs": [
-                        {
-                            "item": "to_gold",
-                            "count": 21000
-                        },
-                        {
-                            "item": "to_stigma",
-                            "count": 400
-                        },
-                        {
-                            "item": "ma_bowman_es",
-                            "count": 3
+                            "item": "ma_moragora1",
+                            "count": 1
                         }
                     ]
                 },
@@ -513,29 +326,29 @@
                             "count": 29000
                         },
                         {
-                            "item": "to_stigma",
-                            "count": 650
+                            "item": "ma_moragora1",
+                            "count": 1
                         },
                         {
-                            "item": "ma_bowman_es",
-                            "count": 4
+                            "item": "ma_rodent_es",
+                            "count": 5
                         }
                     ]
                 },
                 {
-                    "string": "sklv_de_eff1_5",
+                    "string": "sklv_de_eff1_10",
                     "costs": [
                         {
                             "item": "to_gold",
-                            "count": 39000
+                            "count": 47000
                         },
                         {
-                            "item": "to_stigma",
-                            "count": 1000
+                            "item": "ma_moragora1",
+                            "count": 3
                         },
                         {
-                            "item": "ma_bowman_es",
-                            "count": 5
+                            "item": "ma_rodent_es",
+                            "count": 7
                         }
                     ]
                 },
@@ -544,15 +357,200 @@
                     "costs": [
                         {
                             "item": "to_gold",
-                            "count": 50000
+                            "count": 80000
                         },
                         {
-                            "item": "to_stigma",
-                            "count": 1450
+                            "item": "ma_moragora1",
+                            "count": 5
                         },
                         {
-                            "item": "ma_bowman_es",
-                            "count": 6
+                            "item": "ma_homon_es",
+                            "count": 2
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "sk_c1100_2_sknm",
+            "icon": "sk_c1100_2",
+            "can_enhance": false,
+            "description": "sk_c1100_2_de",
+            "values": [
+                0.25
+            ],
+            "passive": true,
+            "cooldown": 0,
+            "soul_gain": 0,
+            "pow": 1,
+            "att_rate": 0.5,
+            "enhancements": [
+                {
+                    "string": "pa_c1100_21_de",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 4000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 1
+                        }
+                    ]
+                },
+                {
+                    "string": "pa_c1100_22_de",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 4000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 1
+                        }
+                    ]
+                },
+                {
+                    "string": "pa_c1100_23_de",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 29000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 1
+                        },
+                        {
+                            "item": "ma_rodent_es",
+                            "count": 5
+                        }
+                    ]
+                },
+                {
+                    "string": "pa_c1100_24_de",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 47000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 3
+                        },
+                        {
+                            "item": "ma_rodent_es",
+                            "count": 7
+                        }
+                    ]
+                },
+                {
+                    "string": "pa_c1100_25_de",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 80000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 5
+                        },
+                        {
+                            "item": "ma_homon_es",
+                            "count": 2
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "sk_c1100_3_sknm",
+            "icon": "sk_c1100_3",
+            "can_enhance": true,
+            "description": "sk_c1100_3_de",
+            "values": [],
+            "passive": false,
+            "cooldown": 5,
+            "soul_gain": 3,
+            "pow": 1,
+            "att_rate": 0.5,
+            "enhanced_description": "sk_c1100_3u_de",
+            "enhancements": [
+                {
+                    "string": "sklv_de_dmg5",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 4000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 1
+                        }
+                    ]
+                },
+                {
+                    "string": "sklv_de_dmg5",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 4000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 1
+                        }
+                    ]
+                },
+                {
+                    "string": "sklv_de_cd1",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 29000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 1
+                        },
+                        {
+                            "item": "ma_rodent_es",
+                            "count": 5
+                        }
+                    ]
+                },
+                {
+                    "string": "sklv_de_dmg5",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 47000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 3
+                        },
+                        {
+                            "item": "ma_rodent_es",
+                            "count": 7
+                        }
+                    ]
+                },
+                {
+                    "string": "sklv_de_dmg15",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 80000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 5
+                        },
+                        {
+                            "item": "ma_homon_es",
+                            "count": 2
                         }
                     ]
                 }

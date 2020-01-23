@@ -3,18 +3,18 @@
     "id": "c1034",
     "name": "chrn_c1034",
     "moonlight": false,
-    "rarity": 1,
-    "attribute": "none",
+    "rarity": 5,
+    "attribute": "dark",
     "role": "warrior",
     "zodiac": "archer",
     "description": "c1034_2line",
     "story": "c1034_de_story",
     "get_line": "c1034_gacha_get",
     "stats": {
-        "bra": 95,
-        "int": 83,
-        "fai": 53,
-        "des": 85
+        "bra": 104,
+        "int": 91,
+        "fai": 58,
+        "des": 89
     },
     "self_devotion": {},
     "devotion": {},
@@ -43,7 +43,85 @@
             "soul_gain": 3,
             "pow": 1,
             "att_rate": 1,
-            "enhancements": []
+            "enhancements": [
+                {
+                    "string": "sklv_de_dmg5",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 4000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 1
+                        }
+                    ]
+                },
+                {
+                    "string": "sklv_de_dmg5",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 4000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 1
+                        }
+                    ]
+                },
+                {
+                    "string": "sklv_de_cd1",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 29000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 1
+                        },
+                        {
+                            "item": "ma_bowman_es",
+                            "count": 5
+                        }
+                    ]
+                },
+                {
+                    "string": "sklv_de_cd1",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 47000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 3
+                        },
+                        {
+                            "item": "ma_bowman_es",
+                            "count": 7
+                        }
+                    ]
+                },
+                {
+                    "string": "sklv_de_dmg10",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 80000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 5
+                        },
+                        {
+                            "item": "ma_hired_es",
+                            "count": 2
+                        }
+                    ]
+                }
+            ]
         },
         {
             "name": "sk_c1034_2_sknm",
@@ -56,7 +134,85 @@
             "soul_gain": 2,
             "pow": 1,
             "att_rate": 1.2,
-            "enhancements": []
+            "enhancements": [
+                {
+                    "string": "sklv_de_dmg5",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 4000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 1
+                        }
+                    ]
+                },
+                {
+                    "string": "sklv_de_dmg5",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 4000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 1
+                        }
+                    ]
+                },
+                {
+                    "string": "sklv_de_cd1",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 29000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 1
+                        },
+                        {
+                            "item": "ma_bowman_es",
+                            "count": 5
+                        }
+                    ]
+                },
+                {
+                    "string": "sklv_de_cd1",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 47000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 3
+                        },
+                        {
+                            "item": "ma_bowman_es",
+                            "count": 7
+                        }
+                    ]
+                },
+                {
+                    "string": "sklv_de_dmg10",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 80000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 5
+                        },
+                        {
+                            "item": "ma_hired_es",
+                            "count": 2
+                        }
+                    ]
+                }
+            ]
         },
         {
             "name": "sk_c1034_3_sknm",
@@ -69,7 +225,85 @@
             "soul_gain": 2,
             "pow": 1,
             "att_rate": 2,
-            "enhancements": []
+            "enhancements": [
+                {
+                    "string": "sklv_de_dmg5",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 4000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 1
+                        }
+                    ]
+                },
+                {
+                    "string": "sklv_de_dmg5",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 4000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 1
+                        }
+                    ]
+                },
+                {
+                    "string": "sklv_de_cd1",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 29000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 1
+                        },
+                        {
+                            "item": "ma_bowman_es",
+                            "count": 5
+                        }
+                    ]
+                },
+                {
+                    "string": "sklv_de_cd1",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 47000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 3
+                        },
+                        {
+                            "item": "ma_bowman_es",
+                            "count": 7
+                        }
+                    ]
+                },
+                {
+                    "string": "sklv_de_dmg10",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 80000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 5
+                        },
+                        {
+                            "item": "ma_hired_es",
+                            "count": 2
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
