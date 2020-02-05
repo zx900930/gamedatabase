@@ -1,0 +1,652 @@
+{
+    "gameId": "",
+    "name": "Ambitious Tywin",
+    "rarity": 5,
+    "classType": "knight",
+    "element": "light",
+    "zodiac": "sagittarius",
+    "specialtyChangeName": null,
+    "selfSkillBarName": null,
+    "background": "Arrogant and cruel, he sees others only as pawns to be used for his own ends. He's so skilled at managing his reputation that he's known as a reliable and loyal knight despite his true nature.",
+    "relations": [
+        {
+            "hero": "schniel",
+            "relationType": "hostile"
+        },
+        {
+            "hero": "benevolent-romann",
+            "relationType": "rival"
+        }
+    ],
+    "stats": {
+        "lv1BaseStarNoAwaken": {
+            "cp": 1488,
+            "atk": 78,
+            "hp": 374,
+            "spd": 98,
+            "def": 86,
+            "chc": 0.15,
+            "chd": 1.5,
+            "eff": 0,
+            "efr": 0,
+            "dac": 0.05
+        },
+        "lv50FiveStarNoAwaken": {
+            "cp": 12701,
+            "atk": 631,
+            "hp": 4955,
+            "spd": 98,
+            "def": 559,
+            "chc": 0.15,
+            "chd": 1.5,
+            "eff": 0,
+            "efr": 0,
+            "dac": 0.05
+        },
+        "lv50FiveStarFullyAwakened": {
+            "cp": 13591,
+            "atk": 716,
+            "hp": 5446,
+            "spd": 100,
+            "def": 559,
+            "chc": 0.15,
+            "chd": 1.5,
+            "eff": 0,
+            "efr": 0,
+            "dac": 0.05
+        },
+        "lv60SixStarNoAwaken": {
+            "cp": 14985,
+            "atk": 744,
+            "hp": 5890,
+            "spd": 98,
+            "def": 655,
+            "chc": 0.15,
+            "chd": 1.5,
+            "eff": 0,
+            "efr": 0,
+            "dac": 0.05
+        },
+        "lv60SixStarFullyAwakened": {
+            "cp": 17114,
+            "atk": 894,
+            "hp": 6840,
+            "spd": 104,
+            "def": 694,
+            "chc": 0.15,
+            "chd": 1.5,
+            "eff": 0,
+            "efr": 0,
+            "dac": 0.05
+        }
+    },
+    "skills": [
+        {
+            "isPassive": false,
+            "soulBurn": 0,
+            "selfSkillBarValue": 0,
+            "soulBurnEffect": "",
+            "awakenUpgrade": false,
+            "cooldown": 0,
+            "name": "Icy Sword Storm",
+            "soulAcquire": 1,
+            "description": "Attacks with a sword, with a 60% chance to provoke for 1 turn. Removes 4 Souls from the opponent. Damage dealt increases proportional to the caster's max Health.",
+            "enhancement": [
+                {
+                    "description": "Increase damage 5%",
+                    "resources": [
+                        {
+                            "item": "gold",
+                            "qty": 4000
+                        },
+                        {
+                            "item": "molagora",
+                            "qty": 1
+                        }
+                    ]
+                },
+                {
+                    "description": "Increase effect chance 15%",
+                    "resources": [
+                        {
+                            "item": "gold",
+                            "qty": 19000
+                        },
+                        {
+                            "item": "molagora",
+                            "qty": 1
+                        },
+                        {
+                            "item": "archers-vision",
+                            "qty": 3
+                        }
+                    ]
+                },
+                {
+                    "description": "Increase damage 10%",
+                    "resources": [
+                        {
+                            "item": "gold",
+                            "qty": 37000
+                        },
+                        {
+                            "item": "molagora",
+                            "qty": 3
+                        },
+                        {
+                            "item": "archers-vision",
+                            "qty": 5
+                        }
+                    ]
+                },
+                {
+                    "description": "Increase damage 15%",
+                    "resources": [
+                        {
+                            "item": "gold",
+                            "qty": 80000
+                        },
+                        {
+                            "item": "molagorago",
+                            "qty": 1
+                        },
+                        {
+                            "item": "mercenarys-medicine",
+                            "qty": 2
+                        }
+                    ]
+                }
+            ],
+            "buffs": [],
+            "debuffs": [
+                "stic_provoke"
+            ],
+            "damageModifiers": [
+                {
+                    "name": "pow",
+                    "value": 1,
+                    "soulburn": 1
+                },
+                {
+                    "name": "atk_rate",
+                    "value": 1,
+                    "soulburn": 1
+                }
+            ]
+        },
+        {
+            "isPassive": true,
+            "soulBurn": 0,
+            "selfSkillBarValue": 0,
+            "soulBurnEffect": "",
+            "awakenUpgrade": false,
+            "cooldown": 0,
+            "name": "Battle Command",
+            "soulAcquire": 0,
+            "description": "Has a 75% chance to dispel one debuff from all allies when the caster is debuffed after being attacked. Can only activate once per turn.",
+            "enhancement": [
+                {
+                    "description": "+5% dispel debuff effect chance",
+                    "resources": [
+                        {
+                            "item": "gold",
+                            "qty": 4000
+                        },
+                        {
+                            "item": "molagora",
+                            "qty": 1
+                        }
+                    ]
+                },
+                {
+                    "description": "+5% dispel debuff effect chance",
+                    "resources": [
+                        {
+                            "item": "gold",
+                            "qty": 19000
+                        },
+                        {
+                            "item": "molagora",
+                            "qty": 1
+                        },
+                        {
+                            "item": "archers-vision",
+                            "qty": 3
+                        }
+                    ]
+                },
+                {
+                    "description": "+5% dispel debuff effect chance",
+                    "resources": [
+                        {
+                            "item": "gold",
+                            "qty": 37000
+                        },
+                        {
+                            "item": "molagora",
+                            "qty": 3
+                        },
+                        {
+                            "item": "archers-vision",
+                            "qty": 5
+                        }
+                    ]
+                },
+                {
+                    "description": "+10% dispel debuff effect chance",
+                    "resources": [
+                        {
+                            "item": "gold",
+                            "qty": 80000
+                        },
+                        {
+                            "item": "molagorago",
+                            "qty": 1
+                        },
+                        {
+                            "item": "mercenarys-medicine",
+                            "qty": 2
+                        }
+                    ]
+                }
+            ],
+            "buffs": [],
+            "debuffs": [],
+            "damageModifiers": [
+                {
+                    "name": "pow",
+                    "value": 1,
+                    "soulburn": 1
+                },
+                {
+                    "name": "atk_rate",
+                    "value": 1,
+                    "soulburn": 1
+                }
+            ]
+        },
+        {
+            "isPassive": false,
+            "soulBurn": 10,
+            "selfSkillBarValue": 0,
+            "soulBurnEffect": "Skill cooldown is decreased by 2 turns.",
+            "awakenUpgrade": true,
+            "cooldown": 5,
+            "name": "Flash",
+            "soulAcquire": 3,
+            "description": "Attacks all enemies with an instant swordstorm, with a 65% chance each to decrease Speed and make them unhealable for 2 turns. Damage dealt increases proportional to the caster's max Health.",
+            "enhancement": [
+                {
+                    "description": "Increase damage 5%",
+                    "resources": [
+                        {
+                            "item": "gold",
+                            "qty": 4000
+                        },
+                        {
+                            "item": "molagora",
+                            "qty": 1
+                        }
+                    ]
+                },
+                {
+                    "description": "Increase effect chance 5%",
+                    "resources": [
+                        {
+                            "item": "gold",
+                            "qty": 4000
+                        },
+                        {
+                            "item": "molagora",
+                            "qty": 1
+                        }
+                    ]
+                },
+                {
+                    "description": "Increase damage 5%",
+                    "resources": [
+                        {
+                            "item": "gold",
+                            "qty": 4000
+                        },
+                        {
+                            "item": "molagora",
+                            "qty": 1
+                        }
+                    ]
+                },
+                {
+                    "description": "-1 turn cooldown",
+                    "resources": [
+                        {
+                            "item": "gold",
+                            "qty": 19000
+                        },
+                        {
+                            "item": "molagora",
+                            "qty": 1
+                        },
+                        {
+                            "item": "archers-vision",
+                            "qty": 3
+                        }
+                    ]
+                },
+                {
+                    "description": "Increase effect chance 10%",
+                    "resources": [
+                        {
+                            "item": "gold",
+                            "qty": 32000
+                        },
+                        {
+                            "item": "molagora",
+                            "qty": 3
+                        },
+                        {
+                            "item": "archers-vision",
+                            "qty": 4
+                        }
+                    ]
+                },
+                {
+                    "description": "Increase damage 5%",
+                    "resources": [
+                        {
+                            "item": "gold",
+                            "qty": 55000
+                        },
+                        {
+                            "item": "molagorago",
+                            "qty": 1
+                        },
+                        {
+                            "item": "archers-vision",
+                            "qty": 7
+                        }
+                    ]
+                },
+                {
+                    "description": "Increase damage 5%",
+                    "resources": [
+                        {
+                            "item": "gold",
+                            "qty": 110000
+                        },
+                        {
+                            "item": "molagorago",
+                            "qty": 1
+                        },
+                        {
+                            "item": "mercenarys-medicine",
+                            "qty": 3
+                        }
+                    ]
+                }
+            ],
+            "buffs": [],
+            "debuffs": [
+                "stic_speed_dn",
+                "stic_heal_impossible"
+            ],
+            "damageModifiers": [
+                {
+                    "name": "pow",
+                    "value": 1,
+                    "soulburn": 1
+                },
+                {
+                    "name": "atk_rate",
+                    "value": 1,
+                    "soulburn": 1
+                }
+            ]
+        }
+    ],
+    "specialtySkill": {
+        "name": "Treacherous Obedience",
+        "description": "When handling a well-forged sword, one must be cautious to avoid cutting oneself.",
+        "dispatch": "[Fear]Attribute",
+        "enhancement": "Reward Bonus +10%",
+        "stats": {
+            "command": 95,
+            "charm": 68,
+            "politics": 77
+        }
+    },
+    "camping": {
+        "options": [
+            "self-indulgent",
+            "food-story"
+        ],
+        "reactions": {
+            "advice": -2,
+            "belief": 6,
+            "bizarre-story": 0,
+            "comforting-cheer": -2,
+            "complain": 1,
+            "criticism": 6,
+            "cute-cheer": 3,
+            "dream": 3,
+            "food-story": 2,
+            "gossip": 3,
+            "happy-memory": 1,
+            "heroic-cheer": 3,
+            "heroic-tale": 2,
+            "horror-story": 3,
+            "interesting-story": 1,
+            "joyful-memory": 3,
+            "myth": 4,
+            "occult": 2,
+            "reality-check": 0,
+            "sad-memory": -1,
+            "self-indulgent": 0,
+            "unique-comment": 1
+        }
+    },
+    "memoryImprintFormation": {
+        "north": false,
+        "south": false,
+        "east": true,
+        "west": true
+    },
+    "memoryImprintAttribute": "hp%",
+    "memoryImprint": [
+        {
+            "rank": "d",
+            "status": {
+                "type": "hp",
+                "increase": 0
+            }
+        },
+        {
+            "rank": "c",
+            "status": {
+                "type": "hp",
+                "increase": 0
+            }
+        },
+        {
+            "rank": "b",
+            "status": {
+                "type": "hp",
+                "increase": 0.043
+            }
+        },
+        {
+            "rank": "a",
+            "status": {
+                "type": "hp",
+                "increase": 0.065
+            }
+        },
+        {
+            "rank": "s",
+            "status": {
+                "type": "hp",
+                "increase": 0.086
+            }
+        },
+        {
+            "rank": "ss",
+            "status": {
+                "type": "hp",
+                "increase": 0.107
+            }
+        },
+        {
+            "rank": "sss",
+            "status": {
+                "type": "hp",
+                "increase": 0.129
+            }
+        }
+    ],
+    "awakening": [
+        {
+            "rank": 1,
+            "skillUpgrade": false,
+            "statsIncrease": [
+                {
+                    "hp": 0.03
+                },
+                {
+                    "atk": 20
+                },
+                {
+                    "hp": 60
+                }
+            ],
+            "resources": [
+                {
+                    "item": "light-rune",
+                    "qty": 10
+                }
+            ]
+        },
+        {
+            "rank": 2,
+            "skillUpgrade": false,
+            "statsIncrease": [
+                {
+                    "spd": 2
+                },
+                {
+                    "atk": 20
+                },
+                {
+                    "hp": 60
+                }
+            ],
+            "resources": [
+                {
+                    "item": "light-rune",
+                    "qty": 15
+                },
+                {
+                    "item": "greater-light-rune",
+                    "qty": 2
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "skillUpgrade": true,
+            "statsIncrease": [
+                {
+                    "atk": 20
+                },
+                {
+                    "hp": 60
+                }
+            ],
+            "resources": [
+                {
+                    "item": "light-rune",
+                    "qty": 20
+                },
+                {
+                    "item": "greater-light-rune",
+                    "qty": 10
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "skillUpgrade": false,
+            "statsIncrease": [
+                {
+                    "def": 0.06
+                },
+                {
+                    "atk": 30
+                },
+                {
+                    "hp": 80
+                }
+            ],
+            "resources": [
+                {
+                    "item": "greater-light-rune",
+                    "qty": 10
+                },
+                {
+                    "item": "epic-light-rune",
+                    "qty": 2
+                }
+            ]
+        },
+        {
+            "rank": 5,
+            "skillUpgrade": false,
+            "statsIncrease": [
+                {
+                    "hp": 0.06
+                },
+                {
+                    "atk": 30
+                },
+                {
+                    "hp": 80
+                }
+            ],
+            "resources": [
+                {
+                    "item": "epic-light-rune",
+                    "qty": 6
+                },
+                {
+                    "item": "cold-look",
+                    "qty": 15
+                }
+            ]
+        },
+        {
+            "rank": 6,
+            "skillUpgrade": false,
+            "statsIncrease": [
+                {
+                    "spd": 4
+                },
+                {
+                    "atk": 30
+                },
+                {
+                    "hp": 80
+                }
+            ],
+            "resources": [
+                {
+                    "item": "epic-light-rune",
+                    "qty": 10
+                },
+                {
+                    "item": "mercenarys-medicine",
+                    "qty": 10
+                }
+            ]
+        }
+    ],
+    "summonQuote": "",
+    "description": ""
+}
