@@ -86,7 +86,6 @@ def translate_folder(srcFolder):
 
 def mount_collection_array(folderName):
     folder_files = get_folder_files(BUILD_FOLDER+"/"+folderName)
-
     collection = []
 
     for file in folder_files:
@@ -94,6 +93,7 @@ def mount_collection_array(folderName):
         collection.append(data)
 
     saveFile(folderName, buildCollectionsFolder, collection)
+    print('Collection {0} saved'.format(folderName))
 
 def update_mongo(collection, filePath):
     printline()
