@@ -9,6 +9,6 @@
     "icon": "icon_eq_exclusive_c1017",
     "stat": {
         "type": "max_hp_rate",
-        "value": "0.07"
+        "value": 0.07
     }
 }
