@@ -285,6 +285,14 @@
             "soul_gain": 1,
             "pow": 0.95,
             "att_rate": 1,
+            "buffs": [],
+            "debuffs": [],
+            "other": [
+                {
+                    "name": "stic_addturn_skeffnm",
+                    "effect": "stic_addturn_de"
+                }
+            ],
             "enhanced_description": "sk_c3074_1u_de",
             "enhancements": [
                 {
@@ -396,6 +404,25 @@
             "soul_gain": 0,
             "pow": 1,
             "att_rate": 0,
+            "buffs": [],
+            "debuffs": [
+                {
+                    "icon": "stic_stun",
+                    "name": "stic_stun_skeffnm",
+                    "effect": "stic_stun_de"
+                },
+                {
+                    "icon": "stic_sleep",
+                    "name": "stic_sleep_skeffnm",
+                    "effect": "stic_sleep_de"
+                },
+                {
+                    "icon": "stic_provoke",
+                    "name": "stic_provoke_skeffnm",
+                    "effect": "stic_provoke_de"
+                }
+            ],
+            "other": [],
             "enhancements": [
                 {
                     "string": "pa_c3074_21_de",
@@ -463,6 +490,14 @@
             "soul_gain": 2,
             "pow": 1,
             "att_rate": 0.7,
+            "buffs": [],
+            "debuffs": [],
+            "other": [
+                {
+                    "name": "stic_transfer_skeffnm",
+                    "effect": "stic_transtransfer_de"
+                }
+            ],
             "soul_description": "sk_c3074_3s_de",
             "soul_requirement": 20,
             "enhancements": [

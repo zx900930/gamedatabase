@@ -291,6 +291,9 @@
             "soul_gain": 1,
             "pow": 0.9,
             "att_rate": 0.9,
+            "buffs": [],
+            "debuffs": [],
+            "other": [],
             "soul_description": "sk_c1004_1s_de",
             "soul_requirement": 20,
             "enhancements": [
@@ -414,6 +417,9 @@
             "soul_gain": 0,
             "pow": 1,
             "att_rate": 0,
+            "buffs": [],
+            "debuffs": [],
+            "other": [],
             "enhancements": [
                 {
                     "string": "pa_c1004_21_de",
@@ -494,6 +500,21 @@
             "soul_gain": 2,
             "pow": 1.05,
             "att_rate": 0.85,
+            "buffs": [
+                {
+                    "icon": "stic_speed_up",
+                    "name": "stic_speed_up_skeffnm",
+                    "effect": "stic_speed_up_de"
+                }
+            ],
+            "debuffs": [
+                {
+                    "icon": "stic_speed_dn",
+                    "name": "stic_speed_dn_skeffnm",
+                    "effect": "stic_speed_dn_de"
+                }
+            ],
+            "other": [],
             "enhanced_description": "sk_c1004_3u_de",
             "enhancements": [
                 {

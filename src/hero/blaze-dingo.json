@@ -289,6 +289,9 @@
             "soul_gain": 1,
             "pow": 0.95,
             "att_rate": 1.5,
+            "buffs": [],
+            "debuffs": [],
+            "other": [],
             "enhancements": [
                 {
                     "string": "sklv_de_dmg5",
@@ -380,6 +383,9 @@
             "soul_gain": 2,
             "pow": 0.95,
             "att_rate": 1.2,
+            "buffs": [],
+            "debuffs": [],
+            "other": [],
             "enhanced_description": "sk_c2021_2u_de",
             "enhancements": [
                 {
@@ -472,6 +478,20 @@
             "soul_gain": 2,
             "pow": 1,
             "att_rate": 0,
+            "buffs": [
+                {
+                    "icon": "stic_invincible",
+                    "name": "stic_invincible_skeffnm",
+                    "effect": "stic_invincible_de"
+                },
+                {
+                    "icon": "stic_att_up",
+                    "name": "stic_att_up_skeffnm",
+                    "effect": "stic_att_up_de"
+                }
+            ],
+            "debuffs": [],
+            "other": [],
             "soul_description": "sk_c2021_3s_de",
             "soul_requirement": 20,
             "enhancements": [

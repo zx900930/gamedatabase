@@ -285,6 +285,15 @@
             "soul_gain": 1,
             "pow": 1,
             "att_rate": 1,
+            "buffs": [],
+            "debuffs": [
+                {
+                    "icon": "stic_def_dn",
+                    "name": "stic_def_dn_skeffnm",
+                    "effect": "stic_def_dn_de"
+                }
+            ],
+            "other": [],
             "enhancements": [
                 {
                     "string": "sklv_de_dmg5",
@@ -406,6 +415,9 @@
             "soul_gain": 1,
             "pow": 0.95,
             "att_rate": 1.5,
+            "buffs": [],
+            "debuffs": [],
+            "other": [],
             "enhanced_description": "sk_c4023_2u_de",
             "enhancements": [
                 {
@@ -515,6 +527,20 @@
             "soul_gain": 1,
             "pow": 1,
             "att_rate": 0,
+            "buffs": [
+                {
+                    "icon": "stic_att_up",
+                    "name": "stic_att_up_skeffnm",
+                    "effect": "stic_att_up_de"
+                },
+                {
+                    "icon": "stic_acc_up",
+                    "name": "stic_acc_up_skeffnm",
+                    "effect": "stic_acc_up_de"
+                }
+            ],
+            "debuffs": [],
+            "other": [],
             "soul_description": "sk_c4023_3s_de",
             "soul_requirement": 10,
             "enhancements": [

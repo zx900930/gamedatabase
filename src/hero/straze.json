@@ -43,6 +43,9 @@
             "soul_gain": 3,
             "pow": 1,
             "att_rate": 1,
+            "buffs": [],
+            "debuffs": [],
+            "other": [],
             "enhancements": [
                 {
                     "string": "sklv_de_dmg5",
@@ -134,6 +137,15 @@
             "soul_gain": 2,
             "pow": 1,
             "att_rate": 1.2,
+            "buffs": [],
+            "debuffs": [
+                {
+                    "icon": "stic_dot",
+                    "name": "stic_dot_skeffnm",
+                    "effect": "stic_dot_de"
+                }
+            ],
+            "other": [],
             "enhancements": [
                 {
                     "string": "sklv_de_dmg5",
@@ -225,6 +237,9 @@
             "soul_gain": 2,
             "pow": 1,
             "att_rate": 2,
+            "buffs": [],
+            "debuffs": [],
+            "other": [],
             "enhancements": [
                 {
                     "string": "sklv_de_dmg5",

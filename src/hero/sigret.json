@@ -289,6 +289,15 @@
             "soul_gain": 1,
             "pow": 1,
             "att_rate": 1,
+            "buffs": [],
+            "debuffs": [
+                {
+                    "icon": "stic_blood",
+                    "name": "stic_blood_skeffnm",
+                    "effect": "stic_blood_de"
+                }
+            ],
+            "other": [],
             "enhancements": [
                 {
                     "string": "sklv_de_dmg5",
@@ -382,6 +391,20 @@
             "soul_gain": 2,
             "pow": 1,
             "att_rate": 1.25,
+            "buffs": [],
+            "debuffs": [
+                {
+                    "icon": "stic_heal_impossible",
+                    "name": "stic_heal_impossible_skeffnm",
+                    "effect": "stic_heal_impossible_de"
+                },
+                {
+                    "icon": "stic_blood",
+                    "name": "stic_blood_skeffnm",
+                    "effect": "stic_blood_de"
+                }
+            ],
+            "other": [],
             "soul_description": "sk_c1072_2s_de",
             "soul_requirement": 20,
             "enhancements": [
@@ -475,6 +498,14 @@
             "soul_gain": 3,
             "pow": 0.8,
             "att_rate": 1.7,
+            "buffs": [],
+            "debuffs": [],
+            "other": [
+                {
+                    "name": "stic_piercing_skeffnm",
+                    "effect": "stic_piercing_de"
+                }
+            ],
             "enhanced_description": "sk_c1072_3u_de",
             "enhancements": [
                 {

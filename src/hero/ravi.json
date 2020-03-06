@@ -287,6 +287,9 @@
             "soul_gain": 1,
             "pow": 1,
             "att_rate": 1,
+            "buffs": [],
+            "debuffs": [],
+            "other": [],
             "soul_description": "sk_c1019_1s_de",
             "soul_requirement": 20,
             "enhancements": [
@@ -382,6 +385,9 @@
             "soul_gain": 0,
             "pow": 1,
             "att_rate": 0,
+            "buffs": [],
+            "debuffs": [],
+            "other": [],
             "enhancements": [
                 {
                     "string": "pa_c1019_21_de",
@@ -473,6 +479,15 @@
             "soul_gain": 3,
             "pow": 0.95,
             "att_rate": 1.2,
+            "buffs": [],
+            "debuffs": [
+                {
+                    "icon": "stic_stun",
+                    "name": "stic_stun_skeffnm",
+                    "effect": "stic_stun_de"
+                }
+            ],
+            "other": [],
             "enhanced_description": "sk_c1019_3u_de",
             "enhancements": [
                 {

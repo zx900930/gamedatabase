@@ -289,6 +289,15 @@
             "soul_gain": 1,
             "pow": 0.9,
             "att_rate": 1,
+            "buffs": [],
+            "debuffs": [
+                {
+                    "icon": "stic_blood",
+                    "name": "stic_blood_skeffnm",
+                    "effect": "stic_blood_de"
+                }
+            ],
+            "other": [],
             "enhancements": [
                 {
                     "string": "sklv_de_dmg5",
@@ -380,6 +389,20 @@
             "soul_gain": 2,
             "pow": 1,
             "att_rate": 1.4,
+            "buffs": [],
+            "debuffs": [
+                {
+                    "icon": "stic_att_dn",
+                    "name": "stic_att_dn_skeffnm",
+                    "effect": "stic_att_dn_de"
+                },
+                {
+                    "icon": "stic_blood",
+                    "name": "stic_blood_skeffnm",
+                    "effect": "stic_blood_de"
+                }
+            ],
+            "other": [],
             "soul_description": "sk_c1065_2s_de",
             "soul_requirement": 20,
             "enhanced_description": "sk_c1065_2u_de",
@@ -474,6 +497,15 @@
             "soul_gain": 2,
             "pow": 0.8,
             "att_rate": 1.8,
+            "buffs": [],
+            "debuffs": [
+                {
+                    "icon": "stic_blood",
+                    "name": "stic_blood_skeffnm",
+                    "effect": "stic_blood_de"
+                }
+            ],
+            "other": [],
             "enhancements": [
                 {
                     "string": "sklv_de_dmg10",

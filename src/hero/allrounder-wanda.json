@@ -285,6 +285,15 @@
             "soul_gain": 1,
             "pow": 0.95,
             "att_rate": 0.9,
+            "buffs": [],
+            "debuffs": [
+                {
+                    "icon": "stic_target",
+                    "name": "stic_sign_skeffnm",
+                    "effect": "stic_sign_de"
+                }
+            ],
+            "other": [],
             "enhancements": [
                 {
                     "string": "sklv_de_dmg5",
@@ -391,6 +400,15 @@
             "soul_gain": 0,
             "pow": 1,
             "att_rate": 0,
+            "buffs": [],
+            "debuffs": [
+                {
+                    "icon": "stic_target",
+                    "name": "stic_sign_skeffnm",
+                    "effect": "stic_sign_de"
+                }
+            ],
+            "other": [],
             "enhancements": [
                 {
                     "string": "pa_c4065_21_de",
@@ -451,6 +469,20 @@
             "soul_gain": 2,
             "pow": 0.9,
             "att_rate": 1.8,
+            "buffs": [],
+            "debuffs": [
+                {
+                    "icon": "stic_heal_impossible",
+                    "name": "stic_heal_impossible_skeffnm",
+                    "effect": "stic_heal_impossible_de"
+                },
+                {
+                    "icon": "stic_stun",
+                    "name": "stic_stun_skeffnm",
+                    "effect": "stic_stun_de"
+                }
+            ],
+            "other": [],
             "soul_description": "sk_c4065_3s_de",
             "soul_requirement": 20,
             "enhanced_description": "sk_c4065_3u_de",

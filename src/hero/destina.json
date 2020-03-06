@@ -287,6 +287,9 @@
             "soul_gain": 1,
             "pow": 1,
             "att_rate": 1,
+            "buffs": [],
+            "debuffs": [],
+            "other": [],
             "soul_description": "sk_c2022_1s_de",
             "soul_requirement": 20,
             "enhancements": [
@@ -397,6 +400,9 @@
             "soul_gain": 2,
             "pow": 1,
             "att_rate": 0,
+            "buffs": [],
+            "debuffs": [],
+            "other": [],
             "enhancements": [
                 {
                     "string": "sklv_de_heal5",
@@ -462,6 +468,9 @@
             "soul_gain": 3,
             "pow": 1,
             "att_rate": 0,
+            "buffs": [],
+            "debuffs": [],
+            "other": [],
             "enhanced_description": "sk_c2022_3u_de",
             "enhancements": [
                 {

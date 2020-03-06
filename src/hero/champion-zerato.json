@@ -286,6 +286,14 @@
             "soul_gain": 1,
             "pow": 0.95,
             "att_rate": 1,
+            "buffs": [],
+            "debuffs": [],
+            "other": [
+                {
+                    "name": "stic_transfer_skeffnm",
+                    "effect": "stic_transtransfer_de"
+                }
+            ],
             "enhancements": [
                 {
                     "string": "sklv_de_dmg5",
@@ -396,6 +404,25 @@
             "soul_gain": 0,
             "pow": 1,
             "att_rate": 0,
+            "buffs": [],
+            "debuffs": [
+                {
+                    "icon": "stic_stun",
+                    "name": "stic_stun_skeffnm",
+                    "effect": "stic_stun_de"
+                },
+                {
+                    "icon": "stic_sleep",
+                    "name": "stic_sleep_skeffnm",
+                    "effect": "stic_sleep_de"
+                },
+                {
+                    "icon": "stic_blind",
+                    "name": "stic_blind_skeffnm",
+                    "effect": "stic_blind_de"
+                }
+            ],
+            "other": [],
             "enhancements": [
                 {
                     "string": "pa_c2010_21_de",
@@ -463,6 +490,26 @@
             "soul_gain": 3,
             "pow": 1,
             "att_rate": 1,
+            "buffs": [
+                {
+                    "icon": "stic_def_up",
+                    "name": "stic_def_up_skeffnm",
+                    "effect": "stic_def_up_de"
+                }
+            ],
+            "debuffs": [
+                {
+                    "icon": "stic_def_dn",
+                    "name": "stic_def_dn_skeffnm",
+                    "effect": "stic_def_dn_de"
+                },
+                {
+                    "icon": "stic_att_dn",
+                    "name": "stic_att_dn_skeffnm",
+                    "effect": "stic_att_dn_de"
+                }
+            ],
+            "other": [],
             "soul_description": "sk_c2010_3s_de",
             "soul_requirement": 20,
             "enhanced_description": "sk_c2010_3u_de",
