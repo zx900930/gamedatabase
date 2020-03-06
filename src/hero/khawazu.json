@@ -446,7 +446,7 @@
             "cooldown": 4,
             "soul_gain": 2,
             "pow": 0.9,
-            "att_rate": 1.5,
+            "att_rate": 1.7,
             "enhanced_description": "sk_c1085_3u_de",
             "enhancements": [
                 {

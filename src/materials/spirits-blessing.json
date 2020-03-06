@@ -1,0 +1,16 @@
+{
+    "identifier": "ma_bfrune",
+    "name": "ma_bfrune_name",
+    "description": "ma_bfrune_de",
+    "category": "item_category_buff",
+    "attribute": null,
+    "grade": 0,
+    "type1": "expendable",
+    "type2": "sp_bfrune",
+    "assets": {
+        "thumbnail": null,
+        "icon": "sp_bfrune_b"
+    },
+    "request_count": 0,
+    "support_count": 0
+}

@@ -289,6 +289,8 @@
             "soul_gain": 1,
             "pow": 1,
             "att_rate": 0.5,
+            "soul_description": "sk_c2032_1s_de",
+            "soul_requirement": 10,
             "enhancements": [
                 {
                     "string": "sklv_de_dmg5",
@@ -473,9 +475,7 @@
             "cooldown": 5,
             "soul_gain": 2,
             "pow": 1,
-            "att_rate": 1,
-            "soul_description": "sk_c2032_3s_de",
-            "soul_requirement": 10,
+            "att_rate": 1.7,
             "enhancements": [
                 {
                     "string": "sklv_de_dmg5",

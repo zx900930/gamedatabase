@@ -154,7 +154,7 @@
         {
             "name": "zs_02_nm",
             "description": "zs_02_de",
-            "skill_enhanced": 2,
+            "skill_enhanced": 3,
             "costs": [
                 {
                     "item": "ma_runefire1",
@@ -281,12 +281,14 @@
             "icon": "sk_c1009_1",
             "can_enhance": false,
             "description": "sk_c1009_1_de",
-            "values": [],
+            "values": [
+                0.35
+            ],
             "passive": false,
             "cooldown": 0,
             "soul_gain": 1,
             "pow": 1,
-            "att_rate": 1,
+            "att_rate": 0.9,
             "enhancements": [
                 {
                     "string": "sklv_de_dmg5",
@@ -302,101 +304,7 @@
                     ]
                 },
                 {
-                    "string": "sklv_de_dmg5",
-                    "costs": [
-                        {
-                            "item": "to_gold",
-                            "count": 4000
-                        },
-                        {
-                            "item": "ma_moragora1",
-                            "count": 1
-                        }
-                    ]
-                },
-                {
-                    "string": "sklv_de_dmg5",
-                    "costs": [
-                        {
-                            "item": "to_gold",
-                            "count": 29000
-                        },
-                        {
-                            "item": "ma_moragora1",
-                            "count": 1
-                        },
-                        {
-                            "item": "ma_demon_es",
-                            "count": 5
-                        }
-                    ]
-                },
-                {
-                    "string": "sklv_de_dmg5",
-                    "costs": [
-                        {
-                            "item": "to_gold",
-                            "count": 47000
-                        },
-                        {
-                            "item": "ma_moragora1",
-                            "count": 3
-                        },
-                        {
-                            "item": "ma_demon_es",
-                            "count": 7
-                        }
-                    ]
-                },
-                {
-                    "string": "sklv_de_dmg10",
-                    "costs": [
-                        {
-                            "item": "to_gold",
-                            "count": 80000
-                        },
-                        {
-                            "item": "ma_moragora1",
-                            "count": 5
-                        },
-                        {
-                            "item": "ma_queen_es",
-                            "count": 2
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "sk_c1009_2_sknm",
-            "icon": "sk_c1009_2",
-            "can_enhance": true,
-            "description": "sk_c1009_2_de",
-            "values": [
-                0.25
-            ],
-            "passive": false,
-            "cooldown": 3,
-            "soul_gain": 1,
-            "pow": 1,
-            "att_rate": 0.8,
-            "enhanced_description": "sk_c1009_2u_de",
-            "enhancements": [
-                {
-                    "string": "sklv_de_dmg5",
-                    "costs": [
-                        {
-                            "item": "to_gold",
-                            "count": 4000
-                        },
-                        {
-                            "item": "ma_moragora1",
-                            "count": 1
-                        }
-                    ]
-                },
-                {
-                    "string": "sklv_de_dmg5",
+                    "string": "sklv_de_eff1_5",
                     "costs": [
                         {
                             "item": "to_gold",
@@ -462,21 +370,21 @@
             ]
         },
         {
-            "name": "sk_c1009_3_sknm",
-            "icon": "sk_c1009_3",
+            "name": "sk_c1009_2_sknm",
+            "icon": "sk_c1009_2",
             "can_enhance": false,
-            "description": "sk_c1009_3_de",
-            "values": [],
-            "passive": false,
-            "cooldown": 4,
-            "soul_gain": 2,
-            "pow": 0.8,
-            "att_rate": 0.8,
-            "soul_description": "sk_c1009_3s_de",
-            "soul_requirement": 10,
+            "description": "sk_c1009_2_de",
+            "values": [
+                10
+            ],
+            "passive": true,
+            "cooldown": 0,
+            "soul_gain": 0,
+            "pow": 1,
+            "att_rate": 0,
             "enhancements": [
                 {
-                    "string": "sklv_de_dmg10",
+                    "string": "pa_c1009_21_de",
                     "costs": [
                         {
                             "item": "to_gold",
@@ -489,7 +397,7 @@
                     ]
                 },
                 {
-                    "string": "sklv_de_dmg10",
+                    "string": "pa_c1009_22_de",
                     "costs": [
                         {
                             "item": "to_gold",
@@ -502,7 +410,7 @@
                     ]
                 },
                 {
-                    "string": "sklv_de_cd1",
+                    "string": "pa_c1009_23_de",
                     "costs": [
                         {
                             "item": "to_gold",
@@ -519,7 +427,101 @@
                     ]
                 },
                 {
-                    "string": "sklv_de_dmg15",
+                    "string": "pa_c1009_24_de",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 47000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 3
+                        },
+                        {
+                            "item": "ma_demon_es",
+                            "count": 7
+                        }
+                    ]
+                },
+                {
+                    "string": "pa_c1009_25_de",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 80000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 5
+                        },
+                        {
+                            "item": "ma_queen_es",
+                            "count": 2
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "sk_c1009_3_sknm",
+            "icon": "sk_c1009_3",
+            "can_enhance": true,
+            "description": "sk_c1009_3_de",
+            "values": [],
+            "passive": false,
+            "cooldown": 0,
+            "soul_gain": 2,
+            "pow": 0.9,
+            "att_rate": 1.4,
+            "soul_description": "sk_c1009_3s_de",
+            "soul_requirement": 10,
+            "enhanced_description": "sk_c1009_3u_de",
+            "enhancements": [
+                {
+                    "string": "sklv_de_dmg5",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 4000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 1
+                        }
+                    ]
+                },
+                {
+                    "string": "sklv_de_dmg5",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 4000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 1
+                        }
+                    ]
+                },
+                {
+                    "string": "sklv_de_dmg5",
+                    "costs": [
+                        {
+                            "item": "to_gold",
+                            "count": 29000
+                        },
+                        {
+                            "item": "ma_moragora1",
+                            "count": 1
+                        },
+                        {
+                            "item": "ma_demon_es",
+                            "count": 5
+                        }
+                    ]
+                },
+                {
+                    "string": "sklv_de_dmg10",
                     "costs": [
                         {
                             "item": "to_gold",

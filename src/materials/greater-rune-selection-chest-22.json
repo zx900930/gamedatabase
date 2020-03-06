@@ -1,0 +1,16 @@
+{
+    "identifier": "ma_growth_rune2",
+    "name": "ma_growth_rune2_name",
+    "description": "ma_growth_rune2_de",
+    "category": "item_category_selectbox",
+    "attribute": null,
+    "grade": 5,
+    "type1": "special",
+    "type2": "sp_growth_rune2",
+    "assets": {
+        "thumbnail": null,
+        "icon": "sp_promotion_package"
+    },
+    "request_count": 0,
+    "support_count": 0
+}

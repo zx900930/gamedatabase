@@ -1,0 +1,16 @@
+{
+    "identifier": "ma_border22",
+    "name": "ma_border_abyss100_name",
+    "description": "ma_border_abyss100_desc",
+    "category": "item_category_border",
+    "attribute": null,
+    "grade": 4,
+    "type1": "border",
+    "type2": null,
+    "assets": {
+        "thumbnail": null,
+        "icon": "border/icon_border_abyss100"
+    },
+    "request_count": 0,
+    "support_count": 0
+}
