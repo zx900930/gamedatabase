@@ -289,15 +289,11 @@
             "soul_gain": 1,
             "pow": 1,
             "att_rate": 1.2,
-            "buffs": [],
-            "debuffs": [
-                {
-                    "icon": "stic_stun",
-                    "name": "stic_stun_skeffnm",
-                    "effect": "stic_stun_de"
-                }
+            "buff": [],
+            "debuff": [
+                "20"
             ],
-            "other": [],
+            "common": [],
             "soul_description": "sk_c2053_1s_de",
             "soul_requirement": 20,
             "enhancements": [
@@ -391,9 +387,9 @@
             "soul_gain": 0,
             "pow": 1,
             "att_rate": 0,
-            "buffs": [],
-            "debuffs": [],
-            "other": [],
+            "buff": [],
+            "debuff": [],
+            "common": [],
             "enhancements": [
                 {
                     "string": "pa_c2053_21_de",
@@ -487,9 +483,9 @@
             "soul_gain": 2,
             "pow": 0,
             "att_rate": 0,
-            "buffs": [],
-            "debuffs": [],
-            "other": [],
+            "buff": [],
+            "debuff": [],
+            "common": [],
             "enhanced_description": "sk_c2053_3u_de",
             "enhancements": [
                 {

@@ -288,15 +288,11 @@
             "soul_gain": 1,
             "pow": 1,
             "att_rate": 1,
-            "buffs": [],
-            "debuffs": [
-                {
-                    "icon": "stic_heal_impossible",
-                    "name": "stic_heal_impossible_skeffnm",
-                    "effect": "stic_heal_impossible_de"
-                }
+            "buff": [],
+            "debuff": [
+                "27"
             ],
-            "other": [],
+            "common": [],
             "enhancements": [
                 {
                     "string": "sklv_de_dmg5",
@@ -388,9 +384,9 @@
             "soul_gain": 2,
             "pow": 0.9,
             "att_rate": 0.9,
-            "buffs": [],
-            "debuffs": [],
-            "other": [],
+            "buff": [],
+            "debuff": [],
+            "common": [],
             "soul_description": "sk_c2005_3s_de",
             "soul_requirement": 20,
             "enhancements": [
@@ -484,9 +480,9 @@
             "soul_gain": 3,
             "pow": 0.8,
             "att_rate": 1.2,
-            "buffs": [],
-            "debuffs": [],
-            "other": [],
+            "buff": [],
+            "debuff": [],
+            "common": [],
             "enhanced_description": "sk_c2005_3u_de",
             "enhancements": [
                 {

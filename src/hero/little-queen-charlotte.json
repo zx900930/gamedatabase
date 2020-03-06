@@ -287,15 +287,11 @@
             "soul_gain": 1,
             "pow": 1,
             "att_rate": 1,
-            "buffs": [
-                {
-                    "icon": "stic_debuf_impossible",
-                    "name": "stic_res_up_skeffnm",
-                    "effect": "stic_res_up_de"
-                }
+            "buff": [
+                "12"
             ],
-            "debuffs": [],
-            "other": [],
+            "debuff": [],
+            "common": [],
             "enhancements": [
                 {
                     "string": "sklv_de_dmg5",
@@ -389,9 +385,9 @@
             "soul_gain": 0,
             "pow": 1,
             "att_rate": 0,
-            "buffs": [],
-            "debuffs": [],
-            "other": [],
+            "buff": [],
+            "debuff": [],
+            "common": [],
             "enhancements": [
                 {
                     "string": "pa_c2009_21_1_de",
@@ -483,13 +479,10 @@
             "soul_gain": 3,
             "pow": 1,
             "att_rate": 1.5,
-            "buffs": [],
-            "debuffs": [],
-            "other": [
-                {
-                    "name": "stic_piercing_skeffnm",
-                    "effect": "stic_piercing_de"
-                }
+            "buff": [],
+            "debuff": [],
+            "common": [
+                "34"
             ],
             "soul_description": "sk_c2009_3s_de",
             "soul_requirement": 20,

@@ -289,9 +289,9 @@
             "soul_gain": 1,
             "pow": 1,
             "att_rate": 1,
-            "buffs": [],
-            "debuffs": [],
-            "other": [],
+            "buff": [],
+            "debuff": [],
+            "common": [],
             "enhancements": [
                 {
                     "string": "sklv_de_dmg5",
@@ -385,21 +385,13 @@
             "soul_gain": 2,
             "pow": 1.05,
             "att_rate": 1.65,
-            "buffs": [
-                {
-                    "icon": "stic_invincible",
-                    "name": "stic_invincible_skeffnm",
-                    "effect": "stic_invincible_de"
-                }
+            "buff": [
+                "6"
             ],
-            "debuffs": [
-                {
-                    "icon": "stic_stun",
-                    "name": "stic_stun_skeffnm",
-                    "effect": "stic_stun_de"
-                }
+            "debuff": [
+                "20"
             ],
-            "other": [],
+            "common": [],
             "enhancements": [
                 {
                     "string": "sklv_de_dmg10",
@@ -491,24 +483,13 @@
             "soul_gain": 3,
             "pow": 0.95,
             "att_rate": 0.85,
-            "buffs": [
-                {
-                    "icon": "stic_invincible",
-                    "name": "stic_invincible_skeffnm",
-                    "effect": "stic_invincible_de"
-                },
-                {
-                    "icon": "stic_protect",
-                    "name": "stic_protect_skeffnm",
-                    "effect": "stic_protect_de"
-                }
+            "buff": [
+                "6",
+                "5"
             ],
-            "debuffs": [],
-            "other": [
-                {
-                    "name": "stic_piercing_skeffnm",
-                    "effect": "stic_piercing_de"
-                }
+            "debuff": [],
+            "common": [
+                "34"
             ],
             "soul_description": "sk_c1069_3s_de",
             "soul_requirement": 10,

@@ -285,15 +285,11 @@
             "soul_gain": 1,
             "pow": 0.9,
             "att_rate": 1,
-            "buffs": [],
-            "debuffs": [
-                {
-                    "icon": "stic_silence",
-                    "name": "stic_silence_skeffnm",
-                    "effect": "stic_silence_de"
-                }
+            "buff": [],
+            "debuff": [
+                "28"
             ],
-            "other": [],
+            "common": [],
             "enhancements": [
                 {
                     "string": "sklv_de_dmg5",
@@ -400,9 +396,9 @@
             "soul_gain": 0,
             "pow": 1,
             "att_rate": 0,
-            "buffs": [],
-            "debuffs": [],
-            "other": [],
+            "buff": [],
+            "debuff": [],
+            "common": [],
             "enhancements": [
                 {
                     "string": "pa_c3055_21_de",
@@ -462,9 +458,9 @@
             "soul_gain": 2,
             "pow": 1,
             "att_rate": 0.9,
-            "buffs": [],
-            "debuffs": [],
-            "other": [],
+            "buff": [],
+            "debuff": [],
+            "common": [],
             "soul_description": "sk_c3055_3s_de",
             "soul_requirement": 20,
             "enhanced_description": "sk_c3055_3u_de",

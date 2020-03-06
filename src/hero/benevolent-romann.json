@@ -289,9 +289,9 @@
             "soul_gain": 1,
             "pow": 0.9,
             "att_rate": 0.8,
-            "buffs": [],
-            "debuffs": [],
-            "other": [],
+            "buff": [],
+            "debuff": [],
+            "common": [],
             "soul_description": "sk_c2043_1s_de",
             "soul_requirement": 20,
             "enhancements": [
@@ -387,9 +387,9 @@
             "soul_gain": 0,
             "pow": 0,
             "att_rate": 0,
-            "buffs": [],
-            "debuffs": [],
-            "other": [],
+            "buff": [],
+            "debuff": [],
+            "common": [],
             "enhancements": [
                 {
                     "string": "pa_c2043_21",
@@ -483,15 +483,11 @@
             "soul_gain": 3,
             "pow": 1.1,
             "att_rate": 0.9,
-            "buffs": [],
-            "debuffs": [
-                {
-                    "icon": "stic_silence",
-                    "name": "stic_silence_skeffnm",
-                    "effect": "stic_silence_de"
-                }
+            "buff": [],
+            "debuff": [
+                "28"
             ],
-            "other": [],
+            "common": [],
             "enhanced_description": "sk_c2043_3u_de",
             "enhancements": [
                 {

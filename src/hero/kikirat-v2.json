@@ -244,9 +244,9 @@
             "soul_gain": 1,
             "pow": 1,
             "att_rate": 0.5,
-            "buffs": [],
-            "debuffs": [],
-            "other": [],
+            "buff": [],
+            "debuff": [],
+            "common": [],
             "enhancements": [
                 {
                     "string": "sklv_de_dmg5",
@@ -340,9 +340,9 @@
             "soul_gain": 0,
             "pow": 1,
             "att_rate": 0,
-            "buffs": [],
-            "debuffs": [],
-            "other": [],
+            "buff": [],
+            "debuff": [],
+            "common": [],
             "enhancements": [
                 {
                     "string": "pa_c3084_21_de",
@@ -436,15 +436,11 @@
             "soul_gain": 2,
             "pow": 1,
             "att_rate": 0.4,
-            "buffs": [],
-            "debuffs": [
-                {
-                    "icon": "stic_blind",
-                    "name": "stic_blind_skeffnm",
-                    "effect": "stic_blind_de"
-                }
+            "buff": [],
+            "debuff": [
+                "22"
             ],
-            "other": [],
+            "common": [],
             "soul_description": "sk_c3084_3s_de",
             "soul_requirement": 10,
             "enhanced_description": "sk_c3084_3u_de",

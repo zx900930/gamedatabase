@@ -35,15 +35,11 @@
             "soul_gain": 1,
             "pow": 1,
             "att_rate": 0.7,
-            "buffs": [],
-            "debuffs": [
-                {
-                    "icon": "stic_def_dn",
-                    "name": "stic_def_dn_skeffnm",
-                    "effect": "stic_def_dn_de"
-                }
+            "buff": [],
+            "debuff": [
+                "18"
             ],
-            "other": [],
+            "common": [],
             "enhancements": []
         },
         {
@@ -59,15 +55,11 @@
             "soul_gain": 2,
             "pow": 1,
             "att_rate": 0.4,
-            "buffs": [],
-            "debuffs": [
-                {
-                    "icon": "stic_att_dn",
-                    "name": "stic_att_dn_skeffnm",
-                    "effect": "stic_att_dn_de"
-                }
+            "buff": [],
+            "debuff": [
+                "17"
             ],
-            "other": [],
+            "common": [],
             "soul_description": "sk_c1002_2s_de",
             "soul_requirement": 10,
             "enhancements": []
@@ -85,26 +77,14 @@
             "soul_gain": 2,
             "pow": 1.05,
             "att_rate": 0.6,
-            "buffs": [
-                {
-                    "icon": "stic_debuf_impossible",
-                    "name": "stic_res_up_skeffnm",
-                    "effect": "stic_res_up_de"
-                },
-                {
-                    "icon": "stic_protect",
-                    "name": "stic_protect_skeffnm",
-                    "effect": "stic_protect_de"
-                }
+            "buff": [
+                "12",
+                "5"
             ],
-            "debuffs": [
-                {
-                    "icon": "stic_provoke",
-                    "name": "stic_provoke_skeffnm",
-                    "effect": "stic_provoke_de"
-                }
+            "debuff": [
+                "25"
             ],
-            "other": [],
+            "common": [],
             "enhancements": []
         }
     ]

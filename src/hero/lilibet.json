@@ -289,15 +289,11 @@
             "soul_gain": 1,
             "pow": 1,
             "att_rate": 1,
-            "buffs": [],
-            "debuffs": [
-                {
-                    "icon": "stic_buf_impossible",
-                    "name": "stic_buf_impossible_skeffnm",
-                    "effect": "stic_buf_impossible_de"
-                }
+            "buff": [],
+            "debuff": [
+                "29"
             ],
-            "other": [],
+            "common": [],
             "enhancements": [
                 {
                     "string": "sklv_de_dmg5",
@@ -391,15 +387,11 @@
             "soul_gain": 1,
             "pow": 1,
             "att_rate": 1.5,
-            "buffs": [],
-            "debuffs": [
-                {
-                    "icon": "stic_blood",
-                    "name": "stic_blood_skeffnm",
-                    "effect": "stic_blood_de"
-                }
+            "buff": [],
+            "debuff": [
+                "32"
             ],
-            "other": [],
+            "common": [],
             "enhanced_description": "sk_c1095_2u_de",
             "enhancements": [
                 {
@@ -492,19 +484,12 @@
             "soul_gain": 2,
             "pow": 0.95,
             "att_rate": 2,
-            "buffs": [
-                {
-                    "icon": "stic_endure",
-                    "name": "stic_endure_skeffnm",
-                    "effect": "stic_endure_de"
-                }
+            "buff": [
+                "46"
             ],
-            "debuffs": [],
-            "other": [
-                {
-                    "name": "stic_reviveblock_skeffnm",
-                    "effect": "stic_reviveblock_de"
-                }
+            "debuff": [],
+            "common": [
+                "52"
             ],
             "soul_description": "sk_c1095_3s_de",
             "soul_requirement": 10,

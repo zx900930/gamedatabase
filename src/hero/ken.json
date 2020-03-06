@@ -287,26 +287,14 @@
             "soul_gain": 1,
             "pow": 1,
             "att_rate": 0.5,
-            "buffs": [
-                {
-                    "icon": "stic_haki",
-                    "name": "stic_haki_skeffnm",
-                    "effect": "stic_haki_de"
-                }
+            "buff": [
+                "41"
             ],
-            "debuffs": [
-                {
-                    "icon": "stic_def_dn",
-                    "name": "stic_def_dn_skeffnm",
-                    "effect": "stic_def_dn_de"
-                },
-                {
-                    "icon": "stic_blaze",
-                    "name": "stic_blaze_skeffnm",
-                    "effect": "stic_blaze_de"
-                }
+            "debuff": [
+                "18",
+                "31"
             ],
-            "other": [],
+            "common": [],
             "enhancements": [
                 {
                     "string": "sklv_de_dmg5",
@@ -415,26 +403,14 @@
             "soul_gain": 2,
             "pow": 1,
             "att_rate": 1.2,
-            "buffs": [
-                {
-                    "icon": "stic_speed_up",
-                    "name": "stic_speed_up_skeffnm",
-                    "effect": "stic_speed_up_de"
-                },
-                {
-                    "icon": "stic_haki",
-                    "name": "stic_haki_skeffnm",
-                    "effect": "stic_haki_de"
-                }
+            "buff": [
+                "3",
+                "41"
             ],
-            "debuffs": [
-                {
-                    "icon": "stic_def_dn",
-                    "name": "stic_def_dn_skeffnm",
-                    "effect": "stic_def_dn_de"
-                }
+            "debuff": [
+                "18"
             ],
-            "other": [],
+            "common": [],
             "soul_description": "sk_c1047_2s_de",
             "soul_requirement": 20,
             "enhancements": [
@@ -502,21 +478,13 @@
             "soul_gain": 3,
             "pow": 0.9,
             "att_rate": 1.5,
-            "buffs": [
-                {
-                    "icon": "stic_haki",
-                    "name": "stic_haki_skeffnm",
-                    "effect": "stic_haki_de"
-                }
+            "buff": [
+                "41"
             ],
-            "debuffs": [
-                {
-                    "icon": "stic_stun",
-                    "name": "stic_stun_skeffnm",
-                    "effect": "stic_stun_de"
-                }
+            "debuff": [
+                "20"
             ],
-            "other": [],
+            "common": [],
             "enhanced_description": "sk_c1047_3u_de",
             "enhancements": [
                 {

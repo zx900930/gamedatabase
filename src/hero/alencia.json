@@ -289,15 +289,11 @@
             "soul_gain": 1,
             "pow": 1,
             "att_rate": 0.5,
-            "buffs": [],
-            "debuffs": [
-                {
-                    "icon": "stic_def_dn",
-                    "name": "stic_def_dn_skeffnm",
-                    "effect": "stic_def_dn_de"
-                }
+            "buff": [],
+            "debuff": [
+                "18"
             ],
-            "other": [],
+            "common": [],
             "soul_description": "sk_c1100_1s_de",
             "soul_requirement": 10,
             "enhancements": [
@@ -393,15 +389,11 @@
             "soul_gain": 0,
             "pow": 1,
             "att_rate": 0.5,
-            "buffs": [
-                {
-                    "icon": "stic_wildeye",
-                    "name": "stic_wildeye_skeffnm",
-                    "effect": "stic_wildeye_de"
-                }
+            "buff": [
+                "59"
             ],
-            "debuffs": [],
-            "other": [],
+            "debuff": [],
+            "common": [],
             "enhancements": [
                 {
                     "string": "pa_c1100_21_de",
@@ -493,9 +485,9 @@
             "soul_gain": 3,
             "pow": 1,
             "att_rate": 0.5,
-            "buffs": [],
-            "debuffs": [],
-            "other": [],
+            "buff": [],
+            "debuff": [],
+            "common": [],
             "enhanced_description": "sk_c1100_3u_de",
             "enhancements": [
                 {

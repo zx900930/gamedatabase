@@ -1,0 +1,7 @@
+{
+    "_id": "11",
+    "id": "11",
+    "type": "buff",
+    "name": "stic_heal_skeffnm",
+    "effect": "stic_heal_de"
+}

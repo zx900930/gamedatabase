@@ -289,15 +289,11 @@
             "soul_gain": 1,
             "pow": 1,
             "att_rate": 1,
-            "buffs": [],
-            "debuffs": [
-                {
-                    "icon": "stic_blaze",
-                    "name": "stic_blaze_skeffnm",
-                    "effect": "stic_blaze_de"
-                }
+            "buff": [],
+            "debuff": [
+                "31"
             ],
-            "other": [],
+            "common": [],
             "soul_description": "sk_c2048_1s_de",
             "soul_requirement": 10,
             "enhancements": [
@@ -391,15 +387,11 @@
             "soul_gain": 0,
             "pow": 1,
             "att_rate": 0,
-            "buffs": [],
-            "debuffs": [
-                {
-                    "icon": "stic_blaze",
-                    "name": "stic_blaze_skeffnm",
-                    "effect": "stic_blaze_de"
-                }
+            "buff": [],
+            "debuff": [
+                "31"
             ],
-            "other": [],
+            "common": [],
             "enhancements": [
                 {
                     "string": "pa_c2048_21_de",
@@ -493,15 +485,11 @@
             "soul_gain": 2,
             "pow": 1,
             "att_rate": 0.9,
-            "buffs": [],
-            "debuffs": [
-                {
-                    "icon": "stic_blaze",
-                    "name": "stic_blaze_skeffnm",
-                    "effect": "stic_blaze_de"
-                }
+            "buff": [],
+            "debuff": [
+                "31"
             ],
-            "other": [],
+            "common": [],
             "enhanced_description": "sk_c2048_3u_de",
             "enhancements": [
                 {

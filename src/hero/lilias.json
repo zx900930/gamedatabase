@@ -287,13 +287,10 @@
             "soul_gain": 1,
             "pow": 0.95,
             "att_rate": 0.8,
-            "buffs": [],
-            "debuffs": [],
-            "other": [
-                {
-                    "name": "stic_coop_skeffnm",
-                    "effect": "stic_coop_de"
-                }
+            "buff": [],
+            "debuff": [],
+            "common": [
+                "33"
             ],
             "enhancements": [
                 {
@@ -405,21 +402,13 @@
             "soul_gain": 2,
             "pow": 1,
             "att_rate": 0,
-            "buffs": [
-                {
-                    "icon": "stic_protect",
-                    "name": "stic_protect_skeffnm",
-                    "effect": "stic_protect_de"
-                }
+            "buff": [
+                "5"
             ],
-            "debuffs": [
-                {
-                    "icon": "stic_provoke",
-                    "name": "stic_provoke_skeffnm",
-                    "effect": "stic_provoke_de"
-                }
+            "debuff": [
+                "25"
             ],
-            "other": [],
+            "common": [],
             "soul_description": "sk_c1089_2s_de",
             "soul_requirement": 20,
             "enhancements": [
@@ -487,9 +476,9 @@
             "soul_gain": 3,
             "pow": 1,
             "att_rate": 0,
-            "buffs": [],
-            "debuffs": [],
-            "other": [],
+            "buff": [],
+            "debuff": [],
+            "common": [],
             "enhanced_description": "sk_c1089_3u_de",
             "enhancements": [
                 {

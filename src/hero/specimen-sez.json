@@ -287,15 +287,11 @@
             "soul_gain": 1,
             "pow": 1,
             "att_rate": 1,
-            "buffs": [],
-            "debuffs": [
-                {
-                    "icon": "stic_stun",
-                    "name": "stic_stun_skeffnm",
-                    "effect": "stic_stun_de"
-                }
+            "buff": [],
+            "debuff": [
+                "20"
             ],
-            "other": [],
+            "common": [],
             "enhancements": [
                 {
                     "string": "sklv_de_dmg5",
@@ -387,15 +383,11 @@
             "soul_gain": 2,
             "pow": 1,
             "att_rate": 0.8,
-            "buffs": [],
-            "debuffs": [
-                {
-                    "icon": "stic_stun",
-                    "name": "stic_stun_skeffnm",
-                    "effect": "stic_stun_de"
-                }
+            "buff": [],
+            "debuff": [
+                "20"
             ],
-            "other": [],
+            "common": [],
             "soul_description": "sk_c2038_2s_de",
             "soul_requirement": 10,
             "enhanced_description": "sk_c2038_2u_de",
@@ -490,23 +482,13 @@
             "soul_gain": 3,
             "pow": 1,
             "att_rate": 1.5,
-            "buffs": [],
-            "debuffs": [
-                {
-                    "icon": "stic_stun",
-                    "name": "stic_stun_skeffnm",
-                    "effect": "stic_stun_de"
-                }
+            "buff": [],
+            "debuff": [
+                "20"
             ],
-            "other": [
-                {
-                    "name": "stic_reviveblock_skeffnm",
-                    "effect": "stic_reviveblock_de"
-                },
-                {
-                    "name": "stic_piercing_skeffnm",
-                    "effect": "stic_piercing_de"
-                }
+            "common": [
+                "52",
+                "34"
             ],
             "enhancements": [
                 {

@@ -289,15 +289,11 @@
             "soul_gain": 1,
             "pow": 1,
             "att_rate": 0.85,
-            "buffs": [],
-            "debuffs": [
-                {
-                    "icon": "stic_blind",
-                    "name": "stic_blind_skeffnm",
-                    "effect": "stic_blind_de"
-                }
+            "buff": [],
+            "debuff": [
+                "22"
             ],
-            "other": [],
+            "common": [],
             "soul_description": "sk_c1023_1s_de",
             "soul_requirement": 10,
             "enhancements": [
@@ -410,15 +406,11 @@
             "soul_gain": 0,
             "pow": 1,
             "att_rate": 0,
-            "buffs": [
-                {
-                    "icon": "stic_immortality",
-                    "name": "stic_immortality_skeffnm",
-                    "effect": "stic_immortality_de"
-                }
+            "buff": [
+                "14"
             ],
-            "debuffs": [],
-            "other": [],
+            "debuff": [],
+            "common": [],
             "enhancements": [
                 {
                     "string": "pa_c1023_21_de",
@@ -484,9 +476,9 @@
             "soul_gain": 3,
             "pow": 0.9,
             "att_rate": 1.7,
-            "buffs": [],
-            "debuffs": [],
-            "other": [],
+            "buff": [],
+            "debuff": [],
+            "common": [],
             "enhanced_description": "sk_c1023_3u_de",
             "enhancements": [
                 {

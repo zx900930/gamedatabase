@@ -287,9 +287,9 @@
             "soul_gain": 1,
             "pow": 1,
             "att_rate": 1.1,
-            "buffs": [],
-            "debuffs": [],
-            "other": [],
+            "buff": [],
+            "debuff": [],
+            "common": [],
             "soul_description": "sk_c1006_1s_de",
             "soul_requirement": 10,
             "enhancements": [
@@ -383,19 +383,12 @@
             "soul_gain": 2,
             "pow": 1,
             "att_rate": 0.8,
-            "buffs": [
-                {
-                    "icon": "stic_hide",
-                    "name": "stic_hide_skeffnm",
-                    "effect": "stic_hide_de"
-                }
+            "buff": [
+                "15"
             ],
-            "debuffs": [],
-            "other": [
-                {
-                    "name": "stic_piercing_skeffnm",
-                    "effect": "stic_piercing_de"
-                }
+            "debuff": [],
+            "common": [
+                "34"
             ],
             "enhancements": [
                 {
@@ -488,20 +481,12 @@
             "soul_gain": 3,
             "pow": 1,
             "att_rate": 1.6,
-            "buffs": [
-                {
-                    "icon": "stic_hide",
-                    "name": "stic_hide_skeffnm",
-                    "effect": "stic_hide_de"
-                },
-                {
-                    "icon": "stic_protect",
-                    "name": "stic_protect_skeffnm",
-                    "effect": "stic_protect_de"
-                }
+            "buff": [
+                "15",
+                "5"
             ],
-            "debuffs": [],
-            "other": [],
+            "debuff": [],
+            "common": [],
             "enhanced_description": "sk_c1006_3u_de",
             "enhancements": [
                 {

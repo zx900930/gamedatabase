@@ -1,0 +1,7 @@
+{
+    "_id": "28",
+    "id": "28",
+    "type": "debuff",
+    "name": "stic_silence_skeffnm",
+    "effect": "stic_silence_de"
+}

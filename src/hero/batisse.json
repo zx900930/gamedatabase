@@ -283,15 +283,11 @@
             "soul_gain": 1,
             "pow": 0.95,
             "att_rate": 0.8,
-            "buffs": [],
-            "debuffs": [
-                {
-                    "icon": "stic_att_dn",
-                    "name": "stic_att_dn_skeffnm",
-                    "effect": "stic_att_dn_de"
-                }
+            "buff": [],
+            "debuff": [
+                "17"
             ],
-            "other": [],
+            "common": [],
             "soul_description": "sk_c3095_1s_de",
             "soul_requirement": 20,
             "enhancements": [
@@ -387,15 +383,11 @@
             "soul_gain": 0,
             "pow": 1,
             "att_rate": 0,
-            "buffs": [],
-            "debuffs": [
-                {
-                    "icon": "stic_att_dn",
-                    "name": "stic_att_dn_skeffnm",
-                    "effect": "stic_att_dn_de"
-                }
+            "buff": [],
+            "debuff": [
+                "17"
             ],
-            "other": [],
+            "common": [],
             "enhancements": [
                 {
                     "string": "pa_c3095_21",
@@ -487,20 +479,12 @@
             "soul_gain": 2,
             "pow": 1,
             "att_rate": 1.5,
-            "buffs": [],
-            "debuffs": [
-                {
-                    "icon": "stic_att_dn",
-                    "name": "stic_att_dn_skeffnm",
-                    "effect": "stic_att_dn_de"
-                },
-                {
-                    "icon": "stic_def_dn",
-                    "name": "stic_def_dn_skeffnm",
-                    "effect": "stic_def_dn_de"
-                }
+            "buff": [],
+            "debuff": [
+                "17",
+                "18"
             ],
-            "other": [],
+            "common": [],
             "enhanced_description": "sk_c3095_3u_de",
             "enhancements": [
                 {

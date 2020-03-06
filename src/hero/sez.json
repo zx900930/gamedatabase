@@ -289,15 +289,11 @@
             "soul_gain": 1,
             "pow": 0.95,
             "att_rate": 1,
-            "buffs": [],
-            "debuffs": [
-                {
-                    "icon": "stic_heal_impossible",
-                    "name": "stic_heal_impossible_skeffnm",
-                    "effect": "stic_heal_impossible_de"
-                }
+            "buff": [],
+            "debuff": [
+                "27"
             ],
-            "other": [],
+            "common": [],
             "enhanced_description": "sk_c1038_1u_de",
             "enhancements": [
                 {
@@ -390,15 +386,11 @@
             "soul_gain": 0,
             "pow": 1,
             "att_rate": 0,
-            "buffs": [],
-            "debuffs": [
-                {
-                    "icon": "stic_heal_impossible",
-                    "name": "stic_heal_impossible_skeffnm",
-                    "effect": "stic_heal_impossible_de"
-                }
+            "buff": [],
+            "debuff": [
+                "27"
             ],
-            "other": [],
+            "common": [],
             "enhancements": [
                 {
                     "string": "pa_c1038_21_de",
@@ -490,9 +482,9 @@
             "soul_gain": 3,
             "pow": 0.95,
             "att_rate": 1.8,
-            "buffs": [],
-            "debuffs": [],
-            "other": [],
+            "buff": [],
+            "debuff": [],
+            "common": [],
             "soul_description": "sk_c1038_3s_de",
             "soul_requirement": 20,
             "enhancements": [

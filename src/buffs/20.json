@@ -1,0 +1,7 @@
+{
+    "_id": "20",
+    "id": "20",
+    "type": "debuff",
+    "name": "stic_stun_skeffnm",
+    "effect": "stic_stun_de"
+}

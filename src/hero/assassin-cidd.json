@@ -291,15 +291,11 @@
             "soul_gain": 1,
             "pow": 1,
             "att_rate": 0.9,
-            "buffs": [],
-            "debuffs": [
-                {
-                    "icon": "stic_def_dn",
-                    "name": "stic_def_dn_skeffnm",
-                    "effect": "stic_def_dn_de"
-                }
+            "buff": [],
+            "debuff": [
+                "18"
             ],
-            "other": [],
+            "common": [],
             "enhancements": [
                 {
                     "string": "sklv_de_dmg5",
@@ -410,15 +406,11 @@
             "soul_gain": 0,
             "pow": 1,
             "att_rate": 0,
-            "buffs": [
-                {
-                    "icon": "stic_att_up",
-                    "name": "stic_att_up_skeffnm",
-                    "effect": "stic_att_up_de"
-                }
+            "buff": [
+                "1"
             ],
-            "debuffs": [],
-            "other": [],
+            "debuff": [],
+            "common": [],
             "enhancements": [
                 {
                     "string": "pa_c2014_21_de",
@@ -484,25 +476,14 @@
             "soul_gain": 2,
             "pow": 0.95,
             "att_rate": 1.5,
-            "buffs": [
-                {
-                    "icon": "stic_dodge_up",
-                    "name": "stic_dodge_up_skeffnm",
-                    "effect": "stic_dodge_up_de"
-                }
+            "buff": [
+                "10"
             ],
-            "debuffs": [
-                {
-                    "icon": "stic_silence",
-                    "name": "stic_silence_skeffnm",
-                    "effect": "stic_silence_de"
-                }
+            "debuff": [
+                "28"
             ],
-            "other": [
-                {
-                    "name": "stic_soul_down_skeffnm",
-                    "effect": "stic_soul_down_de"
-                }
+            "common": [
+                "56"
             ],
             "soul_description": "sk_c2014_3s_de",
             "soul_requirement": 10,

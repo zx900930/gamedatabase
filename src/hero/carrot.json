@@ -285,24 +285,13 @@
             "soul_gain": 1,
             "pow": 0.95,
             "att_rate": 1,
-            "buffs": [],
-            "debuffs": [
-                {
-                    "icon": "stic_speed_dn",
-                    "name": "stic_speed_dn_skeffnm",
-                    "effect": "stic_speed_dn_de"
-                },
-                {
-                    "icon": "stic_blaze",
-                    "name": "stic_blaze_skeffnm",
-                    "effect": "stic_blaze_de"
-                }
+            "buff": [],
+            "debuff": [
+                "19",
+                "31"
             ],
-            "other": [
-                {
-                    "name": "stic_explosion_skeffnm",
-                    "effect": "stic_explosion_de"
-                }
+            "common": [
+                "51"
             ],
             "soul_description": "sk_c3051_1s_de",
             "soul_requirement": 10,
@@ -416,21 +405,13 @@
             "soul_gain": 0,
             "pow": 1,
             "att_rate": 0,
-            "buffs": [
-                {
-                    "icon": "stic_protect",
-                    "name": "stic_protect_skeffnm",
-                    "effect": "stic_protect_de"
-                }
+            "buff": [
+                "5"
             ],
-            "debuffs": [
-                {
-                    "icon": "stic_blaze",
-                    "name": "stic_blaze_skeffnm",
-                    "effect": "stic_blaze_de"
-                }
+            "debuff": [
+                "31"
             ],
-            "other": [],
+            "common": [],
             "enhancements": [
                 {
                     "string": "pa_c3051_21_de",
@@ -481,15 +462,11 @@
             "soul_gain": 3,
             "pow": 1,
             "att_rate": 1,
-            "buffs": [],
-            "debuffs": [
-                {
-                    "icon": "stic_blaze",
-                    "name": "stic_blaze_skeffnm",
-                    "effect": "stic_blaze_de"
-                }
+            "buff": [],
+            "debuff": [
+                "31"
             ],
-            "other": [],
+            "common": [],
             "enhanced_description": "sk_c3051_3u_de",
             "enhancements": [
                 {

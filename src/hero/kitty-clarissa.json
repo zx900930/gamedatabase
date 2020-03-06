@@ -289,15 +289,11 @@
             "soul_gain": 1,
             "pow": 0.8,
             "att_rate": 0.9,
-            "buffs": [
-                {
-                    "icon": "stic_lovely",
-                    "name": "stic_lovely_skeffnm",
-                    "effect": "stic_lovely_de"
-                }
+            "buff": [
+                "42"
             ],
-            "debuffs": [],
-            "other": [],
+            "debuff": [],
+            "common": [],
             "enhancements": [
                 {
                     "string": "sklv_de_dmg5",
@@ -421,21 +417,13 @@
             "soul_gain": 1,
             "pow": 0.95,
             "att_rate": 0.8,
-            "buffs": [
-                {
-                    "icon": "stic_lovely",
-                    "name": "stic_lovely_skeffnm",
-                    "effect": "stic_lovely_de"
-                }
+            "buff": [
+                "42"
             ],
-            "debuffs": [
-                {
-                    "icon": "stic_heal_impossible",
-                    "name": "stic_heal_impossible_skeffnm",
-                    "effect": "stic_heal_impossible_de"
-                }
+            "debuff": [
+                "27"
             ],
-            "other": [],
+            "common": [],
             "soul_description": "sk_c2028_2s_de",
             "soul_requirement": 10,
             "enhanced_description": "sk_c2028_2u_de",
@@ -560,24 +548,13 @@
             "soul_gain": 2,
             "pow": 1,
             "att_rate": 0,
-            "buffs": [
-                {
-                    "icon": "stic_lovely",
-                    "name": "stic_lovely_skeffnm",
-                    "effect": "stic_lovely_de"
-                },
-                {
-                    "icon": "stic_debuf_impossible",
-                    "name": "stic_res_up_skeffnm",
-                    "effect": "stic_res_up_de"
-                }
+            "buff": [
+                "42",
+                "12"
             ],
-            "debuffs": [],
-            "other": [
-                {
-                    "name": "stic_addturn_skeffnm",
-                    "effect": "stic_addturn_de"
-                }
+            "debuff": [],
+            "common": [
+                "35"
             ],
             "enhancements": [
                 {

@@ -287,15 +287,11 @@
             "soul_gain": 1,
             "pow": 0.9,
             "att_rate": 1,
-            "buffs": [],
-            "debuffs": [
-                {
-                    "icon": "stic_nail",
-                    "name": "stic_nail_skeffnm",
-                    "effect": "stic_nail_de"
-                }
+            "buff": [],
+            "debuff": [
+                "30"
             ],
-            "other": [],
+            "common": [],
             "enhancements": [
                 {
                     "string": "sklv_de_dmg5",
@@ -387,15 +383,11 @@
             "soul_gain": 1,
             "pow": 0.9,
             "att_rate": 0.9,
-            "buffs": [],
-            "debuffs": [
-                {
-                    "icon": "stic_nail",
-                    "name": "stic_nail_skeffnm",
-                    "effect": "stic_nail_de"
-                }
+            "buff": [],
+            "debuff": [
+                "30"
             ],
-            "other": [],
+            "common": [],
             "enhanced_description": "sk_c1049_2u_de",
             "enhancements": [
                 {
@@ -488,20 +480,12 @@
             "soul_gain": 2,
             "pow": 0.8,
             "att_rate": 2,
-            "buffs": [],
-            "debuffs": [
-                {
-                    "icon": "stic_stun",
-                    "name": "stic_stun_skeffnm",
-                    "effect": "stic_stun_de"
-                },
-                {
-                    "icon": "stic_nail",
-                    "name": "stic_nail_skeffnm",
-                    "effect": "stic_nail_de"
-                }
+            "buff": [],
+            "debuff": [
+                "20",
+                "30"
             ],
-            "other": [],
+            "common": [],
             "soul_description": "sk_c1049_3s_de",
             "soul_requirement": 20,
             "enhancements": [

@@ -291,19 +291,12 @@
             "soul_gain": 1,
             "pow": 1,
             "att_rate": 0.7,
-            "buffs": [],
-            "debuffs": [
-                {
-                    "icon": "stic_stun",
-                    "name": "stic_stun_skeffnm",
-                    "effect": "stic_stun_de"
-                }
+            "buff": [],
+            "debuff": [
+                "20"
             ],
-            "other": [
-                {
-                    "name": "stic_transfer_skeffnm",
-                    "effect": "stic_transtransfer_de"
-                }
+            "common": [
+                "36"
             ],
             "enhancements": [
                 {
@@ -415,15 +408,11 @@
             "soul_gain": 2,
             "pow": 0.9,
             "att_rate": 0.3,
-            "buffs": [],
-            "debuffs": [
-                {
-                    "icon": "stic_stun",
-                    "name": "stic_stun_skeffnm",
-                    "effect": "stic_stun_de"
-                }
+            "buff": [],
+            "debuff": [
+                "20"
             ],
-            "other": [],
+            "common": [],
             "enhancements": [
                 {
                     "string": "sklv_de_dmg5",
@@ -545,19 +534,12 @@
             "soul_gain": 2,
             "pow": 1,
             "att_rate": 0,
-            "buffs": [
-                {
-                    "icon": "stic_madness",
-                    "name": "stic_fury_skeffnm",
-                    "effect": "stic_fury_de"
-                }
+            "buff": [
+                "55"
             ],
-            "debuffs": [],
-            "other": [
-                {
-                    "name": "stic_addturn_skeffnm",
-                    "effect": "stic_addturn_de"
-                }
+            "debuff": [],
+            "common": [
+                "35"
             ],
             "soul_description": "sk_c1012_3s_de",
             "soul_requirement": 20,

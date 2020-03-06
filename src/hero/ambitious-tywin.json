@@ -289,19 +289,12 @@
             "soul_gain": 1,
             "pow": 1,
             "att_rate": 0.6,
-            "buffs": [],
-            "debuffs": [
-                {
-                    "icon": "stic_provoke",
-                    "name": "stic_provoke_skeffnm",
-                    "effect": "stic_provoke_de"
-                }
+            "buff": [],
+            "debuff": [
+                "25"
             ],
-            "other": [
-                {
-                    "name": "stic_soul_down_skeffnm",
-                    "effect": "stic_soul_down_de"
-                }
+            "common": [
+                "56"
             ],
             "enhancements": [
                 {
@@ -383,9 +376,9 @@
             "soul_gain": 0,
             "pow": 1,
             "att_rate": 0,
-            "buffs": [],
-            "debuffs": [],
-            "other": [],
+            "buff": [],
+            "debuff": [],
+            "common": [],
             "enhancements": [
                 {
                     "string": "pa_c2042_21_de",
@@ -466,15 +459,11 @@
             "soul_gain": 3,
             "pow": 1,
             "att_rate": 0.5,
-            "buffs": [],
-            "debuffs": [
-                {
-                    "icon": "stic_speed_dn",
-                    "name": "stic_speed_dn_skeffnm",
-                    "effect": "stic_speed_dn_de"
-                }
+            "buff": [],
+            "debuff": [
+                "19"
             ],
-            "other": [],
+            "common": [],
             "soul_description": "sk_c2042_3s_de",
             "soul_requirement": 10,
             "enhanced_description": "sk_c2042_3u_de",

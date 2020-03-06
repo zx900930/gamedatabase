@@ -287,9 +287,9 @@
             "soul_gain": 1,
             "pow": 0.95,
             "att_rate": 0.81,
-            "buffs": [],
-            "debuffs": [],
-            "other": [],
+            "buff": [],
+            "debuff": [],
+            "common": [],
             "soul_description": "sk_c1022_1s_de",
             "soul_requirement": 20,
             "enhancements": [
@@ -400,15 +400,11 @@
             "soul_gain": 2,
             "pow": 1,
             "att_rate": 0,
-            "buffs": [
-                {
-                    "icon": "stic_protect",
-                    "name": "stic_protect_skeffnm",
-                    "effect": "stic_protect_de"
-                }
+            "buff": [
+                "5"
             ],
-            "debuffs": [],
-            "other": [],
+            "debuff": [],
+            "common": [],
             "enhancements": [
                 {
                     "string": "sklv_de_heal5",
@@ -530,15 +526,11 @@
             "soul_gain": 2,
             "pow": 1,
             "att_rate": 0,
-            "buffs": [
-                {
-                    "icon": "stic_invincible",
-                    "name": "stic_invincible_skeffnm",
-                    "effect": "stic_invincible_de"
-                }
+            "buff": [
+                "6"
             ],
-            "debuffs": [],
-            "other": [],
+            "debuff": [],
+            "common": [],
             "enhanced_description": "sk_c1022_3u_de",
             "enhancements": [
                 {

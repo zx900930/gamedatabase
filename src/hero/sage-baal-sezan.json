@@ -289,15 +289,11 @@
             "soul_gain": 1,
             "pow": 1.1,
             "att_rate": 1,
-            "buffs": [],
-            "debuffs": [
-                {
-                    "icon": "stic_sleep",
-                    "name": "stic_sleep_skeffnm",
-                    "effect": "stic_sleep_de"
-                }
+            "buff": [],
+            "debuff": [
+                "21"
             ],
-            "other": [],
+            "common": [],
             "enhancements": [
                 {
                     "string": "sklv_de_dmg5",
@@ -393,15 +389,11 @@
             "soul_gain": 2,
             "pow": 1.3,
             "att_rate": 0.85,
-            "buffs": [],
-            "debuffs": [
-                {
-                    "icon": "stic_sleep",
-                    "name": "stic_sleep_skeffnm",
-                    "effect": "stic_sleep_de"
-                }
+            "buff": [],
+            "debuff": [
+                "21"
             ],
-            "other": [],
+            "common": [],
             "enhancements": [
                 {
                     "string": "sklv_de_eff1_cs_3_c2015",
@@ -493,9 +485,9 @@
             "soul_gain": 2,
             "pow": 1,
             "att_rate": 1.2,
-            "buffs": [],
-            "debuffs": [],
-            "other": [],
+            "buff": [],
+            "debuff": [],
+            "common": [],
             "soul_description": "sk_c2015_3us_de",
             "soul_requirement": 20,
             "enhanced_description": "sk_c2015_3u_de",

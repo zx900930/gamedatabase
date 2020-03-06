@@ -1,0 +1,7 @@
+{
+    "_id": "22",
+    "id": "22",
+    "type": "debuff",
+    "name": "stic_blind_skeffnm",
+    "effect": "stic_blind_de"
+}
