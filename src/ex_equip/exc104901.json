@@ -1,0 +1,14 @@
+{
+    "_id": "exc104901",
+    "id": "exc104901",
+    "name": "exc104901_name",
+    "description": "exc104901_desc",
+    "unit": "c1049",
+    "role": "warrior",
+    "rarity": "5",
+    "icon": "icon_eq_exclusive_c1049",
+    "stat": {
+        "type": "att_rate",
+        "value": "0.07"
+    }
+}

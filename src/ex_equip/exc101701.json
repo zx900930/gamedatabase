@@ -1,0 +1,14 @@
+{
+    "_id": "exc101701",
+    "id": "exc101701",
+    "name": "exc101701_name",
+    "description": "exc101701_desc",
+    "unit": "c1017",
+    "role": "manauser",
+    "rarity": "5",
+    "icon": "icon_eq_exclusive_c1017",
+    "stat": {
+        "type": "max_hp_rate",
+        "value": "0.07"
+    }
+}

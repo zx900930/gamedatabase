@@ -1,0 +1,14 @@
+{
+    "_id": "exc203601",
+    "id": "exc203601",
+    "name": "exc203601_name",
+    "description": "exc203601_desc",
+    "unit": "c2036",
+    "role": "knight",
+    "rarity": "5",
+    "icon": "icon_eq_exclusive_c2036",
+    "stat": {
+        "type": "max_hp_rate",
+        "value": "0.07"
+    }
+}

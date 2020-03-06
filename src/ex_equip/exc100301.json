@@ -1,0 +1,14 @@
+{
+    "_id": "exc100301",
+    "id": "exc100301",
+    "name": "exc100301_name",
+    "description": "exc100301_desc",
+    "unit": "c1003",
+    "role": "knight",
+    "rarity": "5",
+    "icon": "icon_eq_exclusive_c1003",
+    "stat": {
+        "type": "speed",
+        "value": "5"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "_id": "exc201801",
+    "id": "exc201801",
+    "name": "exc201801_name",
+    "description": "exc201801_desc",
+    "unit": "c2018",
+    "role": "mage",
+    "rarity": "5",
+    "icon": "icon_eq_exclusive_c2018",
+    "stat": {
+        "type": "att_rate",
+        "value": "0.07"
+    }
+}

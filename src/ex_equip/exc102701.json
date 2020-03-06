@@ -1,0 +1,14 @@
+{
+    "_id": "exc102701",
+    "id": "exc102701",
+    "name": "exc102701_name",
+    "description": "exc102701_desc",
+    "unit": "c1027",
+    "role": "knight",
+    "rarity": "5",
+    "icon": "icon_eq_exclusive_c1027",
+    "stat": {
+        "type": "att_rate",
+        "value": "0.07"
+    }
+}

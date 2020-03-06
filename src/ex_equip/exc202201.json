@@ -1,0 +1,14 @@
+{
+    "_id": "exc202201",
+    "id": "exc202201",
+    "name": "exc202201_name",
+    "description": "exc202201_desc",
+    "unit": "c2022",
+    "role": "manauser",
+    "rarity": "5",
+    "icon": "icon_eq_exclusive_c2022",
+    "stat": {
+        "type": "res",
+        "value": "0.08"
+    }
+}

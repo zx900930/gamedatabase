@@ -1,0 +1,14 @@
+{
+    "_id": "exc103001",
+    "id": "exc103001",
+    "name": "exc103001_name",
+    "description": "exc103001_desc",
+    "unit": "c1030",
+    "role": "ranger",
+    "rarity": "5",
+    "icon": "icon_eq_exclusive_c1030",
+    "stat": {
+        "type": "speed",
+        "value": "10"
+    }
+}

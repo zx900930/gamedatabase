@@ -1,0 +1,14 @@
+{
+    "_id": "exc200301",
+    "id": "exc200301",
+    "name": "exc200301_name",
+    "description": "exc200301_desc",
+    "unit": "c2003",
+    "role": "knight",
+    "rarity": "5",
+    "icon": "icon_eq_exclusive_c2003",
+    "stat": {
+        "type": "acc",
+        "value": "0.08"
+    }
+}

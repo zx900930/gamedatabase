@@ -1,0 +1,14 @@
+{
+    "_id": "exc107101",
+    "id": "exc107101",
+    "name": "exc107101_name",
+    "description": "exc107101_desc",
+    "unit": "c1071",
+    "role": "ranger",
+    "rarity": "5",
+    "icon": "icon_eq_exclusive_c1071",
+    "stat": {
+        "type": "acc",
+        "value": "0.08"
+    }
+}

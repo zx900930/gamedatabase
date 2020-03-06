@@ -1,0 +1,14 @@
+{
+    "_id": "exc200401",
+    "id": "exc200401",
+    "name": "exc200401_name",
+    "description": "exc200401_desc",
+    "unit": "c2004",
+    "role": "ranger",
+    "rarity": "5",
+    "icon": "icon_eq_exclusive_c2004",
+    "stat": {
+        "type": "speed",
+        "value": "5"
+    }
+}

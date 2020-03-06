@@ -1,0 +1,14 @@
+{
+    "_id": "exc203501",
+    "id": "exc203501",
+    "name": "exc203501_name",
+    "description": "exc203501_desc",
+    "unit": "c2035",
+    "role": "warrior",
+    "rarity": "5",
+    "icon": "icon_eq_exclusive_c2035",
+    "stat": {
+        "type": "max_hp_rate",
+        "value": "0.07"
+    }
+}

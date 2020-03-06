@@ -1,0 +1,14 @@
+{
+    "_id": "exc102301",
+    "id": "exc102301",
+    "name": "exc102301_name",
+    "description": "exc102301_desc",
+    "unit": "c1023",
+    "role": "assassin",
+    "rarity": "5",
+    "icon": "icon_eq_exclusive_c1023",
+    "stat": {
+        "type": "cri",
+        "value": "0.06"
+    }
+}

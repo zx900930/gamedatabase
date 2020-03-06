@@ -1,0 +1,14 @@
+{
+    "_id": "exc202101",
+    "id": "exc202101",
+    "name": "exc202101_name",
+    "description": "exc202101_desc",
+    "unit": "c2021",
+    "role": "manauser",
+    "rarity": "5",
+    "icon": "icon_eq_exclusive_c2021",
+    "stat": {
+        "type": "def_rate",
+        "value": "0.07"
+    }
+}
