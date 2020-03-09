@@ -181,13 +181,25 @@ def hero_parser(filename,data,get_translation_specific):
 
     return data
 
+
+def buffs_parser(filename,data,get_translation_specific):
+    data["name"] = get_translation_specific(data["name"])
+    data["effect"] = get_translation_specific(data["effect"])
+    return data
+
+
+def ex_equip_parser(filename,data,get_translation_specific):
+    data["name"] = get_translation_specific(data["name"])
+    data["description"] = get_translation_specific(data["description"])
+    return data
+
 # =================================
 # STEP 1 -> translation
 
 BASE_PATH = os.getcwd()
 BUILD_FOLDER=BASE_PATH+"/dist_py"
 COLLECTIONS_FOLDER_NAME = '_collections'
-TRANSLATION_FOLDERS = [ 'hero', 'artifact', 'materials' ]
+TRANSLATION_FOLDERS = [ 'hero', 'artifact', 'materials', 'buffs', 'ex_equip' ]
 
 text_en = json.load(open(BASE_PATH+'/src/text/text_en.json'))
 lang_files = sorted(glob.glob(BASE_PATH+ "/src/text/*.json"))
@@ -246,6 +258,6 @@ def do_import():
 
 do_translate()
 do_build()
-do_import()
+# do_import()
 
 exit(0)
