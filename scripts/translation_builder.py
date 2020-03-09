@@ -258,6 +258,6 @@ def do_import():
 
 do_translate()
 do_build()
-# do_import()
+do_import()
 
 exit(0)
