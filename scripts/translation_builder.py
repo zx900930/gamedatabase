@@ -5,7 +5,17 @@ import os
 import subprocess
 import shutil
 import copy
-from benedict import benedict
+import subprocess
+import sys
+
+# =================================
+
+try:
+    from benedict import benedict
+except ImportError:
+    subprocess.call([sys.executable, "-m", "pip", "install", 'python-benedict'])
+finally:
+    from benedict import benedict
 
 # =================================
 
@@ -251,7 +261,7 @@ def do_import():
         update_mongo(collection_filename, collection_file)
 
     printline()
-    print('Done creating collections for mongo, calling mongoimport')
+    print('Done importing into mongodb')
     printline()
 
 # =================================
