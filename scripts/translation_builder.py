@@ -169,7 +169,31 @@ def hero_parser(filename,data,get_translation_specific):
         for zodiac_cost_in in range(len(data["zodiac_tree"][zodiac_in]["costs"])):
             data["zodiac_tree"][zodiac_in]["costs"][zodiac_cost_in]["name"] = get_translation_specific(data["zodiac_tree"][zodiac_in]["costs"][zodiac_cost_in]["item"])
 
+    # skills
+    data["buffs"] = []
+    data["debuffs"] = []
+    data["common"] = []
+
     for sk_in in range(len(data["skills"])):
+
+        try:
+            for sk_bf_in in range(len(data["skills"][sk_in]["buff"])):
+                data["buffs"].append(data["skills"][sk_in]["buff"][sk_bf_in])
+        except:
+            pass
+
+        try:
+            for sk_dbf_in in range(len(data["skills"][sk_in]["debuff"])):
+                data["debuffs"].append(data["skills"][sk_in]["debuff"][sk_dbf_in])
+        except:
+            pass
+
+        try:
+            for sk_cm_in in range(len(data["skills"][sk_in]["common"])):
+                data["common"].append(data["skills"][sk_in]["common"][sk_cm_in])
+        except:
+            pass
+
         data["skills"][sk_in]["name"] = get_translation_specific(data["skills"][sk_in]["name"])
         data["skills"][sk_in]["description"] = get_translation_specific(data["skills"][sk_in]["description"])
 
