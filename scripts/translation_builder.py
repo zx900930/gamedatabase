@@ -166,8 +166,8 @@ def hero_parser(filename,data,get_translation_specific):
         data["zodiac_tree"][zodiac_in]["name"] = get_translation_specific(data["zodiac_tree"][zodiac_in]["name"])
         data["zodiac_tree"][zodiac_in]["description"] = get_translation_specific(data["zodiac_tree"][zodiac_in]["description"])
 
-        for zodiac_cost_in in range(len(data["zodiac_tree"][zodiac_in]["costs"])):
-            data["zodiac_tree"][zodiac_in]["costs"][zodiac_cost_in]["name"] = get_translation_specific(data["zodiac_tree"][zodiac_in]["costs"][zodiac_cost_in]["item"])
+        # for zodiac_cost_in in range(len(data["zodiac_tree"][zodiac_in]["costs"])):
+        #     data["zodiac_tree"][zodiac_in]["costs"][zodiac_cost_in]["name"] = get_translation_specific(data["zodiac_tree"][zodiac_in]["costs"][zodiac_cost_in]["item"])
 
     # skills
     data["buffs"] = []
@@ -210,8 +210,8 @@ def hero_parser(filename,data,get_translation_specific):
         for sk_enh_index in range(len(data["skills"][sk_in]["enhancements"])):
             data["skills"][sk_in]["enhancements"][sk_enh_index]["string"] = get_translation_specific(data["skills"][sk_in]["enhancements"][sk_enh_index]["string"])
 
-            for sk_enh_cost_index in range(len(data["skills"][sk_in]["enhancements"][sk_enh_index]["costs"])):
-                data["skills"][sk_in]["enhancements"][sk_enh_index]["costs"][sk_enh_cost_index]["name"] = get_translation_specific(data["skills"][sk_in]["enhancements"][sk_enh_index]["costs"][sk_enh_cost_index]["item"])
+            # for sk_enh_cost_index in range(len(data["skills"][sk_in]["enhancements"][sk_enh_index]["costs"])):
+            #     data["skills"][sk_in]["enhancements"][sk_enh_index]["costs"][sk_enh_cost_index]["name"] = get_translation_specific(data["skills"][sk_in]["enhancements"][sk_enh_index]["costs"][sk_enh_cost_index]["item"])
 
     return data
 
