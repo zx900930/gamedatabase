@@ -1,6 +1,7 @@
 {
     "_id": "29",
     "id": "29",
+    "icon": "stic_buf_impossible",
     "type": "debuff",
     "name": "stic_buf_impossible_skeffnm",
     "effect": "stic_buf_impossible_de"

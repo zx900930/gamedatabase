@@ -1,6 +1,7 @@
 {
     "_id": "25k",
     "id": "25k",
+    "icon": "stic_provoke_keep",
     "type": "debuff",
     "name": "stic_provoke_skeffnm",
     "effect": "stic_provoke_keep_de"

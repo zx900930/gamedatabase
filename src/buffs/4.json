@@ -1,6 +1,7 @@
 {
     "_id": "4",
     "id": "4",
+    "icon": "stic_cri_up",
     "type": "buff",
     "name": "stic_cri_up_skeffnm",
     "effect": "stic_cri_up_de"

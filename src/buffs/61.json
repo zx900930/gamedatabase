@@ -1,6 +1,7 @@
 {
     "_id": "61",
     "id": "61",
+    "icon": "stic_ab_up_block",
     "type": "debuff",
     "name": "stic_ab_up_block_skeffnm",
     "effect": "stic_ab_up_block_de"

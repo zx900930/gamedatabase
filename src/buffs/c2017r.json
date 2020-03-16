@@ -1,6 +1,7 @@
 {
     "_id": "c2017r",
     "id": "c2017_r",
+    "icon": null,
     "type": "buff",
     "name": "c2017_r_skeffnm",
     "effect": "c2017_r_de"

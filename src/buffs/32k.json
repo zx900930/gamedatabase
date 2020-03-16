@@ -1,6 +1,7 @@
 {
     "_id": "32k",
     "id": "32k",
+    "icon": "stic_blood_keep",
     "type": "debuff",
     "name": "stic_blood_skeffnm",
     "effect": "stic_blood_keep_de"

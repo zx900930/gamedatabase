@@ -1,6 +1,7 @@
 {
     "_id": "4k",
     "id": "4k",
+    "icon": "stic_cri_up_keep",
     "type": "buff",
     "name": "stic_cri_up_skeffnm",
     "effect": "stic_cri_up_keep_de"

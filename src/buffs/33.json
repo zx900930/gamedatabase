@@ -1,6 +1,7 @@
 {
     "_id": "33",
     "id": "33",
+    "icon": null,
     "type": "common",
     "name": "stic_coop_skeffnm",
     "effect": "stic_coop_de"

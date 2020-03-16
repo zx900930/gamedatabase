@@ -1,6 +1,7 @@
 {
     "_id": "15",
     "id": "15",
+    "icon": "stic_hide",
     "type": "buff",
     "name": "stic_hide_skeffnm",
     "effect": "stic_hide_de"

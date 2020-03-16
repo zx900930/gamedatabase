@@ -1,6 +1,7 @@
 {
     "_id": "41",
     "id": "41",
+    "icon": "stic_haki",
     "type": "buff",
     "name": "stic_haki_skeffnm",
     "effect": "stic_haki_de"

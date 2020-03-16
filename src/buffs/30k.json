@@ -1,6 +1,7 @@
 {
     "_id": "30k",
     "id": "30k",
+    "icon": "stic_nail_keep",
     "type": "debuff",
     "name": "stic_nail_skeffnm",
     "effect": "stic_nail_keep_de"

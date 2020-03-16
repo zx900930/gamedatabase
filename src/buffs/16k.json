@@ -1,6 +1,7 @@
 {
     "_id": "16k",
     "id": "16k",
+    "icon": "stic_bless_keep",
     "type": "buff",
     "name": "stic_revival_skeffnm",
     "effect": "stic_revival_keep_de"

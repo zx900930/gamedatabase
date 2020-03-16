@@ -1,6 +1,7 @@
 {
     "_id": "17",
     "id": "17",
+    "icon": "stic_att_dn",
     "type": "debuff",
     "name": "stic_att_dn_skeffnm",
     "effect": "stic_att_dn_de"

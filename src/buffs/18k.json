@@ -1,6 +1,7 @@
 {
     "_id": "18k",
     "id": "18k",
+    "icon": "stic_def_dn_keep",
     "type": "debuff",
     "name": "stic_def_dn_skeffnm",
     "effect": "stic_keep_def_dn_keep_de"

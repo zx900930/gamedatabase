@@ -1,6 +1,7 @@
 {
     "_id": "24k",
     "id": "24k",
+    "icon": "stic_dot_keep",
     "type": "debuff",
     "name": "stic_dot_skeffnm",
     "effect": "stic_dot_keep_de"

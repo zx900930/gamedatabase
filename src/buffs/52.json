@@ -1,6 +1,7 @@
 {
     "_id": "52",
     "id": "52",
+    "icon": null,
     "type": "common",
     "name": "stic_reviveblock_skeffnm",
     "effect": "stic_reviveblock_de"

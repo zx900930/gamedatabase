@@ -1,6 +1,7 @@
 {
     "_id": "40k",
     "id": "40k",
+    "icon": "stic_crires_up_keep",
     "type": "buff",
     "name": "stic_crires_up_skeffnm",
     "effect": "stic_crires_up_keep_de"

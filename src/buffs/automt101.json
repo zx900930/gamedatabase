@@ -1,6 +1,7 @@
 {
     "_id": "automt101",
     "id": "automt101",
+    "icon": null,
     "type": "debuff",
     "name": "automt101_skeffnm",
     "effect": "automt101_de"

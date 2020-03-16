@@ -1,6 +1,7 @@
 {
     "_id": "54",
     "id": "54",
+    "icon": "stic_curse2",
     "type": "debuff",
     "name": "stic_curse2_skeffnm",
     "effect": "stic_curse2_de"

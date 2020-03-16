@@ -1,6 +1,7 @@
 {
     "_id": "notdeadstun",
     "id": "notdead_stun",
+    "icon": "stic_debuff_one",
     "type": "debuff",
     "name": "notdead_stun_skeffnm",
     "effect": "notdead_stun_de"

@@ -1,6 +1,7 @@
 {
     "_id": "21",
     "id": "21",
+    "icon": "stic_sleep",
     "type": "debuff",
     "name": "stic_sleep_skeffnm",
     "effect": "stic_sleep_de"

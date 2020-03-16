@@ -1,6 +1,7 @@
 {
     "_id": "con016rage",
     "id": "con016_rage",
+    "icon": "stic_rage_3",
     "type": "buff",
     "name": "con016_rage_skeffnm",
     "effect": "con016_rage_de"

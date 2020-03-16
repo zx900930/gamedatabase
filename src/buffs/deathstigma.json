@@ -1,6 +1,7 @@
 {
     "_id": "deathstigma",
     "id": "death_stigma",
+    "icon": null,
     "type": "debuff",
     "name": "death_stigma_skeffnm",
     "effect": "death_stigma_de"

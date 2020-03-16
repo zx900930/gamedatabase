@@ -1,6 +1,7 @@
 {
     "_id": "62k",
     "id": "62k",
+    "icon": "stic_def_up2_keep",
     "type": "buff",
     "name": "stic_def_up2_skeffnm",
     "effect": "stic_def_up2_keep_de"
