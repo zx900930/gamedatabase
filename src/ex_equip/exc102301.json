@@ -14,17 +14,17 @@
     "skills": [
         {
             "description": "ek_c102301_01_de",
-            "changed_description": null,
+            "skill_description": null,
             "values": []
         },
         {
             "description": "ek_c102301_02_de",
-            "changed_description": null,
+            "skill_description": null,
             "values": []
         },
         {
             "description": "ek_c102301_03_de",
-            "changed_description": "ek_c102301_03sk_de",
+            "skill_description": "ek_c102301_03sk_de",
             "values": [
                 28,
                 1

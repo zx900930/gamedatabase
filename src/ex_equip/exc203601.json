@@ -14,12 +14,12 @@
     "skills": [
         {
             "description": "ek_c203601_01_de",
-            "changed_description": "ek_c203601_01sk_de",
+            "skill_description": "ek_c203601_01sk_de",
             "values": []
         },
         {
             "description": "ek_c203601_02_de",
-            "changed_description": "ek_c203601_02sk_de",
+            "skill_description": "ek_c203601_02sk_de",
             "values": [
                 "c2036_r",
                 2
@@ -27,7 +27,7 @@
         },
         {
             "description": "ek_c203601_03_de",
-            "changed_description": "ek_c203601_03sk_de",
+            "skill_description": "ek_c203601_03sk_de",
             "values": [
                 "c2036_r",
                 2

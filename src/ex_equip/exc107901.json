@@ -14,14 +14,14 @@
     "skills": [
         {
             "description": "ek_c107901_01_de",
-            "changed_description": "ek_c107901_01sk_de",
+            "skill_description": "ek_c107901_01sk_de",
             "values": [
                 27
             ]
         },
         {
             "description": "ek_c107901_02_de",
-            "changed_description": "ek_c107901_02sk_de",
+            "skill_description": "ek_c107901_02sk_de",
             "values": [
                 44,
                 5,
@@ -30,7 +30,7 @@
         },
         {
             "description": "ek_c107901_03_de",
-            "changed_description": "ek_c107901_03sk_de",
+            "skill_description": "ek_c107901_03sk_de",
             "values": [
                 34
             ]
