@@ -163,6 +163,7 @@ def hero_parser(filename,data,get_translation_specific):
 
     # zodiac_tree
     for zodiac_in in range(len(data["zodiac_tree"])):
+        data["zodiac_tree"][zodiac_in]["_id"] = zodiac_in
         data["zodiac_tree"][zodiac_in]["name"] = get_translation_specific(data["zodiac_tree"][zodiac_in]["name"])
         data["zodiac_tree"][zodiac_in]["description"] = get_translation_specific(data["zodiac_tree"][zodiac_in]["description"])
 
@@ -175,6 +176,9 @@ def hero_parser(filename,data,get_translation_specific):
     data["common"] = []
 
     for sk_in in range(len(data["skills"])):
+        data["skills"][sk_in]["_id"] = sk_in
+        data["skills"][sk_in]["name"] = get_translation_specific(data["skills"][sk_in]["name"])
+        data["skills"][sk_in]["description"] = get_translation_specific(data["skills"][sk_in]["description"])
 
         try:
             for sk_bf_in in range(len(data["skills"][sk_in]["buff"])):
@@ -193,9 +197,6 @@ def hero_parser(filename,data,get_translation_specific):
                 data["common"].append(data["skills"][sk_in]["common"][sk_cm_in])
         except:
             pass
-
-        data["skills"][sk_in]["name"] = get_translation_specific(data["skills"][sk_in]["name"])
-        data["skills"][sk_in]["description"] = get_translation_specific(data["skills"][sk_in]["description"])
 
         try:
             data["skills"][sk_in]["enhanced_description"] = get_translation_specific(data["skills"][sk_in]["enhanced_description"])
