@@ -10,5 +10,25 @@
     "stat": {
         "type": "cri",
         "value": 0.06
-    }
+    },
+    "skills": [
+        {
+            "description": "ek_c109501_01_de",
+            "changed_description": null,
+            "values": []
+        },
+        {
+            "description": "ek_c109501_02_de",
+            "changed_description": null,
+            "values": []
+        },
+        {
+            "description": "ek_c109501_03_de",
+            "changed_description": "ek_c109501_03sk_de",
+            "values": [
+                52,
+                46
+            ]
+        }
+    ]
 }

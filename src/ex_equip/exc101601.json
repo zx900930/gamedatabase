@@ -10,5 +10,24 @@
     "stat": {
         "type": "acc",
         "value": 0.08
-    }
+    },
+    "skills": [
+        {
+            "description": "ek_c101601_01_de",
+            "changed_description": "ek_c101601_01sk_de",
+            "values": [
+                18
+            ]
+        },
+        {
+            "description": "ek_c101601_02_de",
+            "changed_description": null,
+            "values": []
+        },
+        {
+            "description": "ek_c101601_03_de",
+            "changed_description": null,
+            "values": []
+        }
+    ]
 }

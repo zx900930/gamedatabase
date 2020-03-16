@@ -10,5 +10,26 @@
     "stat": {
         "type": "speed",
         "value": 10
-    }
+    },
+    "skills": [
+        {
+            "description": "ek_c103001_01_de",
+            "changed_description": "ek_c103001_01sk_de",
+            "values": []
+        },
+        {
+            "description": "ek_c103001_02_de",
+            "changed_description": "ek_c103001_02sk_de",
+            "values": [
+                1,
+                3,
+                44
+            ]
+        },
+        {
+            "description": "ek_c103001_03_de",
+            "changed_description": null,
+            "values": []
+        }
+    ]
 }

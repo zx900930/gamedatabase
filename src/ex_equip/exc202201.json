@@ -10,5 +10,22 @@
     "stat": {
         "type": "res",
         "value": 0.08
-    }
+    },
+    "skills": [
+        {
+            "description": "ek_c202201_03_de",
+            "changed_description": "ek_c202201_03sk_de",
+            "values": []
+        },
+        {
+            "description": "ek_c202201_02_de",
+            "changed_description": "ek_c202201_02sk_de",
+            "values": []
+        },
+        {
+            "description": "ek_c202201_01_de",
+            "changed_description": null,
+            "values": []
+        }
+    ]
 }

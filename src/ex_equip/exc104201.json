@@ -10,5 +10,25 @@
     "stat": {
         "type": "max_hp_rate",
         "value": 0.07
-    }
+    },
+    "skills": [
+        {
+            "description": "ek_c104201_01_de",
+            "changed_description": "ek_c104201_01sk_de",
+            "values": []
+        },
+        {
+            "description": "ek_c104201_02_de",
+            "changed_description": "ek_c104201_02sk_de",
+            "values": []
+        },
+        {
+            "description": "ek_c104201_03_de",
+            "changed_description": "ek_c104201_03sk_de",
+            "values": [
+                1,
+                4
+            ]
+        }
+    ]
 }

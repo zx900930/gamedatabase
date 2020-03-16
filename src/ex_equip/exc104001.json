@@ -10,5 +10,31 @@
     "stat": {
         "type": "att_rate",
         "value": 0.14
-    }
+    },
+    "skills": [
+        {
+            "description": "ek_c104001_01_de",
+            "changed_description": "ek_c104001_01sk_de",
+            "values": [
+                1,
+                17,
+                35
+            ]
+        },
+        {
+            "description": "ek_c104001_02_de",
+            "changed_description": "ek_c104001_02sk_de",
+            "values": [
+                31,
+                23
+            ]
+        },
+        {
+            "description": "ek_c104001_03_de",
+            "changed_description": "ek_c104001_03sk_de",
+            "values": [
+                31
+            ]
+        }
+    ]
 }
