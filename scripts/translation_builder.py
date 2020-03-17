@@ -231,7 +231,8 @@ def ex_equip_parser(filename,data,get_translation_specific):
             pass
 
         try:
-            data["skills"][sk_exeq_index]["skill_description"] = get_translation_specific(data["skills"][sk_exeq_index]["skill_description"])
+            if data["skills"][sk_exeq_index]["skill_description"]:
+                data["skills"][sk_exeq_index]["skill_description"] = get_translation_specific(data["skills"][sk_exeq_index]["skill_description"])
         except:
             pass
 
