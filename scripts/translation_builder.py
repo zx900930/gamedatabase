@@ -167,9 +167,6 @@ def hero_parser(filename,data,get_translation_specific):
         data["zodiac_tree"][zodiac_in]["name"] = get_translation_specific(data["zodiac_tree"][zodiac_in]["name"])
         data["zodiac_tree"][zodiac_in]["description"] = get_translation_specific(data["zodiac_tree"][zodiac_in]["description"])
 
-        # for zodiac_cost_in in range(len(data["zodiac_tree"][zodiac_in]["costs"])):
-        #     data["zodiac_tree"][zodiac_in]["costs"][zodiac_cost_in]["name"] = get_translation_specific(data["zodiac_tree"][zodiac_in]["costs"][zodiac_cost_in]["item"])
-
     # skills
     data["buffs"] = []
     data["debuffs"] = []
@@ -212,9 +209,6 @@ def hero_parser(filename,data,get_translation_specific):
             data["skills"][sk_in]["enhancements"][sk_enh_index]["_id"] = sk_enh_index
             data["skills"][sk_in]["enhancements"][sk_enh_index]["string"] = get_translation_specific(data["skills"][sk_in]["enhancements"][sk_enh_index]["string"])
 
-            # for sk_enh_cost_index in range(len(data["skills"][sk_in]["enhancements"][sk_enh_index]["costs"])):
-            #     data["skills"][sk_in]["enhancements"][sk_enh_index]["costs"][sk_enh_cost_index]["name"] = get_translation_specific(data["skills"][sk_in]["enhancements"][sk_enh_index]["costs"][sk_enh_cost_index]["item"])
-
     return data
 
 
@@ -227,6 +221,20 @@ def buffs_parser(filename,data,get_translation_specific):
 def ex_equip_parser(filename,data,get_translation_specific):
     data["name"] = get_translation_specific(data["name"])
     data["description"] = get_translation_specific(data["description"])
+
+    for sk_exeq_index in range(len(data["skills"])):
+        data["skills"][sk_exeq_index]["_id"] = sk_exeq_index
+
+        try:
+            data["skills"][sk_exeq_index]["description"] = get_translation_specific(data["skills"][sk_exeq_index]["description"])
+        except:
+            pass
+
+        try:
+            data["skills"][sk_exeq_index]["skill_description"] = get_translation_specific(data["skills"][sk_exeq_index]["skill_description"])
+        except:
+            pass
+
     return data
 
 # =================================
