@@ -209,6 +209,7 @@ def hero_parser(filename,data,get_translation_specific):
             pass
 
         for sk_enh_index in range(len(data["skills"][sk_in]["enhancements"])):
+            data["skills"][sk_in]["enhancements"][sk_enh_index]["_id"] = sk_enh_index
             data["skills"][sk_in]["enhancements"][sk_enh_index]["string"] = get_translation_specific(data["skills"][sk_in]["enhancements"][sk_enh_index]["string"])
 
             # for sk_enh_cost_index in range(len(data["skills"][sk_in]["enhancements"][sk_enh_index]["costs"])):
