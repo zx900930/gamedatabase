@@ -1,3 +1,7 @@
+#!/usr/bin/python3
+
+SCRIPT_VERSION = 1.0
+
 import json
 import glob
 import re
@@ -9,13 +13,28 @@ import subprocess
 import sys
 
 # =================================
-
+# Install benedict if not available
 try:
     from benedict import benedict
 except ImportError:
     subprocess.call([sys.executable, "-m", "pip", "install", 'python-benedict'])
 finally:
     from benedict import benedict
+
+# =================================
+# parse arguments
+import argparse
+
+# initiate the parser
+parser = argparse.ArgumentParser(description = 'Script to parse SRC files into translated collections to be imported to database.')
+parser.add_argument("-V", "--version", help="show script version", action="store_true")
+parser.add_argument("-B", "--buildonly", help="buildonly, without attempting to call mongoimport", action="store_true")
+
+args = parser.parse_args()
+
+if args.version:
+    print("{0} (EpicSevenDB/gamedatabase v2.x)".format(SCRIPT_VERSION))
+    exit(0)
 
 # =================================
 
@@ -284,10 +303,13 @@ def do_build():
     for built_folder in build_folder_folders:
         mount_collection_array(built_folder)
     printline()
-    print('Done creating collections for mongo, calling mongoimport')
+    print('Done creating collections for mongo')
     printline()
 
 def do_import():
+    print('calling mongoimport')
+    printline()
+
     collections = glob.glob(buildCollectionsFolder+'/*.json')
     regex = re.compile(r"(.*\/)(.*)(\.json)", re.IGNORECASE)
 
@@ -303,6 +325,8 @@ def do_import():
 
 do_translate()
 do_build()
-do_import()
+
+if not args.buildonly:
+    do_import()
 
 exit(0)
