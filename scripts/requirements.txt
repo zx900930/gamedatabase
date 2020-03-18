@@ -1,1 +1,1 @@
-python-benedict=0.18.0
+python-benedict==0.18.0
