@@ -17,7 +17,14 @@ import sys
 try:
     from benedict import benedict
 except ImportError:
-    subprocess.call([sys.executable, "-m", "pip", "install", 'python-benedict'])
+    try:
+        subprocess.call([sys.executable, "-m", "pip", "install", 'python-benedict'])
+    except:
+        pass
+    try:
+        subprocess.call([sys.executable, "-m", "pip3", "install", 'python-benedict'])
+    except:
+        pass
 finally:
     from benedict import benedict
 
