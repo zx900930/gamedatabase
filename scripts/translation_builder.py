@@ -189,9 +189,12 @@ def hero_parser(filename,data,get_translation_specific):
 
     # zodiac_tree
     for zodiac_in in range(len(data["zodiac_tree"])):
-        data["zodiac_tree"][zodiac_in]["_id"] = zodiac_in
+        data["zodiac_tree"][zodiac_in]["_id"] = "zodiac_{0}".format(zodiac_in)
         data["zodiac_tree"][zodiac_in]["name"] = get_translation_specific(data["zodiac_tree"][zodiac_in]["name"])
         data["zodiac_tree"][zodiac_in]["description"] = get_translation_specific(data["zodiac_tree"][zodiac_in]["description"])
+
+        for zodiac_cost_index in range(len(data["zodiac_tree"][zodiac_in]["costs"])):
+                data["zodiac_tree"][zodiac_in]["costs"][zodiac_cost_index]["_id"] = "zodiac_{0}_cost_{1}".format(zodiac_in,zodiac_cost_index)
 
     # skills
     data["buffs"] = []
@@ -199,7 +202,7 @@ def hero_parser(filename,data,get_translation_specific):
     data["common"] = []
 
     for sk_in in range(len(data["skills"])):
-        data["skills"][sk_in]["_id"] = sk_in
+        data["skills"][sk_in]["_id"] = "skill_{0}".format(sk_in)
         data["skills"][sk_in]["name"] = get_translation_specific(data["skills"][sk_in]["name"])
         data["skills"][sk_in]["description"] = get_translation_specific(data["skills"][sk_in]["description"])
 
@@ -232,8 +235,11 @@ def hero_parser(filename,data,get_translation_specific):
             pass
 
         for sk_enh_index in range(len(data["skills"][sk_in]["enhancements"])):
-            data["skills"][sk_in]["enhancements"][sk_enh_index]["_id"] = sk_enh_index
+            data["skills"][sk_in]["enhancements"][sk_enh_index]["_id"] = "skill_{0}_enh_{1}".format(sk_in,sk_enh_index)
             data["skills"][sk_in]["enhancements"][sk_enh_index]["string"] = get_translation_specific(data["skills"][sk_in]["enhancements"][sk_enh_index]["string"])
+
+            for sk_enh_cost_index in range(len(data["skills"][sk_in]["enhancements"][sk_enh_index]["costs"])):
+                data["skills"][sk_in]["enhancements"][sk_enh_index]["costs"][sk_enh_cost_index]["_id"] = "skill_{0}_enh_{1}_cost_{2}".format(sk_in,sk_enh_index,sk_enh_cost_index)
 
     return data
 
