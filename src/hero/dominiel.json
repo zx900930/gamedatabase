@@ -405,7 +405,8 @@
             "pow": 1,
             "att_rate": 0,
             "buff": [
-                "5"
+                "5",
+                "13"
             ],
             "debuff": [],
             "common": [],

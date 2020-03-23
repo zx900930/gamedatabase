@@ -489,7 +489,8 @@
             "att_rate": 0.8,
             "buff": [],
             "debuff": [
-                "20"
+                "20",
+                "19"
             ],
             "common": [],
             "enhanced_description": "sk_c1029_3u_de",

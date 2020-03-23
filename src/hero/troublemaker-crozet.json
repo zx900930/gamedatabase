@@ -546,7 +546,8 @@
             "pow": 1,
             "att_rate": 0,
             "buff": [
-                "2"
+                "2",
+                "c2036_r"
             ],
             "debuff": [],
             "common": [],

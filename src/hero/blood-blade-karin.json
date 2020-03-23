@@ -479,7 +479,9 @@
             "att_rate": 1.2,
             "buff": [],
             "debuff": [],
-            "common": [],
+            "common": [
+                "35"
+            ],
             "soul_description": "sk_c2011_3s_de",
             "soul_requirement": 10,
             "enhanced_description": "sk_c2011_3u_de",

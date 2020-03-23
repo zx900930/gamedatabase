@@ -391,7 +391,9 @@
             "debuff": [
                 "32"
             ],
-            "common": [],
+            "common": [
+                "35"
+            ],
             "enhanced_description": "sk_c1093_2u_de",
             "enhancements": [
                 {

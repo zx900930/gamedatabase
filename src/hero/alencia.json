@@ -485,7 +485,9 @@
             "soul_gain": 3,
             "pow": 1,
             "att_rate": 0.5,
-            "buff": [],
+            "buff": [
+                "2"
+            ],
             "debuff": [],
             "common": [],
             "enhanced_description": "sk_c1100_3u_de",

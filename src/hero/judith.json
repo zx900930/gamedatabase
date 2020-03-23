@@ -472,9 +472,13 @@
             "soul_gain": 2,
             "pow": 1,
             "att_rate": 0,
-            "buff": [],
+            "buff": [
+                "15"
+            ],
             "debuff": [],
-            "common": [],
+            "common": [
+                "35"
+            ],
             "soul_description": "sk_c3011_3s_de",
             "soul_requirement": 20,
             "enhanced_description": "sk_c3011_3u_de",

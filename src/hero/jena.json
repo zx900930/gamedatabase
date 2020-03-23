@@ -364,7 +364,8 @@
             "att_rate": 0,
             "buff": [],
             "debuff": [
-                "17"
+                "17",
+                "19"
             ],
             "common": [],
             "enhanced_description": "sk_c3052_2u_de",

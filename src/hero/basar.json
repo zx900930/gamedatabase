@@ -487,7 +487,9 @@
             "pow": 0.9,
             "att_rate": 0.9,
             "buff": [],
-            "debuff": [],
+            "debuff": [
+                "29"
+            ],
             "common": [],
             "soul_description": "sk_c1053_3s_de",
             "soul_requirement": 20,

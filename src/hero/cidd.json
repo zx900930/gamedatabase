@@ -480,7 +480,9 @@
             "soul_gain": 2,
             "pow": 1,
             "att_rate": 1.6,
-            "buff": [],
+            "buff": [
+                "3"
+            ],
             "debuff": [],
             "common": [
                 "35"

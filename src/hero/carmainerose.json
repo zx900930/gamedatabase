@@ -379,8 +379,12 @@
             "soul_gain": 2,
             "pow": 1.05,
             "att_rate": 1.5,
-            "buff": [],
-            "debuff": [],
+            "buff": [
+                "3"
+            ],
+            "debuff": [
+                "19"
+            ],
             "common": [],
             "enhanced_description": "sk_c3071_2u_de",
             "enhancements": [

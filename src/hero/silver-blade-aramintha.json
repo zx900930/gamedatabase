@@ -487,7 +487,8 @@
             "att_rate": 0.9,
             "buff": [],
             "debuff": [
-                "31"
+                "31",
+                "20"
             ],
             "common": [],
             "enhanced_description": "sk_c2048_3u_de",

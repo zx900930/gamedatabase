@@ -419,7 +419,9 @@
             "att_rate": 0,
             "buff": [],
             "debuff": [],
-            "common": [],
+            "common": [
+                "35"
+            ],
             "enhanced_description": "sk_c1024_2u_de",
             "enhancements": [
                 {

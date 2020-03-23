@@ -524,7 +524,9 @@
             "debuff": [
                 "24"
             ],
-            "common": [],
+            "common": [
+                "35"
+            ],
             "enhanced_description": "sk_c3063_3u_de",
             "enhancements": [
                 {

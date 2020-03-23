@@ -385,7 +385,9 @@
             "soul_gain": 1,
             "pow": 1,
             "att_rate": 0.8,
-            "buff": [],
+            "buff": [
+                "1"
+            ],
             "debuff": [],
             "common": [],
             "soul_description": "sk_c1080_2s_de",

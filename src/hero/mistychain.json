@@ -476,7 +476,9 @@
             "soul_gain": 3,
             "pow": 1,
             "att_rate": 1.5,
-            "buff": [],
+            "buff": [
+                "16"
+            ],
             "debuff": [],
             "common": [],
             "soul_description": "sk_c3072_3s_de",

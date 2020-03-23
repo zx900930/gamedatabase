@@ -520,7 +520,9 @@
             "soul_gain": 1,
             "pow": 1,
             "att_rate": 0,
-            "buff": [],
+            "buff": [
+                "1"
+            ],
             "debuff": [],
             "common": [],
             "enhanced_description": "sk_c3061_3u_de",

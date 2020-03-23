@@ -479,7 +479,8 @@
             "att_rate": 2.2,
             "buff": [],
             "debuff": [
-                "20"
+                "20",
+                "18"
             ],
             "common": [],
             "soul_description": "sk_c3024_3s_de",

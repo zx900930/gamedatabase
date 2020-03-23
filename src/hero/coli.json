@@ -485,7 +485,9 @@
             "buff": [
                 "15"
             ],
-            "debuff": [],
+            "debuff": [
+                "20"
+            ],
             "common": [],
             "soul_description": "sk_c1033_3s_de",
             "soul_requirement": 20,

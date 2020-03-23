@@ -405,10 +405,13 @@
             "pow": 1,
             "att_rate": 0,
             "buff": [
-                "c2017_r"
+                "c2017_r",
+                "14"
             ],
             "debuff": [],
-            "common": [],
+            "common": [
+                "35"
+            ],
             "soul_description": "sk_c2017_2s_de",
             "soul_requirement": 20,
             "enhanced_description": "sk_c2017_2u_de2",

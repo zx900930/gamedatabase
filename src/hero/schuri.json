@@ -485,7 +485,9 @@
             "att_rate": 1,
             "buff": [],
             "debuff": [],
-            "common": [],
+            "common": [
+                "35"
+            ],
             "soul_description": "sk_c1020_3s_de",
             "soul_requirement": 20,
             "enhanced_description": "sk_c1020_3u_de",

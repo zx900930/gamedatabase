@@ -476,7 +476,9 @@
             "debuff": [
                 "28"
             ],
-            "common": [],
+            "common": [
+                "35"
+            ],
             "soul_description": "sk_c2031_3s_de",
             "soul_requirement": 20,
             "enhancements": [

@@ -419,9 +419,12 @@
             "soul_gain": 2,
             "pow": 0.9,
             "att_rate": 0.3,
-            "buff": [],
+            "buff": [
+                "2"
+            ],
             "debuff": [
-                "22"
+                "22",
+                "24"
             ],
             "common": [],
             "enhanced_description": "sk_c1008_2u_de",

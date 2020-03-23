@@ -547,7 +547,9 @@
                 "43"
             ],
             "debuff": [],
-            "common": [],
+            "common": [
+                "35"
+            ],
             "enhanced_description": "sk_c1067_3u_de",
             "enhancements": [
                 {

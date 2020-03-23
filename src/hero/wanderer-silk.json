@@ -389,7 +389,9 @@
             "att_rate": 1,
             "buff": [],
             "debuff": [],
-            "common": [],
+            "common": [
+                "35"
+            ],
             "soul_description": "sk_c2004_2s_de",
             "soul_requirement": 20,
             "enhancements": [
@@ -485,7 +487,8 @@
             "att_rate": 1.8,
             "buff": [],
             "debuff": [
-                "28"
+                "28",
+                "27"
             ],
             "common": [],
             "enhanced_description": "sk_c2004_3u_de",

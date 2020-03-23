@@ -478,7 +478,8 @@
             "pow": 1,
             "att_rate": 0,
             "buff": [
-                "5"
+                "5",
+                "12"
             ],
             "debuff": [],
             "common": [],

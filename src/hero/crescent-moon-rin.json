@@ -485,7 +485,9 @@
                 "12"
             ],
             "debuff": [],
-            "common": [],
+            "common": [
+                "35"
+            ],
             "enhanced_description": "sk_c2054_3u_de",
             "enhancements": [
                 {

@@ -387,7 +387,9 @@
             "att_rate": 1.5,
             "buff": [],
             "debuff": [
-                "32"
+                "32",
+                "27",
+                "23"
             ],
             "common": [],
             "soul_description": "sk_c1039_2s_de",

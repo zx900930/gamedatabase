@@ -483,7 +483,9 @@
             "soul_gain": 2,
             "pow": 0,
             "att_rate": 0,
-            "buff": [],
+            "buff": [
+                "12"
+            ],
             "debuff": [],
             "common": [],
             "enhanced_description": "sk_c2053_3u_de",

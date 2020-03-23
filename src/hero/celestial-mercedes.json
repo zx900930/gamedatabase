@@ -480,7 +480,9 @@
             "soul_gain": 3,
             "pow": 0.8,
             "att_rate": 1.2,
-            "buff": [],
+            "buff": [
+                "1"
+            ],
             "debuff": [],
             "common": [],
             "enhanced_description": "sk_c2005_3u_de",

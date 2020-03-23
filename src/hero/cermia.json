@@ -415,7 +415,9 @@
             "soul_gain": 2,
             "pow": 1,
             "att_rate": 0,
-            "buff": [],
+            "buff": [
+                "44"
+            ],
             "debuff": [],
             "common": [
                 "35"

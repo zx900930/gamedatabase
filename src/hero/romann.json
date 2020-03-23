@@ -485,7 +485,9 @@
             "pow": 0.85,
             "att_rate": 0.9,
             "buff": [],
-            "debuff": [],
+            "debuff": [
+                "24"
+            ],
             "common": [],
             "enhanced_description": "sk_c1043_3u_de",
             "enhancements": [

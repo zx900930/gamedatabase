@@ -483,7 +483,9 @@
             "soul_gain": 2,
             "pow": 0.95,
             "att_rate": 1.8,
-            "buff": [],
+            "buff": [
+                "11"
+            ],
             "debuff": [],
             "common": [],
             "soul_description": "sk_c2018_3s_de",
