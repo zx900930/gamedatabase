@@ -13,11 +13,13 @@
     },
     "skills": [
         {
+            "skill": 1,
             "description": "ek_c103001_01_de",
             "skill_description": "ek_c103001_01sk_de",
             "values": []
         },
         {
+            "skill": 2,
             "description": "ek_c103001_02_de",
             "skill_description": "ek_c103001_02sk_de",
             "values": [
@@ -27,6 +29,7 @@
             ]
         },
         {
+            "skill": 3,
             "description": "ek_c103001_03_de",
             "skill_description": null,
             "values": []
