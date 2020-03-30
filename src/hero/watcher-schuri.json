@@ -492,6 +492,8 @@
             ],
             "soul_description": "sk_c2020_3s_de",
             "soul_requirement": 10,
+            "soul_pow": 0.95,
+            "soul_att_rate": 0.8,
             "enhanced_description": "sk_c2020_3u_de",
             "enhancements": [
                 {

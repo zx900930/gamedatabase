@@ -452,6 +452,8 @@
             "common": [],
             "soul_description": "sk_c3052_3s_de",
             "soul_requirement": 10,
+            "soul_pow": 0.95,
+            "soul_att_rate": 1.1,
             "enhancements": [
                 {
                     "string": "sklv_de_dmg5",

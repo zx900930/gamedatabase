@@ -487,6 +487,8 @@
             "common": [],
             "soul_description": "sk_c1071_3s_de",
             "soul_requirement": 10,
+            "soul_pow": 1,
+            "soul_att_rate": 1.2,
             "enhancements": [
                 {
                     "string": "sklv_de_dmg15",

@@ -471,6 +471,8 @@
             "common": [],
             "soul_description": "sk_c4001_3s_de",
             "soul_requirement": 10,
+            "soul_pow": 0.85,
+            "soul_att_rate": 2.2,
             "enhanced_description": "sk_c4001_3u_de",
             "enhancements": [
                 {

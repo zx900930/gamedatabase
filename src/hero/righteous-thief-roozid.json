@@ -481,6 +481,8 @@
             "common": [],
             "soul_description": "sk_c4013_3s_de",
             "soul_requirement": 20,
+            "soul_pow": 1,
+            "soul_att_rate": 0,
             "enhanced_description": "sk_c4013_3u_de",
             "enhancements": [
                 {

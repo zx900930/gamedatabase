@@ -459,6 +459,8 @@
             "common": [],
             "soul_description": "sk_c3053_3s_de",
             "soul_requirement": 10,
+            "soul_pow": 0.9,
+            "soul_att_rate": 0.9,
             "enhanced_description": "sk_c3053_3u_de",
             "enhancements": [
                 {

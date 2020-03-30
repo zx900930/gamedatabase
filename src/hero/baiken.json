@@ -497,6 +497,8 @@
             ],
             "soul_description": "sk_c1093_3s_de",
             "soul_requirement": 10,
+            "soul_pow": 1,
+            "soul_att_rate": 1.85,
             "enhancements": [
                 {
                     "string": "sklv_de_dmg5",

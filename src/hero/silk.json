@@ -298,6 +298,8 @@
             ],
             "soul_description": "sk_c1004_1s_de",
             "soul_requirement": 20,
+            "soul_pow": 0.9,
+            "soul_att_rate": 0.9,
             "enhancements": [
                 {
                     "string": "sklv_de_dmg5",

@@ -491,6 +491,8 @@
             "common": [],
             "soul_description": "sk_c1009_3s_de",
             "soul_requirement": 10,
+            "soul_pow": 0.9,
+            "soul_att_rate": 1.4,
             "enhanced_description": "sk_c1009_3u_de",
             "enhancements": [
                 {

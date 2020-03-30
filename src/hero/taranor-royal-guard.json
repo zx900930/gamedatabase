@@ -482,6 +482,8 @@
             "common": [],
             "soul_description": "sk_c3002_3s_de",
             "soul_requirement": 10,
+            "soul_pow": 0.95,
+            "soul_att_rate": 2.3,
             "enhanced_description": "sk_c3002_3u_de",
             "enhancements": [
                 {

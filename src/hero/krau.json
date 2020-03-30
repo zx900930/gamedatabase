@@ -539,6 +539,8 @@
             ],
             "soul_description": "sk_c1070_3s_de",
             "soul_requirement": 20,
+            "soul_pow": 1,
+            "soul_att_rate": 0.3,
             "enhanced_description": "sk_c1070_3u_de",
             "enhancements": [
                 {

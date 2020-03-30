@@ -467,6 +467,8 @@
             "common": [],
             "soul_description": "sk_c3065_3s_de",
             "soul_requirement": 20,
+            "soul_pow": 0.9,
+            "soul_att_rate": 1.8,
             "enhanced_description": "sk_c3065_3u_de",
             "enhancements": [
                 {

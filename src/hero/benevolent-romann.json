@@ -294,6 +294,8 @@
             "common": [],
             "soul_description": "sk_c2043_1s_de",
             "soul_requirement": 20,
+            "soul_pow": 0.9,
+            "soul_att_rate": 0.8,
             "enhancements": [
                 {
                     "string": "sklv_de_dmg5",

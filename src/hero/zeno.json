@@ -491,6 +491,8 @@
             "common": [],
             "soul_description": "sk_c1083_3s_de",
             "soul_requirement": 20,
+            "soul_pow": 1,
+            "soul_att_rate": 0.5,
             "enhanced_description": "sk_c1083_3u_de",
             "enhancements": [
                 {

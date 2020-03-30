@@ -394,6 +394,8 @@
             "common": [],
             "soul_description": "sk_c1002_2s_de",
             "soul_requirement": 10,
+            "soul_pow": 1,
+            "soul_att_rate": 0.4,
             "enhanced_description": "sk_c1002_2u_de",
             "enhancements": [
                 {

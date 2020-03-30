@@ -394,6 +394,8 @@
             ],
             "soul_description": "sk_c2004_2s_de",
             "soul_requirement": 20,
+            "soul_pow": 0.9,
+            "soul_att_rate": 1,
             "enhancements": [
                 {
                     "string": "sklv_de_dmg5",

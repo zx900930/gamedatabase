@@ -490,6 +490,8 @@
             ],
             "soul_description": "sk_c1020_3s_de",
             "soul_requirement": 20,
+            "soul_pow": 1,
+            "soul_att_rate": 1,
             "enhanced_description": "sk_c1020_3u_de",
             "enhancements": [
                 {

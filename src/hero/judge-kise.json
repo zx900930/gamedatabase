@@ -377,6 +377,8 @@
             "common": [],
             "soul_description": "sk_c2006_2s_de",
             "soul_requirement": 20,
+            "soul_pow": 1,
+            "soul_att_rate": 1,
             "enhancements": [
                 {
                     "string": "sklv_de_dmg5",

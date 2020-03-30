@@ -391,6 +391,8 @@
             "common": [],
             "soul_description": "sk_c1037_2s_de",
             "soul_requirement": 20,
+            "soul_pow": 1,
+            "soul_att_rate": 0,
             "enhancements": [
                 {
                     "string": "sklv_shield_5",

@@ -482,6 +482,8 @@
             ],
             "soul_description": "sk_c3074_3s_de",
             "soul_requirement": 20,
+            "soul_pow": 1,
+            "soul_att_rate": 0.95,
             "enhancements": [
                 {
                     "string": "sklv_de_dmg5",

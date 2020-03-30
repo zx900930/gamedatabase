@@ -493,6 +493,8 @@
             "common": [],
             "soul_description": "sk_c1053_3s_de",
             "soul_requirement": 20,
+            "soul_pow": 0.9,
+            "soul_att_rate": 0.9,
             "enhanced_description": "sk_c1053_3u_de",
             "enhancements": [
                 {

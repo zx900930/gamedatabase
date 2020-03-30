@@ -292,6 +292,8 @@
             "common": [],
             "soul_description": "sk_c1019_1s_de",
             "soul_requirement": 20,
+            "soul_pow": 0.95,
+            "soul_att_rate": 1.8,
             "enhancements": [
                 {
                     "string": "sklv_de_dmg5",

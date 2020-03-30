@@ -365,6 +365,8 @@
             ],
             "soul_description": "sk_c3025_2s_de",
             "soul_requirement": 10,
+            "soul_pow": 0.95,
+            "soul_att_rate": 1,
             "enhanced_description": "sk_c3025_2u_de",
             "enhancements": [
                 {

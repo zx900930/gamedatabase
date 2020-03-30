@@ -395,6 +395,8 @@
             ],
             "soul_description": "sk_c1065_2s_de",
             "soul_requirement": 20,
+            "soul_pow": 1,
+            "soul_att_rate": 1.4,
             "enhanced_description": "sk_c1065_2u_de",
             "enhancements": [
                 {

@@ -481,6 +481,8 @@
             "common": [],
             "soul_description": "sk_c2047_3s_de",
             "soul_requirement": 10,
+            "soul_pow": 1,
+            "soul_att_rate": 1.1,
             "enhanced_description": "sk_c2047_3u_de",
             "enhancements": [
                 {
