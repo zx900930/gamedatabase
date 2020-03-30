@@ -16,6 +16,69 @@
         "fai": 85,
         "des": 74
     },
+    "relationships": [
+        {
+            "name": "re_c1002_1_tl",
+            "description": "re_c1002_1_de",
+            "relations": [
+                {
+                    "id": "c3061",
+                    "slot": 1,
+                    "description": "chre_c1002_1_rt",
+                    "relation": "re_trust_tx",
+                    "upgrade": {}
+                },
+                {
+                    "id": "c1003",
+                    "slot": 2,
+                    "description": "chre_c1002_4_rt",
+                    "relation": "re_trust_tx",
+                    "upgrade": {}
+                },
+                {
+                    "id": "c1066",
+                    "slot": 3,
+                    "description": "chre_c1002_5_rt",
+                    "relation": "re_grudge_tx",
+                    "upgrade": {}
+                },
+                {
+                    "id": "c1016",
+                    "slot": 4,
+                    "description": "chre_c1002_6_rt",
+                    "relation": "re_trust_tx",
+                    "upgrade": {}
+                }
+            ]
+        },
+        {
+            "name": "re_c1002_2_tl",
+            "description": "re_c1002_2_de",
+            "relations": [
+                {
+                    "id": "c1030",
+                    "slot": 1,
+                    "description": "chre_c1002_2_rt",
+                    "relation": "re_trust_tx",
+                    "upgrade": {}
+                },
+                {
+                    "id": "c1040",
+                    "slot": 2,
+                    "description": "chre_c1002_3_rt",
+                    "relation": "re_trust_tx",
+                    "upgrade": {}
+                },
+                {
+                    "id": "c1009",
+                    "slot": 3,
+                    "description": "chre_c1002_7_rt",
+                    "relation": "re_trust_tx",
+                    "upgrade": {}
+                }
+            ]
+        }
+    ],
     "self_devotion": {
         "type": "max_hp_rate",
         "grades": {

@@ -16,6 +16,28 @@
         "fai": 35,
         "des": 86
     },
+    "relationships": [
+        {
+            "name": null,
+            "description": null,
+            "relations": [
+                {
+                    "id": "c1038",
+                    "slot": 1,
+                    "description": "chre_c2038_1_rt",
+                    "relation": "re_rival_tx",
+                    "upgrade": {}
+                },
+                {
+                    "id": "c1071",
+                    "slot": 2,
+                    "description": "chre_c2038_2_rt",
+                    "relation": "re_grudge_tx",
+                    "upgrade": {}
+                }
+            ]
+        }
+    ],
     "self_devotion": {
         "type": "att_rate",
         "grades": {

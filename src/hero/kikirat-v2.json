@@ -16,6 +16,7 @@
         "fai": 86,
         "des": 48
     },
+    "relationships": [],
     "self_devotion": {
         "type": "def",
         "grades": {

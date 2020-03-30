@@ -16,6 +16,28 @@
         "fai": 59,
         "des": 75
     },
+    "relationships": [
+        {
+            "name": null,
+            "description": null,
+            "relations": [
+                {
+                    "id": "c2013",
+                    "slot": 1,
+                    "description": "chre_c2020_1_rt",
+                    "relation": "re_trust_tx",
+                    "upgrade": {}
+                },
+                {
+                    "id": "c2014",
+                    "slot": 2,
+                    "description": "chre_c2020_2_rt",
+                    "relation": "re_trust_tx",
+                    "upgrade": {}
+                }
+            ]
+        }
+    ],
     "self_devotion": {
         "type": "cri",
         "grades": {

@@ -16,6 +16,21 @@
         "fai": 74,
         "des": 67
     },
+    "relationships": [
+        {
+            "name": null,
+            "description": null,
+            "relations": [
+                {
+                    "id": "c1002",
+                    "slot": 1,
+                    "description": "chre_c2003_1_rt",
+                    "relation": "re_grudge_tx",
+                    "upgrade": {}
+                }
+            ]
+        }
+    ],
     "self_devotion": {
         "type": "acc",
         "grades": {

@@ -16,6 +16,56 @@
         "fai": 86,
         "des": 68
     },
+    "relationships": [
+        {
+            "name": null,
+            "description": null,
+            "relations": [
+                {
+                    "id": "c1030",
+                    "slot": 1,
+                    "description": "chre_c1067_1_rt",
+                    "relation": "re_trust_tx",
+                    "upgrade": {}
+                },
+                {
+                    "id": "c2031",
+                    "slot": 2,
+                    "description": "chre_c1067_2_rt",
+                    "relation": "re_trust_tx",
+                    "upgrade": {}
+                },
+                {
+                    "id": "npc1011",
+                    "slot": 3,
+                    "description": "chre_c1067_3_rt",
+                    "relation": "re_trust_tx",
+                    "upgrade": {}
+                },
+                {
+                    "id": "c3051",
+                    "slot": 4,
+                    "description": "chre_c1067_4_rt",
+                    "relation": "re_trust_tx",
+                    "upgrade": {}
+                },
+                {
+                    "id": "npc1015",
+                    "slot": 5,
+                    "description": "chre_c1067_5_rt",
+                    "relation": "re_trust_tx",
+                    "upgrade": {}
+                },
+                {
+                    "id": "c1011",
+                    "slot": 6,
+                    "description": "chre_c1067_6_rt",
+                    "relation": "re_longing_tx",
+                    "upgrade": {}
+                }
+            ]
+        }
+    ],
     "self_devotion": {
         "type": "max_hp_rate",
         "grades": {

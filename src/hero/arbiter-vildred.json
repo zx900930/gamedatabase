@@ -16,6 +16,82 @@
         "fai": 49,
         "des": 90
     },
+    "relationships": [
+        {
+            "name": null,
+            "description": null,
+            "relations": [
+                {
+                    "id": "c2050",
+                    "slot": 1,
+                    "description": "chre_c2007_1_rt",
+                    "relation": "re_trust_tx",
+                    "upgrade": {
+                        "id": "c1050",
+                        "slot": 1,
+                        "description": "chre_c2007_1_rt",
+                        "relation": "re_trust_tx"
+                    }
+                },
+                {
+                    "id": "c1050",
+                    "slot": 1,
+                    "description": "chre_c2007_1_rt",
+                    "relation": "re_trust_tx",
+                    "upgrade": {}
+                },
+                {
+                    "id": "m9191",
+                    "slot": 2,
+                    "description": "chre_c2007_2_rt",
+                    "relation": "re_trust_tx",
+                    "upgrade": {}
+                },
+                {
+                    "id": "c1001",
+                    "slot": 3,
+                    "description": "chre_c2007_3_rt",
+                    "relation": "re_grudge_tx",
+                    "upgrade": {}
+                },
+                {
+                    "id": "c1070",
+                    "slot": 4,
+                    "description": "chre_c2007_4_rt",
+                    "relation": "re_grudge_tx",
+                    "upgrade": {}
+                },
+                {
+                    "id": "c1024",
+                    "slot": 5,
+                    "description": "chre_c2007_5_rt",
+                    "relation": "re_grudge_tx",
+                    "upgrade": {}
+                },
+                {
+                    "id": "c1005",
+                    "slot": 6,
+                    "description": "chre_c2007_6_rt",
+                    "relation": "re_grudge_tx",
+                    "upgrade": {}
+                },
+                {
+                    "id": "c1069",
+                    "slot": 7,
+                    "description": "chre_c2007_7_rt",
+                    "relation": "re_grudge_tx",
+                    "upgrade": {}
+                },
+                {
+                    "id": "c1030",
+                    "slot": 8,
+                    "description": "chre_c2007_8_rt",
+                    "relation": "re_grudge_tx",
+                    "upgrade": {}
+                }
+            ]
+        }
+    ],
     "self_devotion": {
         "type": "att_rate",
         "grades": {

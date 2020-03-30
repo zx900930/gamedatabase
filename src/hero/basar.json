@@ -16,6 +16,35 @@
         "fai": 104,
         "des": 78
     },
+    "relationships": [
+        {
+            "name": null,
+            "description": null,
+            "relations": [
+                {
+                    "id": "c1054",
+                    "slot": 1,
+                    "description": "chre_c1053_1_rt",
+                    "relation": "re_trust_tx",
+                    "upgrade": {}
+                },
+                {
+                    "id": "c1004",
+                    "slot": 2,
+                    "description": "chre_c1053_2_rt",
+                    "relation": "re_trust_tx",
+                    "upgrade": {}
+                },
+                {
+                    "id": "c1013",
+                    "slot": 3,
+                    "description": "chre_c1053_3_rt",
+                    "relation": "re_trust_tx",
+                    "upgrade": {}
+                }
+            ]
+        }
+    ],
     "self_devotion": {
         "type": "acc",
         "grades": {

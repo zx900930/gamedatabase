@@ -16,6 +16,124 @@
         "fai": 76,
         "des": 57
     },
+    "relationships": [
+        {
+            "name": "re_c1001_1_tl",
+            "description": "re_c1001_1_de",
+            "relations": [
+                {
+                    "id": "c2006",
+                    "slot": 1,
+                    "description": "chre_c1001_1_rt",
+                    "relation": "re_trust_tx",
+                    "upgrade": {}
+                },
+                {
+                    "id": "c1022",
+                    "slot": 2,
+                    "description": "chre_c1001_8_rt",
+                    "relation": "re_trust_tx",
+                    "upgrade": {}
+                },
+                {
+                    "id": "c1007",
+                    "slot": 3,
+                    "description": "chre_c1001_9_rt",
+                    "relation": "re_trust_tx",
+                    "upgrade": {}
+                }
+            ]
+        },
+        {
+            "name": "re_c1001_2_tl",
+            "description": "re_c1001_2_de",
+            "relations": [
+                {
+                    "id": "c1024",
+                    "slot": 2,
+                    "description": "chre_c1001_3_rt",
+                    "relation": "re_trust_tx",
+                    "upgrade": {}
+                },
+                {
+                    "id": "c1070",
+                    "slot": 3,
+                    "description": "chre_c1001_4_rt",
+                    "relation": "re_trust_tx",
+                    "upgrade": {}
+                },
+                {
+                    "id": "c1018",
+                    "slot": 4,
+                    "description": "chre_c1001_5_rt",
+                    "relation": "re_trust_tx",
+                    "upgrade": {}
+                },
+                {
+                    "id": "c1030",
+                    "slot": 5,
+                    "description": "chre_c1001_6_rt",
+                    "relation": "re_trust_tx",
+                    "upgrade": {}
+                },
+                {
+                    "id": "c1069",
+                    "slot": 6,
+                    "description": "chre_c1001_7_rt",
+                    "relation": "re_trust_tx",
+                    "upgrade": {}
+                },
+                {
+                    "id": "c2007",
+                    "slot": 7,
+                    "description": "chre_c1001_10_rt",
+                    "relation": "re_grudge_tx",
+                    "upgrade": {}
+                },
+                {
+                    "id": "c1013",
+                    "slot": 8,
+                    "description": "chre_c1001_11_rt",
+                    "relation": "re_trust_tx",
+                    "upgrade": {}
+                },
+                {
+                    "id": "c2022",
+                    "slot": 9,
+                    "description": "chre_c1001_12_rt",
+                    "relation": "re_trust_tx",
+                    "upgrade": {}
+                }
+            ]
+        },
+        {
+            "name": "re_c1001_3_tl",
+            "description": "re_c1001_3_de",
+            "relations": [
+                {
+                    "id": "c1082",
+                    "slot": 1,
+                    "description": "chre_c1001_13_rt",
+                    "relation": "re_trust_tx",
+                    "upgrade": {}
+                },
+                {
+                    "id": "c1074",
+                    "slot": 2,
+                    "description": "chre_c1001_14_rt",
+                    "relation": "re_trust_tx",
+                    "upgrade": {}
+                },
+                {
+                    "id": "c1034",
+                    "slot": 3,
+                    "description": "chre_c1001_15_rt",
+                    "relation": "re_grudge_tx",
+                    "upgrade": {}
+                }
+            ]
+        }
+    ],
     "self_devotion": {
         "type": "max_hp",
         "grades": {

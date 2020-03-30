@@ -16,6 +16,68 @@
         "fai": 81,
         "des": 52
     },
+    "relationships": [
+        {
+            "name": null,
+            "description": null,
+            "relations": [
+                {
+                    "id": "c1001",
+                    "slot": 1,
+                    "description": "chre_c1018_1_rt",
+                    "relation": "re_longing_tx",
+                    "upgrade": {}
+                },
+                {
+                    "id": "c1007",
+                    "slot": 2,
+                    "description": "chre_c1018_3_rt",
+                    "relation": "re_longing_tx",
+                    "upgrade": {
+                        "id": "c2007",
+                        "slot": 2,
+                        "description": "chre_c1018_2_rt",
+                        "relation": "re_grudge_tx"
+                    }
+                },
+                {
+                    "id": "c2007",
+                    "slot": 2,
+                    "description": "chre_c1018_2_rt",
+                    "relation": "re_grudge_tx",
+                    "upgrade": {}
+                },
+                {
+                    "id": "c1062",
+                    "slot": 3,
+                    "description": "chre_c1018_4_rt",
+                    "relation": "re_longing_tx",
+                    "upgrade": {}
+                },
+                {
+                    "id": "c1049",
+                    "slot": 4,
+                    "description": "chre_c1018_5_rt",
+                    "relation": "re_trust_tx",
+                    "upgrade": {}
+                },
+                {
+                    "id": "c1024",
+                    "slot": 5,
+                    "description": "chre_c1018_6_rt",
+                    "relation": "re_trust_tx",
+                    "upgrade": {}
+                },
+                {
+                    "id": "c1005",
+                    "slot": 6,
+                    "description": "chre_c1018_7_rt",
+                    "relation": "re_trust_tx",
+                    "upgrade": {}
+                }
+            ]
+        }
+    ],
     "self_devotion": {
         "type": "att",
         "grades": {

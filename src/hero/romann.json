@@ -16,6 +16,62 @@
         "fai": 87,
         "des": 72
     },
+    "relationships": [
+        {
+            "name": "re_c1043_1_tl",
+            "description": "re_c1043_1_de",
+            "relations": [
+                {
+                    "id": "c1042",
+                    "slot": 1,
+                    "description": "chre_c1043_1_rt",
+                    "relation": "re_trust_tx",
+                    "upgrade": {}
+                },
+                {
+                    "id": "npc1057",
+                    "slot": 2,
+                    "description": "chre_c1043_3_rt",
+                    "relation": "re_trust_tx",
+                    "upgrade": {}
+                },
+                {
+                    "id": "c1049",
+                    "slot": 3,
+                    "description": "chre_c1043_4_rt",
+                    "relation": "re_grudge_tx",
+                    "upgrade": {}
+                }
+            ]
+        },
+        {
+            "name": "re_c1043_2_tl",
+            "description": "re_c1043_2_de",
+            "relations": [
+                {
+                    "id": "c1008",
+                    "slot": 1,
+                    "description": "chre_c1043_2_rt",
+                    "relation": "re_trust_tx",
+                    "upgrade": {}
+                },
+                {
+                    "id": "c1002",
+                    "slot": 2,
+                    "description": "chre_c1043_5_rt",
+                    "relation": "re_trust_tx",
+                    "upgrade": {}
+                },
+                {
+                    "id": "c1027",
+                    "slot": 3,
+                    "description": "chre_c1043_6_rt",
+                    "relation": "re_trust_tx",
+                    "upgrade": {}
+                }
+            ]
+        }
+    ],
     "self_devotion": {
         "type": "acc",
         "grades": {

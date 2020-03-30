@@ -16,6 +16,80 @@
         "fai": 53,
         "des": 97
     },
+    "relationships": [
+        {
+            "name": null,
+            "description": null,
+            "relations": [
+                {
+                    "id": "c1082",
+                    "slot": 1,
+                    "description": "chre_c1080_1_rt",
+                    "relation": "re_rival_tx",
+                    "upgrade": {
+                        "id": "c1082",
+                        "slot": 1,
+                        "description": "chre_c1080_1_1_rt",
+                        "relation": "re_trust_tx"
+                    }
+                },
+                {
+                    "id": "c1034",
+                    "slot": 2,
+                    "description": "chre_c1080_2_rt",
+                    "relation": "re_grudge_tx",
+                    "upgrade": {}
+                },
+                {
+                    "id": "c1001",
+                    "slot": 3,
+                    "description": "chre_c1080_3_rt",
+                    "relation": "re_trust_tx",
+                    "upgrade": {}
+                },
+                {
+                    "id": "c1089",
+                    "slot": 4,
+                    "description": "chre_c1080_4_rt",
+                    "relation": "re_longing_tx",
+                    "upgrade": {
+                        "id": "c1089",
+                        "slot": 4,
+                        "description": "chre_c1080_4_1_rt",
+                        "relation": "re_grudge_tx"
+                    }
+                },
+                {
+                    "id": "c1081",
+                    "slot": 5,
+                    "description": "chre_c1080_5_rt",
+                    "relation": "re_trust_tx",
+                    "upgrade": {}
+                },
+                {
+                    "id": "c1074",
+                    "slot": 6,
+                    "description": "chre_c1080_6_rt",
+                    "relation": "re_trust_tx",
+                    "upgrade": {}
+                },
+                {
+                    "id": "c1082",
+                    "slot": 1,
+                    "description": "chre_c1080_1_1_rt",
+                    "relation": "re_trust_tx",
+                    "upgrade": {}
+                },
+                {
+                    "id": "c1089",
+                    "slot": 4,
+                    "description": "chre_c1080_4_1_rt",
+                    "relation": "re_grudge_tx",
+                    "upgrade": {}
+                }
+            ]
+        }
+    ],
     "self_devotion": {
         "type": "att_rate",
         "grades": {

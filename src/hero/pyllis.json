@@ -16,6 +16,69 @@
         "fai": 84,
         "des": 51
     },
+    "relationships": [
+        {
+            "name": "re_c3005_1_tl",
+            "description": "re_c3005_1_de",
+            "relations": [
+                {
+                    "id": "c1019",
+                    "slot": 1,
+                    "description": "chre_c3005_1_rt",
+                    "relation": "re_trust_tx",
+                    "upgrade": {}
+                },
+                {
+                    "id": "c1001",
+                    "slot": 2,
+                    "description": "chre_c3005_2_rt",
+                    "relation": "re_grudge_tx",
+                    "upgrade": {}
+                },
+                {
+                    "id": "m9191",
+                    "slot": 3,
+                    "description": "chre_c3005_3_rt",
+                    "relation": "re_trust_tx",
+                    "upgrade": {}
+                },
+                {
+                    "id": "c1050",
+                    "slot": 4,
+                    "description": "chre_c3005_4_rt",
+                    "relation": "re_trust_tx",
+                    "upgrade": {}
+                }
+            ]
+        },
+        {
+            "name": "re_c3005_2_tl",
+            "description": "re_c3005_2_de",
+            "relations": [
+                {
+                    "id": "c1039",
+                    "slot": 1,
+                    "description": "chre_c3005_5_rt",
+                    "relation": "re_trust_tx",
+                    "upgrade": {}
+                },
+                {
+                    "id": "c2033",
+                    "slot": 2,
+                    "description": "chre_c3005_6_rt",
+                    "relation": "re_trust_tx",
+                    "upgrade": {}
+                },
+                {
+                    "id": "c2014",
+                    "slot": 3,
+                    "description": "chre_c3005_7_rt",
+                    "relation": "re_trust_tx",
+                    "upgrade": {}
+                }
+            ]
+        }
+    ],
     "self_devotion": {
         "type": "def",
         "grades": {
